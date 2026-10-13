@@ -145,11 +145,13 @@ reference file.
   taxable distribution received as a resident, or assuming every federal
   exception applies in California.
 - **How to verify:** For each taxable distribution received as a
-  resident before age 59½, read 1099-R Box 7. Codes 2, 3 or 4 show an
-  exception; any other code, or a missing or wrong code, needs FTB 3805P.
-  The result is entered as the filer-supplied `other_tax.line73`. A
-  distribution received while a nonresident has no California additional
-  tax. Exceptions that need facts beyond the code are unverified.
+  resident before age 59½, read 1099-R Box 7. FTB 3805P is needed for a
+  code other than 2, 3 or 4, for an exception code that is wrong when tax
+  is owed, and when an exception applies but code 2, 3 or 4 is missing or
+  incorrect. The result is entered as the filer-supplied `other_tax.line73`.
+  A distribution received while a nonresident has no California additional
+  tax. The FTB 3805P exception list is by exception number, not Box 7
+  code, so a code-to-exception mapping is unverified.
 - **Citation:** *(Source: ca-retirement-distributions.md, Additional Tax
   on Early Distributions)*
 

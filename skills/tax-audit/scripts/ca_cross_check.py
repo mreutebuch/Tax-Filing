@@ -49,6 +49,14 @@ UNVERIFIED = [
     "Credits other than exemption credits are filer-supplied "
     "(I cannot verify this from provided FTB materials — check ftb.ca.gov)",
     "Alternative minimum tax (Schedule P (540NR)) is not computed; verify Boxes A-C in the 540NR booklet",
+    "Credit limits (tentative minimum tax) and the Credit Chart are not applied; line 62 is filer-supplied "
+    "(I cannot verify this from provided FTB materials — check ftb.ca.gov)",
+    "Mapping of 1099-R Box 7 codes to California early-distribution exceptions (FTB 3805P Line 2 uses "
+    "exception numbers) (I cannot verify this from provided FTB materials — check ftb.ca.gov)",
+    "California treatment of OBBBA federal items with no stated Schedule CA (540NR) line, such as "
+    "Schedule 1-A deductions (I cannot verify this from provided FTB materials — check ftb.ca.gov)",
+    "Daily pro-rata allocation of a direct rental and expenses paid before a property was available "
+    "for rent (I cannot verify this from provided FTB materials — check ftb.ca.gov)",
 ]
 
 
@@ -128,13 +136,16 @@ def recompute(inp):
     l72 = whole(max(l35 - 1000000, D(0)) * D("0.01"))
     l74 = l63 + whole(num(ot.get("line71"))) + l72 + whole(num(ot.get("line73")))
     pay = inp.get("payments") or {}
+    l91 = whole(num(pay.get("line91")))
     l88 = sum((whole(num(pay.get(k))) for k in ("line81", "line82", "line83", "other")), D(0))
     return {
         "line13": agi, "line14": l14, "line16": l16, "line17": l17, "line19": l19,
         "line31": l31, "line35": l35, "line36": l36, "line37": l37,
         "line38": l38, "line39": l39, "line40": l40, "line63": l63, "line72": l72,
         "line74": l74, "line88": l88,
-        "line101_overpaid": max(l88 - l74, D(0)), "line104_tax_due": max(l74 - l88, D(0)),
+        "line92": max(l88 - l91, D(0)), "line93": max(l91 - l88, D(0)),
+        "line101_overpaid": max(max(l88 - l91, D(0)) - l74, D(0)),
+        "line104_tax_due": max(l74 - max(l88 - l91, D(0)), D(0)),
     }
 
 

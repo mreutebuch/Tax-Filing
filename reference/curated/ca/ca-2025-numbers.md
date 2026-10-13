@@ -73,10 +73,10 @@
 
 ### Standard Deduction
 - Single or Married/RDP filing separately: $5,706. Married/RDP filing jointly, Head of household, Qualifying surviving spouse/RDP: $11,412. [2025 Form 540NR Booklet, Line 18]
-- If someone can claim you as a dependent, use the Standard Deduction Worksheet for Dependents (minimum $1,350). [2025 Form 540NR Booklet, Line 18]
+- If someone can claim you as a dependent, use the California Standard Deduction Worksheet for Dependents (minimum $1,350). [2025 Form 540NR Booklet, Line 18]
 
 ### Exemption Credits (Form 540NR lines 7-10)
-- Personal: $153 per box (1 for Single, MFS, HoH; 2 for MFJ and Qualifying surviving spouse/RDP). Blind: $153 each. Senior (65 or older by December 31, 2025): $153 each. Dependent: $475 each. [2025 Form 540NR Booklet, Form 540NR lines 7-10]
+- Personal: $153 per box (1 for Single, MFS, HoH; 2 for MFJ and Qualifying surviving spouse/RDP). Blind: $153 each. Senior (65 or older by December 31, 2025; a January 1, 2026 birthday counts as 65 on December 31, 2025): $153 each. Do not claim the senior credit if someone else can claim you as a dependent. Dependent: $475 each. [2025 Form 540NR Booklet, Form 540NR lines 7-10]
 - Line 11 exemption amount is the sum of lines 7 through 10. [2025 Form 540NR Booklet, Line 11]
 
 ### Exemption Credit Phase-Out (Form 540NR line 39)
@@ -84,7 +84,8 @@
 - Worksheet: excess = line 13 minus threshold; d = excess divided by $2,500 ($1,250 if MFS), rounded up to the next whole number; e = d x $6; credits for lines 7, 8, 9 are reduced by e per box (not below zero); credits for line 10 are reduced by e per dependent (not below zero); the sum is then multiplied by the line 38 percentage. [2025 Form 540NR Booklet, Line 39 AGI Limitation Worksheet]
 
 ### Alternative Minimum Tax
-- Alternative minimum tax is not computed by this plugin. Schedule P (540NR) is needed when the Box A, B or C tests in the booklet apply. Box C thresholds for line 17 are $347,808 (Single, HoH), $463,745 (MFJ, Qualifying surviving spouse/RDP), $231,868 (MFS). [2025 Form 540NR Booklet, Line 50 Boxes A-C]
+- Alternative minimum tax (line 71) is not computed by this plugin. You may owe AMT if total income is more than $123,667 (MFJ, Qualifying surviving spouse/RDP), $92,749 (Single, HoH) or $61,830 (MFS). [2025 Form 540NR Booklet, Line 71]
+- Schedule P (540NR) is also needed when the Box A, B or C tests in the booklet apply; they test whether credits are limited by tentative minimum tax. Box C thresholds for line 17 are $347,808 (Single, HoH), $463,745 (MFJ, Qualifying surviving spouse/RDP), $231,868 (MFS). [2025 Form 540NR Booklet, Special Credits, Boxes A-C]
 
 ### Behavioral Health Services Tax (line 72)
 - If California taxable income (line 35) is more than $1,000,000, the tax is 1% of (line 35 minus $1,000,000), in whole dollars. [2025 Form 540NR Booklet, Line 72]

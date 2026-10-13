@@ -19,7 +19,10 @@ Input keys (all amounts in dollars):
                        line73 holds the FTB 3805P additional tax (2.5% of an early
                        taxable distribution received as a resident), figured on the
                        form and entered here: ca-retirement-distributions.md
-    payments           {"line81": x, "line82": x, "line83": x, "other": x}
+    payments           {"line81": x, "line82": x, "line83": x, "other": x, "line91": x}
+                       line91 is the Individual Shared Responsibility penalty from
+                       FTB 3853 (0 when the line 91 coverage box is checked);
+                       ca-form-540nr-line-by-line.md, Payments
     scenarios          Optional list of {"label": str, "rows": {row_id: {field: value}}}
                        to show the dollar effect of a judgment call.
 
@@ -246,8 +249,11 @@ def _calculate(data, status):
     pay = data.get("payments") or {}
     line81, line82, line83 = (dollars(d(pay.get(k))) for k in ("line81", "line82", "line83"))
     line88 = line81 + line82 + line83 + dollars(d(pay.get("other")))
-    overpaid = max(line88 - line74, ZERO)
-    due = max(line74 - line88, ZERO)
+    line91 = dollars(d(pay.get("line91")))
+    line92 = max(line88 - line91, ZERO)
+    line93 = max(line91 - line88, ZERO)
+    overpaid = max(line92 - line74, ZERO)
+    due = max(line74 - line92, ZERO)
 
     result = {
         "filing_status": status,
@@ -269,6 +275,7 @@ def _calculate(data, status):
             "line63": str(line63), "line71": str(line71), "line72": str(line72),
             "line73": str(line73), "line74": str(line74), "line81": str(line81),
             "line82": str(line82), "line83": str(line83), "line88": str(line88),
+            "line91": str(line91), "line92": str(line92), "line93": str(line93),
             "line101_overpaid": str(overpaid), "line104_tax_due": str(due),
         },
         "tax_method": "Tax Table" if line19 <= TAX_TABLE_LIMIT else "Tax Rate Schedule " + p["schedule"],

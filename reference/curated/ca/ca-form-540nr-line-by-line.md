@@ -13,7 +13,7 @@
 ## Rules
 
 ### Exemptions (lines 6-11)
-- Line 7 personal x $153 (1 box for Single/MFS/HoH, 2 for MFJ); line 8 blind x $153; line 9 senior x $153; line 10 dependents x $475; line 11 is their sum. If line 6 (someone can claim you) is checked, line 7 follows the booklet table. [2025 Form 540NR Booklet, Lines 6-11]
+- Line 7 personal x $153 (1 box for Single/MFS/HoH, 2 for MFJ and Qualifying surviving spouse/RDP); line 8 blind x $153; line 9 senior x $153; line 10 dependents x $475; line 11 is their sum. If line 6 (someone can claim you) is checked, line 7 follows the booklet table. [2025 Form 540NR Booklet, Lines 6-11]
 - Numbers: see ca-2025-numbers.md.
 
 ### Total Taxable Income (lines 12-19)
@@ -38,8 +38,10 @@
 
 ### Payments, Refund, Balance Due (lines 81-104)
 - Line 81 California income tax withheld, line 82 estimated tax and other payments, line 83 Form 592-B/593 withholding; line 88 total payments is line 81 through line 87. [2025 Form 540NR Booklet, Lines 81-88]
-- Overpaid tax (line 101) is line 92 minus line 74 when positive; tax due (line 104) is line 74 minus line 92 when positive. [2025 Form 540NR Booklet, Lines 101 and 104]
-- Use tax (line 91 of Form 540; not on Form 540NR's payment block) and voluntary contributions are not computed here: I cannot verify this from provided FTB materials — check ftb.ca.gov.
+- Line 91 is the Individual Shared Responsibility (ISR) Penalty: check the box if you, your spouse/RDP and anyone you claim as a dependent had minimum essential coverage for all of 2025 (then no penalty is owed and FTB 3853 is not needed); otherwise see the instructions and FTB 3853. Line 92 is line 88 minus line 91 when line 88 is larger; line 93 is line 91 minus line 88 when line 91 is larger. [2025 Form 540NR Booklet, Line 91; Form 540NR lines 91-93]
+- Overpaid tax (line 101) is line 92 minus line 74 when positive; tax due (line 104) is line 74 minus line 92 when positive. [2025 Form 540NR Booklet, Form 540NR lines 101 and 104]
+- Use tax is reported and paid to the California Department of Tax and Fee Administration (cdtfa.ca.gov), not on Form 540NR. [2025 Form 540NR Booklet, Use Tax]
+- Voluntary contributions (codes 400 and following) add to line 120 and change lines 121 and 125. The plugin does not compute them: I cannot verify this from provided FTB materials — check ftb.ca.gov. [2025 Form 540NR Booklet, Line 120]
 
 ### Form Handling
 - Leave SSN, bank account and signature fields blank on any saved form (repo rule 5 in CLAUDE.md).

@@ -17,12 +17,13 @@
 - Estimated tax payments and extension payments go on line 82. [2025 Form 540NR Booklet, Line 82]
 
 ### SDI
-- Beginning in 2024 California removed the taxable wage limit and maximum withholding for SDI; all wages are subject to SDI. The excess SDI line was removed from the return (the line is "reserved for future use"). Because of this, SDI shown on W-2 (box 14) is not a credit on Form 540NR. [2025 Form 540NR Booklet, What's New, State Disability Insurance]
-- SDI is not entered anywhere on Form 540NR; the plugin records it only to cross-check W-2 box 14 and does not credit it. [2025 Form 540NR Booklet, What's New, State Disability Insurance]
+- Beginning in 2024 California removed the taxable wage limit and maximum withholding for SDI; all wages are subject to SDI. The excess SDI line was removed from the return (the line is "reserved for future use"). Form 540NR therefore has no line for SDI as a credit or payment. [2025 Form 540NR Booklet, What's New, State Disability Insurance]
+- The plugin records SDI (W-2 box 14) only as a cross-check and does not credit it. SDI is not deductible for California: an itemizer enters it on Schedule CA (540NR) line 5a, column B (itemized deductions are outside this plugin). [2025 Schedule CA (540NR) Instructions, Line 5a]
 
 ### Credits Supported
 - Exemption credits: see ca-2025-numbers.md. [2025 Form 540NR Booklet, Lines 7-11 and 39]
 - Credits on lines 50-61 are otherwise entered by the filer from the matching form. Nonrefundable child and dependent care credit requires federal AGI of $100,000 or less and care provided in California (line 50). [2025 Form 540NR Booklet, Line 50]
 - Joint custody head of household and dependent parent credits (maximum $610) and senior head of household credit (maximum $1,860) are prorated by the line 38 percentage. [2025 Form 540NR Booklet, Lines 51-55]
-- Other credits: I cannot verify this from provided FTB materials — check ftb.ca.gov. The plugin accepts a total credits amount (line 62) as a filer-supplied input.
+- Lines 58-60 take additional special credits identified by a code; the booklet's Credit Chart lists each credit's name, code and required form or schedule. The total of all credits is limited by tentative minimum tax (TMT); use Boxes A, B and C before line 50 to see whether Schedule P (540NR) is required. [2025 Form 540NR Booklet, Special Credits; Line 58 through Line 60]
+- The plugin takes the total credits (line 62) as a filer-supplied input and does not apply the TMT limit or the Credit Chart: I cannot verify this from provided FTB materials — check ftb.ca.gov. Complete Schedule P (540NR) when any Box A, B or C answer is yes.
 - Credits cannot reduce line 63 below zero. [2025 Form 540NR Booklet, Line 63]

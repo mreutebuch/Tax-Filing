@@ -216,6 +216,16 @@ class MixedScenarioTests(unittest.TestCase):
         self.assertEqual(f["line73"], "50")
         self.assertEqual(f["line74"], str(int(base["line74"]) + 50))
 
+    def test_isr_penalty_lines_91_to_93(self):
+        # Hand calculation: payments 5,700; ISR penalty 750 -> line 92 = 4,950;
+        # line 74 = 5,639 -> tax due 689. With penalty 6,000 > payments: line 93 = 300.
+        case = dict(self.CASE, payments={"line81": 5700, "line91": 750})
+        f = ca.calculate(case)["form_540nr"]
+        self.assertEqual((f["line88"], f["line91"], f["line92"], f["line93"]), ("5700", "750", "4950", "0"))
+        self.assertEqual((f["line101_overpaid"], f["line104_tax_due"]), ("0", "689"))
+        f = ca.calculate(dict(self.CASE, payments={"line81": 5700, "line91": 6000}))["form_540nr"]
+        self.assertEqual((f["line92"], f["line93"], f["line104_tax_due"]), ("0", "300", "5639"))
+
     def test_addback_scenario_lowers_tax(self):
         case = dict(self.CASE, scenarios=[{
             "label": "no bonus add-back",

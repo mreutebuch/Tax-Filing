@@ -55,6 +55,14 @@ class CrossCheckTests(unittest.TestCase):
         r = cc.check({"inputs": inputs, "filed": filed})
         self.assertEqual(r["verdict"], "READY TO FILE", r)
 
+    def test_isr_penalty_agrees_with_calculator(self):
+        inputs = dict(INPUTS, payments={"line81": 9000, "line91": 750})
+        res = calc.calculate(inputs)["form_540nr"]
+        filed = dict(FILED, line101_overpaid=int(res["line101_overpaid"]),
+                     line104_tax_due=int(res["line104_tax_due"]), line88=9000)
+        r = cc.check({"inputs": inputs, "filed": filed})
+        self.assertNotIn("STOP", r["verdict"], r)
+
     def test_wrong_tax_stops(self):
         filed = dict(FILED, line74=6000, line40=6000)
         r = cc.check({"inputs": INPUTS, "filed": filed})

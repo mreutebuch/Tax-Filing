@@ -95,7 +95,7 @@ Add these rows to `analysis/tax-doc-summary.csv` alongside the federal rows (sam
 | 1099-G | Box 1 | Unemployment compensation | Schedule CA (540NR) line 7, column B *(Source: ca-schedule-ca-540nr.md)* |
 | 1099-R | Box 1, Box 2a | Gross and taxable distribution, one row per distribution with its payment date | Schedule CA (540NR) line 4a-4b (IRA) or 5a-5b (pension); split by residency period *(Source: ca-retirement-distributions.md, Part-Year Residents)* |
 | 1099-R | Box 2b | Taxable amount not determined / total distribution checkboxes | Flags that the taxable amount needs the filer's basis records *(Source: ca-retirement-distributions.md, IRA Basis After Moving to California)* |
-| 1099-R | Box 7 | Distribution code | Early-distribution check on FTB 3805P: codes 2, 3 or 4 show an exception *(Source: ca-retirement-distributions.md, Additional Tax on Early Distributions)* |
+| 1099-R | Box 7 | Distribution code | Early-distribution check on FTB 3805P: Box 7 codes 2, 3 or 4 are the codes the FTB 3805P instructions refer to for an exception *(Source: ca-retirement-distributions.md, Additional Tax on Early Distributions)* |
 | 1099-R | Box 14 | State tax withheld | Form 540NR line 81 *(Source: ca-credits-withholding.md, Withholding)* |
 | 1099-B | Dates acquired and sold, proceeds, basis | One row per sale with its sale date | Schedule D (540NR) Worksheet; column E uses the sale date *(Source: ca-capital-gains-part-year.md, Part-Year Residents)* |
 | 1099-MISC | Box 1 (rents) | Rents received, with the property's state | Schedule CA (540NR) line 5; property outside California is California-source only for the resident period *(Source: ca-rental-depreciation-passive.md, Part-Year Residents and Rental Property)* |
