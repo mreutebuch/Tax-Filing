@@ -1,3 +1,4 @@
 Title: FTB Publication 1100 (2025), Taxation of Nonresidents and Individuals Who Change Residency
 URL: https://www.ftb.ca.gov/forms/2025/2025-1100-publication.pdf
 Local copy: p1100.pdf (gitignored; download it from the URL above and save it in this folder)
+Extracted text: p1100.txt

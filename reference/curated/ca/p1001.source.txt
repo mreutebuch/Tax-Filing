@@ -1,3 +1,4 @@
 Title: FTB Publication 1001 (2025), Supplemental Guidelines to California Adjustments
 URL: https://www.ftb.ca.gov/forms/2025/2025-1001-publication.pdf
 Local copy: p1001.pdf (gitignored; download it from the URL above and save it in this folder)
+Extracted text: p1001.txt

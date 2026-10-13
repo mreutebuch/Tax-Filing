@@ -1,0 +1,885 @@
+                             1031
+               FTB Publication
+
+
+2025
+Guidelines for Determining
+Resident Status
+Table of Contents
+                                                                                                                                                                                    Page
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Basic Filing Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Which Form to File . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Filing Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Who Are Residents and Nonresidents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Significance of Residency. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Guidelines for Determining Residency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Temporary or Transitory Purposes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Income Taxable by California . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Specific Professions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Residents of or Individuals in Foreign Countries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Meaning of Domicile . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Married/RDP Filing Separate Returns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+How to Split Income on Form 540NR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Avoid Common Mistakes on Form 540NR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Double-Taxed Income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+General Phone Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Franchise Tax Board Privacy Notice on Collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+
+
+
+                            Go to ftb.ca.gov for:                                 • Refund Status – find out when                       • FTB legal notices, rulings, and
+                                                                                    we authorized your refund.                              regulations.
+                            • MyFTB – view payments,
+                              balance due, and withholding                        • Installment Agreement –                             • FTB’s analysis of pending
+                              information.                                          request to make monthly                                 legislation.
+                            • Web Pay – to pay income taxes.                        payments.                                           • Internal procedure manuals to
+ONLINE                        Choose your payment date up to                      • Subscription Services – sign up
+                                                                                    to receive emails on a variety of
+                                                                                                                                            learn how we administer law.
+                              one year in advance.
+SERVICES                    • CalFile – e-file your personal                        tax topics.
+                                                                                  • Tax forms and publications.
+                              income tax return.
+
+
+Page 2 FTB Pub. 1031 2025
+2025 Guidelines for Determining Resident Status
+A Introduction                                                                                            For more information, get FTB Pub. 1100, Taxation of
+                                                                                                          Nonresidents and Individuals Who Change Residency.
+It is important for California income tax purposes that you
+make an accurate determination of your residency status.                                                  Registered Domestic Partners (RDP)
+Residency is primarily a question of fact determined                                                      Under California law, RDPs must file their California
+by examining all the circumstances of your particular                                                     income tax returns using either the married/RDP filing
+situation. This publication provides information to help you                                              jointly or married/RDP filing separately filing status.
+determine the following:                                                                                  RDPs have the same legal benefits, protections, and
+• Whether you are a resident of California.                                                               responsibilities as married couples unless otherwise
+• Whether your income is taxable by California.                                                           specified.
+• Which form to file if you have a California                                                             If you entered into a same sex legal union in another
+    filing requirement.                                                                                   state, other than a marriage, and that union has been
+The Franchise Tax Board (FTB) issues written advice                                                       determined to be substantially equivalent to a California
+on whether a particular activity or transaction is subject                                                registered domestic partnership, you are required to file a
+to tax under California income tax law. The FTB will not                                                  California income tax return using either the married/RDP
+issue written opinions on whether you are a California                                                    filing jointly or married/RDP filing separately filing status.
+resident for a particular period of time because                                                          For purposes of California income tax, references to
+residency is a question of fact, not law. The information                                                 a spouse, husband, or wife also refer to a California
+included in this publication is provided to help you with                                                 RDP, unless otherwise specified. When we use the
+this determination.                                                                                       initials RDP they refer to both a California registered
+In general, California nonresidents or part-year residents                                                domestic “partner” and a California registered domestic
+determine their California tax by multiplying their                                                       “partnership,” as applicable. For more information on
+California taxable income by an effective tax rate. The                                                   RDPs, get FTB Pub. 737, Tax Information for Registered
+effective tax rate is the California tax on all income as                                                 Domestic Partners.
+if you were a California resident for the current tax year
+(and for all prior taxable years for any carryover items,                                                 Military Personnel and Spouses
+deferred income, suspended losses, or suspended                                                           In addition to this publication, military personnel and
+deductions) divided by that income.                                                                       spouses should use FTB Pub. 1032, Tax Information for
+This method ensures that nonresidents pay the correct                                                     Military Personnel.
+tax on their California sourced income and does not tax
+non-California sourced income.
+
+B Basic Filing Requirements
+Residents – File a California tax return if either your gross income (which consists of all income you received from all sources in the form of money,
+goods, property, and services, that is not exempt from tax) or your adjusted gross income (which consists of your federal adjusted gross income from all
+sources, reduced or increased by all California income adjustments) is more than the amounts shown on the chart below for your filing status, age, and
+number of dependents.
+Nonresidents and Part-Year Residents – File a California tax return if you have any income from California sources and your gross income (which
+consists of all income you received from all sources in the form of money, goods, property, and services, that is not exempt from tax) or adjusted gross
+income (which consists of your federal adjusted gross income from all sources, reduced or increased by all California income adjustments) is more than
+the amounts shown on the chart below for your filing status, age, and number of dependents.
+Note: If your gross income or adjusted gross income is less than the amounts listed on the chart, you may still have a filing requirement. For more
+information, get California Form 540 Personal Income Tax Booklet or California Form 540NR Nonresident or Part-Year Resident Booklet.
+
+    On 12/31/25,                                     and on 12/31/25,                                  California Gross Income              California Adjusted Gross Income
+    my filing status was:                            my age was:                                              Dependents                                Dependents
+                                                     (If your 65th birthday is on
+                                                     January 1, 2026, you are considered to be                                   2                                       2
+                                                     age 65 on December 31, 2025)                     0             1         or more           0           1        or more
+    Single or head of household                      Under 65                                      22,941        38,774        50,649        18,353        34,186        46,061
+    (Get FTB Pub. 1540, Tax Information for          65 or older
+    Head of Household Filing Status)                                                               30,591        42,466        51,966        26,003        37,878        47,378
+
+    Married/RDP filing jointly                       Under 65 (both spouses/RDPs)                  45,887        61,720        73,595        36,711        52,544        64,419
+    Married/RDP filing separately                    65 or older (one spouse/RDP)                  53,537        65,412        74,912        44,361        56,236        65,736
+    (The income of both spouses/RDPs must
+    be combined; both spouses/RDPs may be            65 or older (both spouses/RDPs)               61,187        73,062        82,562        52,011        63,886        73,386
+    required to file a tax return even if only one
+    spouse/RDP had income over the amounts
+    listed.)
+
+    Qualifying surviving spouse/RDP                  Under 65                                                    38,774        50,649                      34,186        46,061
+                                                     65 or older                                                 42,466        51,966                      37,878        47,378
+
+    Dependent of another person                      Any age                                     More than your standard deduction (Use the California Standard Deduction
+    Any filing status                                                                            Worksheet for Dependents, in the instructions for your tax return, to figure your
+                                                                                                 standard deduction.)
+Even if you do not meet the basic filing requirements, you should still file a tax return in order to get a refund if any of the following apply:
+•      California state income tax was withheld from your pay, California real estate sale, or income from an S corporation, partnership, or Limited Liability Company (LLC).
+•      You made California estimated tax payments.
+•      You have withholding from Form(s) 592-B, Resident and Nonresident Withholding Tax Statement, or 593, Real Estate Withholding Statement.
+
+                                                                                                                                                 FTB Pub. 1031 2025 Page 3
+C Which Form to File                                             Safe Harbor
+                                                                 Safe harbor is available for certain individuals leaving
+Residents – If you were a full-year resident of California       California under employment-related contracts. The safe
+in 2025 and you meet the basic filing requirements               harbor provides that an individual domiciled in California
+outlined in Section B, file either Form 540 or                   who is outside California under an employment-related
+Form 540 2EZ, California Resident Income Tax Return.             contract for an uninterrupted period of at least 546
+However, if you file a joint return and either spouse/RDP        consecutive days will be considered a nonresident unless
+was a nonresident or a part-year resident in 2025,               any of the following is met:
+file Form 540NR, California Nonresident or Part-Year             • The individual has intangible income exceeding
+Resident Income Tax Return.                                         $200,000 in any taxable year during which the
+Nonresidents and Part-Year Residents – If you were a                employment-related contract is in effect.
+full-year nonresident of California in 2025 and you meet         • The principal purpose of the absence from California is
+the basic filing requirements outlined in Section B, or if          to avoid personal income tax.
+you were a California resident for part of the year, file        The spouse/RDP of the individual covered by this safe
+Form 540NR.                                                      harbor rule will also be considered a nonresident while
+                                                                 accompanying the individual outside California for at
+D Filing Status                                                  least 546 consecutive days.
+Use the same filing status for California that you used for      Return visits to California that do not exceed a total
+your federal income tax return, unless you are an RDP. If        of 45 days during any taxable year covered by the
+you are an RDP and file single for federal, you must file        employment contract are considered temporary.
+married/RDP filing jointly or married/RDP filing separately      Individuals not covered by the safe harbor determine their
+for California. If you are an RDP and file head of household     residency status based on facts and circumstances. The
+for federal purposes, you may file head of household for         determination of residency status cannot be solely based
+California purposes only if you meet the requirements to         on an individual’s occupation, business, or vocation.
+be considered unmarried or considered not in a domestic          Instead, consider all activities to determine residency
+partnership. If you did not file a federal return because you    status. For instance, students who are residents of
+did not have a federal filing requirement, you may use any       California leaving this state to attend an out-of-state
+filing status on your California return that you were entitled   school do not automatically become nonresidents, nor
+to use on your federal return had you been required to file      do students who are nonresidents of California coming
+a federal return.                                                to this state to attend a California school automatically
+Exception: If you file a joint return for federal purposes,      become residents. In these situations, individuals must
+you may file separately for California if either spouse was      determine their residency status based on their facts and
+one of the following:                                            circumstances, as described in Section G, Guidelines
+                                                                 for Determining Residency, and Section H, Temporary or
+• An active member of the United States armed forces or          Transitory Purposes.
+     any auxiliary military branch during 2025.
+• A nonresident for the entire year and had no income            Example 1 – You are a California resident. You agreed
+     from California sources during 2025.                        to work overseas for one year. You returned to California
+                                                                 after the employment contract expired and stayed for
+Regardless of your residency status, if you file separate        three months. Then, you signed another contract with
+California returns, enter the amount you would have              the same employer to work overseas for another year.
+reported if you had filed a married filing separate return       You cannot be considered a nonresident under the safe
+when the instructions for the California return say to enter     harbor rule because your absence from California for
+an amount from your federal return. Attach an explanation        employment reasons was not for an uninterrupted period
+to your California return showing how you split the              of at least 546 consecutive days. You cannot combine the
+income from your joint federal return between you and            days you were overseas from the two separate contracts.
+your spouse. If you are required to attach a copy of your
+federal return to your California return, attach a copy of       Example 2 – You are a California resident. You transferred
+your joint federal return.                                       to your employer’s Germany office for a two-year work
+                                                                 assignment. You visited California for a three-week
+For RDP filing status information, get FTB Pub. 737.             vacation. Under the safe harbor rule, you were a
+                                                                 nonresident of California for the two years you were in
+E Who Are Residents and                                          Germany. Your three-week visit to California is considered
+                                                                 temporary.
+  Nonresidents                                                   Example 3 – You and your spouse are California residents.
+A resident is any individual who meets any of the                You agreed to work overseas for 20 months under an
+following:                                                       employment contract. Your family remained in San Diego,
+                                                                 CA. During those 20 months you visited your family
+• Present in California for other than a temporary or            in San Diego for a month. You can be considered a
+    transitory purpose.                                          nonresident during your absence under the safe-harbor
+• Domiciled in California, but outside California for            rule. Your month-long visit to California is considered
+    a temporary or transitory purpose. See Section L,            temporary. During the year, you earned $80,000 on your
+    Meaning of Domicile.                                         overseas assignment and your spouse earned $30,000 as
+A nonresident is any individual who is not a resident.           a teacher in San Diego. You did not have any other income.
+A part-year resident is any individual who is a California       The tables on the next page show how to report income if
+resident for part of the year and a nonresident for part of      you filed a joint income tax return or separate income tax
+the year.                                                        returns.
+
+
+
+Page 4 FTB Pub. 1031 2025
+                                                                • Location of your social ties, such as your place of
+                         Joint Return                             worship, professional associations, or social and
+                             Return for You and Your Spouse       country clubs of which you are a member.
+                                      Form 540NR                • Location of your real property and investments.
+                              Total AGI           CA AGI        • Permanence of your work assignments in California.
+         Income
+                                             Sch CA (540NR)
+                                                  Col. E        H Temporary or Transitory
+Your Wages        $80,000      $80,000          $40,000*          Purposes
+                                                                Generally, your state of residence is where you have your
+Spouse’s Wages    $30,000      $30,000           $30,000        closest connections. If you leave your state of residence,
+Total Wages       $110,000    $110,000          $70,000         it is important to determine if your presence in a different
+                                                                location is for a temporary or transitory purpose. You
+                                                                should consider the purpose and length of your stay
+                      Separate Returns                          when determining your residency. Military personnel and
+                        Your Return      Your Spouse’s Return   spouses, get FTB Pub. 1032.
+                        Form 540NR             Form 540
+                  Total AGI     CA AGI         Total AGI        Coming into California
+    Income                                                      When you are present in California for temporary or
+                               Sch CA        Sch CA (540)       transitory purposes, you are a nonresident of California.
+                              (540NR)       no adjustments      For instance, if you come to California for a vacation, or
+                                Col. E
+                                                                to complete a transaction, or are simply passing through,
+Your Wages         $40,000       $0            $40,000*         your purpose is temporary or transitory. As a nonresident,
+                                                                you are taxed only on your income from California sources.
+Spouse’s Wages     $15,000    $15,000          $15,000          When you are in California for other than a temporary
+Total Wages       $55,000     $15,000          $55,000          or transitory purpose, you are a California resident. For
+                                                                instance, if your employer assigns you to an office in
+*Half of your wages are taxable to California because           California for a long or indefinite period, if you retire and
+California is a community property state and your               come to California with no specific plans to leave, or if you
+spouse/RDP is a resident of California.                         are ill and are in California for an indefinite recuperation
+                                                                period, your stay is other than temporary or transitory. As
+F Significance of Residency                                     a resident, you are taxed on income from all sources.
+Residency is significant because it determines what             You will be presumed to be a California resident for any
+income is taxed by California. For more information, see        taxable year in which you spend more than nine months
+Section I, Income Taxable by California.                        in this state.
+                                                                Although you may have connections with another state,
+G Guidelines for Determining                                    if your stay in California is for other than a temporary
+                                                                or transitory purpose, you are a California resident.
+  Residency                                                     As a resident, your income from all sources is taxable
+                                                                by California.
+The underlying theory of residency is that you are a
+resident of the place where you have the closest                Example 1 – You are a business executive and reside in
+connections.                                                    New York with your family. Several times each year you
+The following list shows some of the factors you can            travel to other states for business purposes. Your average
+use to help determine your residency status. Since your         stay is one or two weeks and the entire time spent in
+residence is usually the place where you have the closest       California for any taxable year does not exceed six weeks.
+ties, you should compare your ties to California with your      Your family usually remains in New York when you are
+ties elsewhere. In using these factors, it is the strength      traveling for business purposes.
+of your ties, not just the number of ties, that determines      Determination: Under these circumstances, you are not
+your residency. This is only a partial list of the factors to   a California resident because your stays in California are
+consider. No one factor is determinative. Consider all          temporary or transitory in nature. As a nonresident, you
+the facts of your particular situation to determine your        are taxed only on your income from California sources,
+residency status.                                               including your income for services performed in California.
+Factors to consider are as follows:                             Example 2 – In December 2024, you moved to California
+• Amount of time you spend in California versus amount          on an indefinite job assignment. You rented an apartment
+   of time you spend outside California.                        in California and continued to live in the apartment.
+• Location of your spouse/RDP and children.                     You retained your home and bank account in Illinois
+• Location of your principal residence.                         until April 2025, at which time you sold your home and
+• State that issued your driver’s license.                      transferred your bank account to California.
+• State where your vehicles are registered.                     Determination: Your assignment in California was for
+• State where you maintain your professional licenses.          an indefinite period; therefore, your stay in California was
+• State where you are registered to vote.                       not of a temporary or transitory nature. Although you kept
+• Location of the banks where you maintain accounts.            ties in Illinois until April 2025, you became a California
+• The origination point of your financial transactions.         resident upon entering the state in December 2024. As a
+• Location of your medical professionals and other              resident, you are taxed on your income from all sources.
+   healthcare providers (doctors, dentists, etc.),
+   accountants, and attorneys.
+
+                                                                                               FTB Pub. 1031 2025 Page 5
+Leaving California                                              purpose. Therefore, you remain a California resident.
+                                                                As a California resident, your income from all sources
+Any individual who is a resident of California continues to     is taxable by California, including the income that you
+be a resident when absent from the state for a temporary        earned from your assignment in Saudi Arabia.
+or transitory purpose.
+                                                                Example 7 – You are a resident of California and a
+An absence from California under an employment-related          single taxpayer. You accept a three-year assignment
+contract for a period of at least 546 consecutive days may      in Japan. Your assignment in Japan covers the period
+be considered an absence for other than a temporary or          January 1, 2024, through December 31, 2026. You rented
+transitory purpose. See “Safe Harbor” under Section E,          out your residence and put your truck and belongings in
+Who Are Residents and Nonresidents for more information.        storage in California. You maintained your California bank
+Example 3 – Until September 2025, you were a resident           accounts, driver’s license, and voter registration. You have
+of California. At that time, you declared yourself to be a      less than $200,000 of intangible income during each year.
+resident of Nevada, where you have a summer home. You           Upon completion of your assignment, you intend to return
+continue to spend six or seven months each year at your         to California. You returned to California to visit family no
+home in California, which you have retained. You spend          longer than a total of 45 days during 2024 or 2025.
+only three to four months in Nevada and the rest of the         Determination: You meet the safe harbor rule. You are a
+time traveling in other states or countries. You transferred    nonresident during your absence from the state.
+your bank accounts to Nevada. However, you continue
+to maintain your social club and business connections in
+California.                                                     I    Income Taxable by
+Determination: Your declaration of residency in Nevada
+does not establish residency in that state. Your closest             California
+connections are to California and your absence from             Residents of California are taxed on ALL income,
+California is for temporary or transitory purposes. You are,    including income from sources outside California.
+therefore, a resident of California and are taxed on your       Nonresidents of California are taxed only on income
+income from all sources.                                        from California sources. Nonresidents of California are
+Example 4 – You and your spouse/RDP are California              not taxed on pensions received after December 31, 1995.
+residents. You accept a contract to work in South America       For more information, get FTB Pub. 1005, Pension and
+for 16 months. You lease an apartment near the job site.        Annuity Guidelines.
+Your contract states that your employer will arrange your       Part-year residents of California are taxed on all income
+return back to California when your contract expires. Your      received while a resident and only on income from
+spouse/RDP and your children will remain in California          California sources while a nonresident.
+residing in the home you own.                                   If you use Form 540NR, figure your taxable income as if
+Determination: You maintain strong ties with California         you were a California resident for the entire year. Complete
+because your spouse/RDP and children remain in your             Schedule CA (540NR), California Adjustments —
+California home during your absence. Your intent is to          Nonresidents or Part-Year Residents, column A through
+return to California, and your absence is temporary and         column D, to figure total adjusted gross income (AGI).
+transitory. You remain a California resident during your        Figure California AGI applicable to a nonresident or part-
+absence. You are taxed on income from all sources,              year resident on Schedule CA (540NR), column E.
+including income earned in South America.                       Treat specific types of income as explained below.
+Example 5 – You receive and accept a permanent job
+offer in Spain. You and your spouse/RDP sell your home          Wages and Salaries
+in California, pack all of your possessions and move to
+Spain on May 5, 2025, with your children. You lease an          Wages and salaries have a source where the services
+apartment and enroll your children in school in Spain. You      are performed. Neither the location of the employer,
+obtain a driver’s license from Spain and make numerous          where the payment is issued, nor your location when you
+social connections in your new home. You have no                receive payment affect the source of this income. Part-year
+intention of returning to California.                           residents include on Schedule CA (540NR), column E all
+                                                                wages and salaries earned while a resident, regardless of
+Determination: You are a part-year resident. Through            where the services were performed. Nonresidents include
+May 4, 2025, you were a California resident. On                 the income for services performed in California.
+May 5, 2025, you became a nonresident. All your income
+while you were a resident is taxable by California. While       Example 1 – You are a resident of New York working
+you are a nonresident, only income from California              temporarily in California for a New York corporation.
+sources is taxable by California.                               Determination: Your income earned for services
+Example 6 – You are a resident of California. You accept        performed in California has a California source. As a
+a 15-month assignment in Saudi Arabia. You put your             nonresident, include this California source income on
+personal belongings, including your automobile, in              Schedule CA (540NR), column E.
+storage in California. You have a California driver’s license   Example 2 – You are a California resident. As a
+and are registered to vote in California. You maintain          representative for your employer, you spent two weeks
+bank accounts in California. In Saudi Arabia, you stay          in Georgia to give training. You were paid by a Georgia
+in a compound provided for you by your employer, and            corporation while you were in Georgia.
+the only ties you establish there are connected to your         Determination: Because you are a California resident,
+employment. Upon completion of your assignment, you             you are taxed on all income, regardless of source. The
+will return to California.                                      income is taxable by California, even though it has a
+Determination: You have maintained greater connections          source in Georgia.
+with California than you have established in Saudi
+Arabia. Your absence is for a temporary or transitory
+
+Page 6 FTB Pub. 1031 2025
+Interest and Dividends                                           Pensions and Keoghs
+Interest and dividends generally have a source where you         Residents: Distributions from employer-sponsored
+are a resident. However, see Exception below.                    and self-employment (Keogh) pension, profit-sharing,
+Example 3 – You are a resident of Texas and have                 stock bonus plans, or other deferred compensation
+interest from a California bank account.                         arrangements are taxable by California regardless of
+                                                                 where the services were performed.
+Determination: Because you are a resident of Texas, the
+interest has a source in Texas. The interest is not taxable      Nonresidents: Distributions are not taxable by California
+by California.                                                   if received after December 31, 1995. Get FTB Pub. 1005
+                                                                 for more information.
+Example 4 – You are a resident of California and have
+interest from a savings account in Oregon.                       Example 6 – You were a resident of California when you
+                                                                 earned your pension. You retired during 2025 and moved
+Determination: Because you are a California resident,            permanently to New Mexico. After becoming a resident of
+you are taxed on all income, regardless of source. The           New Mexico, you begin drawing your pension.
+interest is taxable by California.
+                                                                 Determination: Since you are a nonresident, the
+Example 5 – You are a resident of Montana and have               distribution is not taxable by California because you
+dividends from a California corporation.                         received it after December 31, 1995.
+Determination: Because you are a Montana resident, the           Example 7 – You lived and worked in Ohio. You retired
+dividends have a source in Montana. The dividends are            in Ohio and received your first pension check on
+not taxable by California.                                       January 1, 2025. You moved permanently to California on
+Exception: Interest and dividends have a source in               July 1, 2025.
+California if the account or security is used in a trade or      Determination: You became a California resident on
+business or pledged as security for a loan, the proceeds         July 1, 2025. Your pension income received beginning
+of which are used in a trade or business in California. For      July 1, 2025, is taxable by California because California
+special rules regarding qualifying investment securities,        residents are taxed on all income, regardless of source.
+refer to California Revenue and Taxation Code (R&TC)
+Section 17955.                                                   Lump-Sum Distributions
+Business Income (or Loss)                                        Residents: Lump-sum distributions are taxable by
+                                                                 California. Residents of California are taxed on all income,
+A nonresident’s income from California sources includes          regardless of source. Therefore, the distribution is taxable
+income from a business, trade, or profession carried             even if it is attributable to services performed outside of
+on in California. If the nonresident’s business, trade, or       California and accrued prior to your becoming a California
+profession is carried on both within and outside California,     resident.
+the income sourced to California may be based only
+on the business conducted within California, or may              Nonresidents: Lump-sum distributions from a qualified
+be determined by using the apportionment formula for             plan or annuity after December 31, 1995, are not taxable
+corporations engaged in multistate businesses.                   by California. However, lump-sum distributions, derived
+                                                                 from a California source, received from most nonqualified
+California uses a mandatory market assignment method             plans after December 31, 1995, continue to be taxable by
+and single-sales factor apportionment to apportion               California. For more information, get FTB Pub. 1005.
+business income to California. A nonresident may have
+California sourced income or apportionable business              Example 8 – You lived and worked in New York. You
+income if receiving income from sales or services                retired and moved to California and became a resident.
+sourced to California. Such income includes:                     Prior to relocating, you elected to receive a lump-sum
+                                                                 distribution from your qualified pension plan. You received
+1. Sales of services to the extent that the purchaser of the     the distribution after you became a California resident.
+   service receives the benefit of the service in California.
+                                                                 Determination: The distribution is taxable by California
+2. Sales of intangible property to the extent that the           because California residents are taxed on all income,
+   intangible property is used in California. For marketable     regardless of source (Appeal of Ralph G. and Martha E.
+   securities, the sales are in California if the customer is    McQuoid, California State Board of Equalization,
+   in California.                                                May 11, 1989).
+3. Sales from the sale, lease, rental, or licensing of real      Example 9 – You were a California resident and worked
+   property if the real property is located in California.       for a corporation in California. You moved to Ohio
+4. Sales from the rental, lease, or licensing of tangible        during 2025 and elected to take a lump-sum distribution
+   personal property if the property is located in California.   from your qualified pension plan. You received the
+Refer to Cal. Code Regs., tit.18 section 17951-4 to              distribution after you became a resident of Ohio.
+determine when income from business, trade or profession         Determination: Since you are a nonresident, the
+should be sourced according to apportionment rules. Also,        distribution is not taxable by California because you
+see R&TC Section 25136 and Cal. Code Regs., tit. 18              received it after December 31, 1995.
+section 25136-2 or California Schedule R, Apportionment
+and Allocation of Income, for more information.
+Withholding may be required on a nonresident’s business
+income if an exemption, waiver, or reduction is not
+certified or approved.
+
+
+
+
+                                                                                                FTB Pub. 1031 2025 Page 7
+Individual Retirement Account (IRA),                             from backup withholding. For additional information on
+                                                                 California backup withholding, go to ftb.ca.gov and
+Roth IRA, SIMPLE IRA, Simplified                                 search for backup withholding.
+Employee Pension (SEP), and Keogh                                For more information regarding California withholding
+Distributions                                                    requirements, get FTB Pub. 1016 and FTB Pub. 1017,
+                                                                 Resident and Nonresident Withholding Guidelines.
+IRA, Roth IRA, SIMPLE IRA, SEP, and Keogh distributions
+received after becoming a nonresident are not taxable by         Write to:
+California if received after December 31, 1995.                     WITHHOLDING SERVICES AND COMPLIANCE
+Distributions from an SEP from contributions made                   MS F182
+after 1986 are taxed by California in the same manner               FRANCHISE TAX BOARD
+as pension and Keogh distributions. Distributions from              PO BOX 942867
+contributions made before 1987 are taxed by California              SACRAMENTO CA 94267-0651
+in the same manner as IRA distributions. For more                Telephone: 888.792.4900 from within the United States
+information, get FTB Pub. 1005.                                               916.845.4900 from outside the United States
+                                                                 California
+Sale of Real Estate                                              Relay
+The gain or loss from the sale of real estate has a source       Service:     711 or 800.735.2929 for persons with hearing
+where the property is located. If you sell your California                    or speaking limitations
+real estate and move out of state, the gain is taxable by        FAX:         916.845.9512
+California. The gain is taxable by California even if the real
+estate is sold when you are a nonresident.                       Partnership, S Corporation, Limited
+Example 10 – You are a resident of Idaho. You sold
+undeveloped real estate located in California at a gain.
+                                                                 Liability Company (LLC), and Trust
+Determination: Because the property is in California,            Income (Loss)
+the gain is California source income. As a nonresident,          When a partner is a part-year resident during any part of
+include this California source income on                         the partner’s or the partnership’s taxable year, the part-year
+Schedule CA (540NR), column E.                                   resident must divide his or her taxable year into two distinct
+Example 11 – You are a resident of California. You sold          periods. For the period during which the part-year resident
+real estate located in England at a gain.                        was a resident of this state, all items of income and
+                                                                 deductions are to be included in the partner’s California
+Determination: Because you are a California resident,            taxable income. For the period during which the part-year
+you are taxed on all income, regardless of source. The           resident was a nonresident of this state, only gross income
+gain on the sale is taxable by California.                       and deductions realized from sources within this state
+Example 12 – You are a resident of Nevada. You own               are included in the partner’s California taxable income.
+residential rental property located in California. Your          Therefore, all California-sourced items of income and loss
+property has always shown a loss. You sold the property          realized by the partnership during the partnership’s taxable
+for a gain.                                                      year when the partner was a nonresident of this state are
+Determination: Because the property is located in                included in California taxable income. This also applies
+California, the gain on the sale is taxable by California.       to shareholders of an S corporation, partners of an LLC
+Since rental real property is classified as a passive            classified as a partnership, and beneficiaries of a trust.
+activity, the sale “triggers” the release of suspended           See FTB Legal Ruling 2003-1, FTB Pub. 1017, and
+losses incurred in taxable years beginning on or after           FTB Pub. 1100 for more information.
+January 1, 1987. The suspended losses may be used                Example 13 – Kim, a nonresident calendar year
+to offset any gain from the sale or income from other            individual taxpayer, has a 50% interest in partnership (P).
+passive activities. For more information, get form               P has a December 31 year-end. P conducts business
+FTB 3801, Passive Activity Loss Limitations, and                 within and outside California. For the fiscal year ended
+instructions, or FTB Pub. 1016, Real Estate Withholding          December 31, Kim’s Schedule K-1 (565), Partner’s
+Guidelines.                                                      Share of Income, Deductions, Credits, etc., from P
+                                                                 shows that Kim has $10,000 of taxable income from all
+Withholding Services and Compliance                              sources, $5,000 of which is sourced to California. On
+Withholding may be required on income with a California          September 15, Kim became a resident of California.
+source. This includes, sales of California real estate,          Determination: Kim was a nonresident for 257 days
+income allocations or distributions from S corporations          of P’s fiscal year and a resident for 108 days. Kim will
+and partnerships, and other payments of California               include in California taxable income for the year, $6,480
+source income paid to nonresidents. Note: Withholding is         of income from P, computed as follows:
+not always required. An exemption, reduction, or waiver          • For the portion of the year Kim was a nonresident:
+can be filed.                                                       257/365 X $ 5,000 = $3,521
+With certain limited exceptions, payers that are required        • For the portion of the year Kim was a resident:
+to withhold and remit backup withholding to the Internal            108/365 X $10,000 = $2,959
+Revenue Service (IRS) are also required to withhold and          Example 14 – Hope, a calendar year individual resident
+remit to the FTB. The California backup withholding rate         of California, owns a 50% share of an S corporation
+is 7% of the payment. For California purposes, dividends,        (Buddy Corp.). Buddy Corp. has an October 31
+interests, and any financial institution’s release of loan       year-end. Buddy Corp. conducts business within and
+funds made in the normal course of business are exempt           outside California. For the October 31 year-end, Hope’s
+
+
+Page 8   FTB Pub. 1031 2025
+Schedule K-1 (100S), Shareholder’s Share of Income,            Reimbursement of Moving Expenses
+Deductions, Credits, etc., from Buddy Corp. shows that
+Hope has $8,000 of taxable income from all sources,            The source of reimbursed moving expenses is the state to
+$3,000 of which is sourced to California. On June 10,          which you move, regardless of your residency at the time
+Hope became a nonresident taxpayer.                            the reimbursement is made.
+Determination: Hope was a nonresident for 144 days of
+Buddy Corp.’s fiscal year-end and a resident for 221 days.     J Specific Professions
+Hope will include in California taxable income for the year,
+$6,028 of income from Buddy Corp., computed as follows:        Military and Spouses
+• For the portion of the year Hope was a nonresident:          Military personnel and spouses should get FTB Pub. 1032.
+  144/365 X $3,000 = $1,184
+• For the portion of the year Hope was a resident:             Civilians Working for the Military
+  221/365 X $8,000 = $4,844                                    The rules for military personnel do not apply to civilians
+                                                               working for the military. Determine your residency status
+Sale of Stocks and Bonds                                       and the source of your income based on the guidelines
+The gain or loss from the sale of stocks or bonds has          previously explained in Sections E through I.
+a source where you are a resident at the time of the
+sale. If buying and selling stocks and bonds is your           Career Appointees in the U.S. Foreign
+trade or business, see “Business Income (or Loss)”             Service
+under Section I, Income Taxable by California for more
+information.                                                   The rules for military personnel and spouses do not
+                                                               apply to career appointees in the U.S. Foreign Service.
+Example 15 – You are a resident of Oregon and sell stock       Determine your residency status and the source of your
+of a California corporation at a gain.                         income based on the guidelines previously explained in
+Determination: Because you are an Oregon resident,             Sections E through I.
+the gain has an Oregon source. The gain is not taxable by
+California.                                                    Airline Employees
+Example 16 – You are a resident of California and sell         The wages of nonresident flight personnel (e.g. pilot,
+stock of a Kansas corporation at a gain.                       copilot, flight attendant) are not taxable by California
+Determination: Because you are a California resident,          unless more than 50% of the individual’s scheduled flight
+you are taxed on all income, regardless of source. The         time is in California. If more than 50% of the scheduled
+gain is taxable by California.                                 flight time is in California, wages are apportioned to
+                                                               California based on the ratio of time spent in California to
+Installment Sales                                              the total scheduled flight time.
+California taxes installment gains received by a               Flight personnel who are California residents are taxed
+nonresident from the sale of tangible property on a source     on all wages received regardless of where the flight time
+basis. Real property is sourced and taxed based upon           is spent.
+where the property is located. California taxes residents
+on all income regardless of source. The chart below            Interstate Rail and Motor Carrier
+indicates the tax treatment for installment payments           Employees
+received by residents, nonresidents, and individuals who
+changed residency:                                             The wages of nonresident railroad employees or truck
+                                                               drivers whose regularly assigned duties are performed in
+ Residency        Sold       California     Out-of-State       two or more states may only be taxed by the individual’s
+   Status       Property     Property        Property          state of residence.
+  Always a                                                     Railroad employees or truck drivers who are California
+                 Anytime      Taxable        Nontaxable
+ Nonresident                                                   residents are taxed on all wages received regardless of
+  Always a                                                     where the duties are performed.
+                 Anytime      Taxable         Taxable
+  Resident
+                                          2001 and prior -     Merchant Seamen
+   Former        Prior to                    Taxable           A merchant seaman who is in California only because
+                              Taxable
+  Resident      moving out                2002 and after -     this state is a port-of-call and who maintains no other
+                                            Nontaxable         contact or connections with this state, is a nonresident.
+                                          2001 and prior -     However, a seaman who maintains close connections
+   Former        Prior to                   Nontaxable         with California remains a California resident while at sea.
+                              Taxable                          Under such circumstances, the seaman’s absence is for a
+ Nonresident    moving in                 2002 and after -
+                                             Taxable           temporary or transitory purpose.
+                                                               Example 1 – You are a merchant seaman and spend six
+For the treatment of interest earned on an installment         to ten months a year aboard a ship outside California. You
+sale, see “Interest and Dividends” under Section I, Income     spend your off-duty time in California. You own a home in
+Taxable by California.                                         California where your spouse/RDP resides. You vote and
+For more information regarding the taxation of installment     bank in California. You have a California driver’s license
+sales, get FTB Pub. 1100.                                      and your automobile is registered in California.
+
+
+
+
+                                                                                              FTB Pub. 1031 2025 Page 9
+Determination: You are a resident of California. Your          Income Tax Clearance
+time at sea is temporary and transitory. As a resident,
+all your income is taxable by California, including your       A federal income tax clearance does not affect your
+income earned while at sea (Appeal of James H. and             California tax liability. The FTB does not issue tax
+Leila P. Pike, California State Board of Equalization,         clearance certificates for individuals in this situation.
+February 1, 1983).
+Example 2 – You are a merchant seaman and spend
+                                                               Foreign Tax Credit or Foreign Earned
+eight to ten months a year aboard a ship outside               Income Exclusion
+California. You are single and have no dependents. You         California does not allow a foreign tax credit or a foreign
+spend 50% of your off-duty time or 10% of your total           earned income exclusion. If you claimed the foreign
+time in California. You return to California only when your    earned income exclusion on your federal return, include
+employment brings you here. When visiting California,          the amount of your foreign earned income exclusion
+you stay in hotels. You have a California bank account         on Schedule CA (540NR), Part II, Section B, line 8d,
+in joint tenancy with your father. You have a California       column C.
+driver’s license, but no car. You do not own real property
+in California.
+Determination: You are a nonresident of California.
+                                                               L Meaning of Domicile
+Your ties to California are not substantial and your           The term “domicile” has a special legal definition that is
+time in California is temporary or transitory (Appeal of       not the same as residence. While many states consider
+Richard W. Vohs, California State Board of Equalization,       domicile and residence to be the same, California makes
+September 17, 1973).                                           a distinction and views them as two separate concepts,
+                                                               even though they may often overlap. For instance, you
+K Residents of or Individuals                                  may be domiciled in California but not be a California
+                                                               resident or you may be domiciled in another state but be
+  in Foreign Countries                                         a California resident for income tax purposes.
+                                                               Domicile is defined for tax purposes as the place where
+If you are a resident of a foreign country and perform
+services in California and/or receive income from              you voluntarily establish yourself and family, not merely for
+California sources, you may have a California income           a special or limited purpose, but with a present intention
+tax filing requirement even if you do not have a federal       of making it your true, fixed, permanent home and
+filing requirement.                                            principal establishment. It is the place where, whenever
+                                                               you are absent, you intend to return. The maintenance
+                                                               of a marital abode in California is a significant factor in
+Tax Treaty                                                     establishing domicile in California.
+A tax treaty between the U.S. Government and a foreign
+country may exempt some types of income from federal           Change of Domicile
+taxation. Generally, unless the treaty specifically excludes
+the income from taxation by California, the income             You can have only one domicile at a time. Once you
+is taxable.                                                    acquire a domicile, you retain that domicile until you
+                                                               acquire another.
+Example 1 – You are a resident of China doing research
+at a university in California and received wages of            A change of domicile requires all of the following:
+$15,000 for teaching and doing research. For federal           • Abandonment of your prior domicile.
+income tax purposes, the wages are excludable due to           • Physically moving to and residing in the new locality.
+the tax treaty between the United States and China.            • Intent to remain in the new locality permanently or
+Amounts received for teaching, research, or other                 indefinitely as demonstrated by your actions.
+services performed by a student are not excludable as
+a qualified scholarship or fellowship, even if the services    M Married/RDP Filing
+are required as a condition of receiving the scholarship
+or fellowship.                                                   Separate Returns
+Determination: Although the wages may be exempt
+from income for federal income tax purposes, the wages         Division of Income
+will be taxable by California. The tax treaty specifically     California is a community property state. The domicile
+states that the taxes covered by the tax treaty are            of the spouse/RDP earning the income determines
+federal income taxes imposed by the Internal Revenue           the division of income between spouses/RDPs when
+Code. Tax treaties between the United States and other         separate returns are filed. Each spouse/RDP must follow
+countries which expressly limit their application to federal   the laws in his or her state of domicile to determine
+income taxes do not apply to California. Nonresidents          whether income is separate or community. When
+are taxed by California on wages for services performed        separate returns are filed, you and your spouse/RDP
+in California. Since you received wages for services           must each report half of the community income plus all
+performed in California, the wages are taxable by              of your separate income on your return. See Section L,
+California. Include the wages of $15,000 on                    Meaning of Domicile.
+Schedule CA (540NR), Part II, Section A, line 1a,
+column C.
+
+
+
+
+Page 10 FTB Pub. 1031 2025
+Community Property                                           Expenses that are not attributable to any specific income,
+                                                             such as medical expenses, are deductible by the
+Community property is all of the property that is not        spouse/RDP who pays them. If these expenses are paid
+separate property acquired by a spouse/RDP or both           from community funds, the deduction is divided equally
+spouses/RDPs while domiciled in a community property         between you and your spouse/RDP.
+state, U.S. territory, or country.
+                                                             If one spouse/RDP itemizes deductions, both
+Each spouse/RDP owns one-half of all community               spouses/RDPs must itemize deductions, even if the
+property. If property cannot be specifically identified as   itemized deductions of one spouse/RDP are less than the
+separate property, it is considered community property.      standard deduction.
+The following are community property states and U.S.
+territories (countries not listed):                          Exemption Credits
+          Arizona            New Mexico                      When you file separate returns, you and your spouse/RDP
+          California         Northern Mariana Islands        must each claim your own personal exemption credit.
+          Guam               Puerto Rico
+          Idaho              Texas                           When you have more than one dependent supported by
+          Louisiana          Washington                      community funds, you and your spouse/RDP may divide
+          Nevada             Wisconsin                       the number of dependents between you in any manner
+                                                             you choose. However, you may not split the credit for any
+Community Income                                             one dependent.
+Income generated from community property is community
+income. Community income also includes compensation
+                                                             Division of Income, Residents and
+for services if the spouse/RDP earning the compensation      Nonresidents of California – Examples
+is domiciled in a community property state.                  Example 1 – You and your spouse/RDP are residents
+Divide the community income equally between you and          of California. You earned $15,000 in wages. Your
+your spouse/RDP when separate returns are filed.             spouse/RDP earned $30,000. In addition to wages, you
+                                                             have stock that you inherited. The stock is in your name
+Separate Property                                            only, and you keep the stock and the dividend income
+Separate property includes the following:                    separate from community funds. You received $5,000 in
+                                                             dividends. You have decided to file separate returns.
+• Property owned separately by each spouse/RDP
+   before marriage or registering as a domestic              Determination: You and your spouse/RDP each have
+   partnership.                                              $22,500 in community income: ($15,000 + $30,000 =
+• Property received separately as gifts or inheritances.     $45,000 ÷ 2). In addition to your $22,500 in community
+• Property purchased with separate property funds.           income to be reported, include the $5,000 of separate
+• Money earned while domiciled in a separate property        income from dividends, making your total income $27,500.
+   state.                                                    Example 2 – You and your spouse/RDP are residents
+• All property declared separate property in a valid         of California. For the first six months of the year, you
+   agreement.                                                earned wages of $30,000. Your spouse/RDP did not earn
+Maintain separate property separately. If the property       any income. On June 30, you and your spouse/RDP
+or the income from the property is used for community        physically separated with no intention of reconciliation.
+purposes, or commingled, it could lose its separate          During the last six months, you earned wages of $30,000
+property character, overriding any agreements.               and your spouse/RDP earned wages of $10,000. You
+                                                             have decided to file separate returns.
+Separate Income                                              Determination: For the first six months of the year, your
+Generally, income from separate property is income of        earnings were community income. You and your
+the spouse/RDP who owns the property. When filing, you       spouse/RDP must each report on your individual returns
+and your spouse/RDP report your income(s) separately         one half of the income earned during this period. When
+on your separate returns.                                    you and your spouse/RDP physically separated with no
+                                                             intention of reconciliation, your community income status
+Deductions                                                   ended. Therefore, from July 1 through December 31,
+Expenses incurred to earn or produce community business      the income earned by you and your spouse/RDP was
+or investment income are generally divided equally           separate income.
+between you and your spouse/RDP. Each spouse/RDP is                                      You          Your Spouse/RDP
+entitled to deduct half of the expenses of the business or   Community
+investment expenses on his or her separate return.              Jan.–June                $15,000      $15,000
+Expenses incurred to earn or produce separate business       Separate
+or investment income are deductible by the spouse/RDP           July–Dec.                 30,000       10,000
+who owns the investment generating the income, provided      Total                       $45,000      $25,000
+that spouse/RDP pays the expenses from his or her
+separate funds.
+
+
+
+
+                                                                                          FTB Pub. 1031 2025 Page 11
+Example 3:
+John and Jackie are full-year nonresidents of California. Jackie earned $30,000 in wages reported on federal Form W-2,
+Wage and Tax Statement, for services performed in her state of residence. Jackie also sold property in California that
+was her separate property. She had a $100,000** gain. John received a pension distribution of $10,000 in 2025 based on
+services performed in California. For California purposes, John’s taxable pension distribution for the year is 0.* John has a
+rental house in California that is his separate property. His net rental income was $1,000.** John and Jackie filed separate
+federal returns, therefore, they file separate California returns. The following situations show how their income should be
+divided based on domicile.
+1. John and Jackie are both                                                               John                                                                              Jackie
+   domiciled in community                                               Schedule CA (540NR), Schedule CA (540NR),                                         Schedule CA (540NR), Schedule CA (540NR),
+   property states.                                                          column D             column E                                                     column D             column E
+                                             TOTAL
+WAGES                                      $ 30,000                                     $ 15,000                                    $   0                           $ 15,000                             $      0
+GAIN                                        100,000                                            0                                        0                            100,000                              100,000
+PENSION                                      10,000                                        5,000                                        0                              5,000                                    0
+RENTAL INCOME                                 1,000                                        1,000                                    1,000                                  0                                    0
+
+
+    John would complete his Schedule CA (540NR) as shown in the partial view that follows.
+    Part II Income Adjustment Schedule                                                                          A                        B                     C                      D                      E
+                                                                                                         Federal Amounts             Subtractions            Additions          Total Amounts            CA Amounts
+    Section A — Income                                                                                (taxable amounts from        See instructions      See instructions       Using CA Law          (income earned or
+               from federal Form 1040 or 1040-SR                                                      your federal tax return)   (difference between   (difference between     As If You Were a        received as a CA
+                                                                                                                                 CA and federal law)   CA and federal law)       CA Resident         resident and income
+                                                                                                                                                                             (subtract col. B from    earned or received
+                                                                                                                                                                               col. A; add col. C      from CA sources
+                                                                                                                                                                                 to the result)        as a nonresident)
+     1a Total amount from federal Form(s) W-2, box 1.
+        See instructions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1a                   $15,000                                                               $15,000
+
+
+
+     5 Pensions and annuities. See instructions.
+       a ___$10,000___  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .5b            5,000                                                                5,000
+
+    Section B — Additional Income
+                from federal Schedule 1 (Form 1040)
+    5 Rental real estate, royalties, partnerships,
+       S corporations, trusts, etc.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5              1,000                                                                1,000                  1,000
+
+
+ *California nonresidents are not taxed by California on pension income.
+**This income is from separate property; therefore, it is not divided even when domiciled in a community property state.
+
+
+2. John and Jackie are                                                                    John                                                                              Jackie
+   domiciled in separate                                                Schedule CA (540NR), Schedule CA (540NR),                                         Schedule CA (540NR), Schedule CA (540NR),
+   property states.                                                          column D             column E                                                     column D             column E
+                        TOTAL
+WAGES                $ 30,000                                                           $          0                                $   0                           $ 30,000                             $      0
+GAIN                   100,000                                                                     0                                    0                            100,000                              100,000
+PENSION                 10,000                                                                10,000                                    0                                  0                                    0
+RENTAL INCOME            1,000                                                                 1,000                                1,000                                  0                                    0
+3. John is domiciled in a                                                                                       John                                                                      Jackie
+   community property state                                             Schedule CA (540NR),                           Schedule CA (540NR),               Schedule CA (540NR),                  Schedule CA (540NR),
+   and Jackie in a separate                                                  column D                                       column E                           column D                              column E
+   property state.
+                        TOTAL
+WAGES                $ 30,000                                                           $           0                               $   0                           $ 30,000                             $      0
+GAIN                   100,000                                                                      0                                   0                            100,000                              100,000
+PENSION                 10,000                                                                  5,000                                   0                              5,000                                    0
+RENTAL INCOME            1,000                                                                  1,000                               1,000                                  0                                    0
+4. John is domiciled in a                                                                                       John                                                                      Jackie
+   separate property state
+                                                                        Schedule CA (540NR),                           Schedule CA (540NR),               Schedule CA (540NR),                  Schedule CA (540NR),
+   and Jackie in a community
+                                                                             column D                                       column E                           column D                              column E
+   property state.
+                        TOTAL
+WAGES                $ 30,000                                                              $15,000                                  $   0                           $ 15,000                             $      0
+GAIN                   100,000                                                                   0                                      0                            100,000                              100,000
+PENSION                 10,000                                                              10,000                                      0                                  0                                    0
+RENTAL INCOME            1,000                                                               1,000                                  1,000                                  0                                    0
+
+Page 12 FTB Pub. 1031 2025
+How To Split Income on Form 540NR
+Use this chart as a guide to split community income with your spouse/RDP based on domicile if you are married/RDP and
+file Form 540NR.
+Reminder: Include all of your separate income in addition to your half of the community income when filing. See “Division
+of Income” under Section M, Married/RDP Filing Separate Returns.
+ TYPE      YOUR            YOUR                 Form 540NR,                     Form 540NR,                           Form 540NR,
+          DOMICILE     SPOUSE’S/RDP’s     Married/RDP Filing Jointly    Married/RDP Filing Separately         Married/RDP Filing Separately
+                         DOMICILE                                                  (you)                         (your spouse’s/RDP’s)
+
+                                         Schedule CA (540NR),          Schedule CA (540NR),                  Schedule CA (540NR),
+                                         column A through column D:    column A through column D:            column A through column D:
+                                           All income                    Half of all income                    Half of all income
+
+
+ 1
+                                           All deductions                Half of all deductions                Half of all deductions
+         Community       Community
+         Property        Property
+                                         Schedule CA (540NR),          Schedule CA (540NR),                  Schedule CA (540NR),
+         State           State
+                                         column E:                     column E:                             column E:
+                                           All income taxable            Half of all income                    Half of all income
+                                           by California                 taxable by California                 taxable by California
+
+
+                                         Schedule CA (540NR),          Schedule CA (540NR),                  Schedule CA (540NR),
+                                         column A through column D:    column A through column D:            column A through column D:
+                                           All income                    All your income                       All your spouse’s/RDP’s income
+
+
+ 2
+         Separate        Separate          All deductions                All your deductions                   All your spouse’s/RDP’s
+         Property        Property                                                                              deductions
+         State           State           Schedule CA (540NR),          Schedule CA (540NR),                  Schedule CA (540NR),
+                                         column E:                     column E:                             column E:
+                                           All income taxable            All your income taxable by            All your spouse’s/RDP’s income
+                                           by California                 California                            taxable by California
+
+                                         Schedule CA (540NR),          Schedule CA (540NR),                  Schedule CA (540NR),
+                                         column A through column D:    column A through column D:            column A through column D:
+                                           All income                    Half of your income                   All your spouse’s/RDP’s income
+                                           All deductions                Half of your deductions               plus half of your income
+                                                                                                               All your spouse’s/RDP’s
+
+
+ 3
+         Community       Separate                                                                              deductions plus half of your
+         Property        Property                                                                              deductions
+         State           State           Schedule CA (540NR),          Schedule CA (540NR),                  Schedule CA (540NR),
+                                         column E:                     column E:                             column E:
+                                           All income taxable            Half of your income taxable by        All your spouse’s/RDP’s income
+                                           by California                 California                            taxable by California plus
+                                                                                                               half of your income taxable by
+                                                                                                               California
+
+                                         Schedule CA (540NR),          Schedule CA (540NR),                  Schedule CA (540NR),
+                                         column A through column D:    column A through column D:            column A through column D:
+                                           All income                    All your income plus half of your     Half of your spouse’s/RDP’s
+                                           All deductions                spouse’s/RDP’s income                 income
+
+
+
+ 4
+                                                                         All your deductions plus half of      Half of your spouse’s/RDP’s
+         Separate        Community                                       your spouse’s/RDP’s deductions        deductions
+         Property        Property
+         State           State           Schedule CA (540NR),          Schedule CA (540NR),                  Schedule CA (540NR),
+                                         column E:                     column E:                             column E:
+                                           All income taxable            All your income taxable by            Half of your spouse’s/RDP’s
+                                           by California                 California plus half                  income taxable by California
+                                                                         of your spouse’s/RDP’s income
+                                                                         taxable by California
+For information on income taxable by California, see Section I.
+
+
+
+
+                                                                                                             FTB Pub. 1031 2025 Page 13
+N Avoid Common Mistakes                                       P General Phone Service
+  on Form 540NR                                               Telephone assistance is available year-round from
+                                                              8 a.m. until 5 p.m. Monday through Friday, except
+Avoid making time-consuming and costly mistakes by            holidays. Hours subject to change.
+reporting your AGI from all sources as if you were a          Telephone: 800.852.5711 from within the United States
+resident of California for the entire year.                                  916.845.6500 from outside the United
+California tax returns start with federal AGI. However,                      States
+there are differences between California and federal tax      California
+law. Use Schedule CA (540NR) to convert your federal          Relay
+AGI (column A) to your total AGI from all sources under       Service:       711 or 800.735.2929 for persons with
+California law (column D) as follows:                                        hearing or speaking limitations
+• Copy your federal income, adjustments, and                  IRS:           800.829.1040 for federal tax questions
+   deductions to the applicable lines on
+   Schedule CA (540NR), column A.
+• Subtract income that is taxable under federal law but       Asistencia En Español
+   not under California law (such as California lottery       Asistencia telefónica está disponible durante todo el año
+   winnings and social security benefits) by entering it on   desde las 8 a.m. hasta las 5 p.m. de lunes a viernes,
+   Schedule CA (540NR), column B.                             excepto días feriados. Las horas están sujetas a cambios.
+• Add income excluded on the federal return (such
+   as foreign income or income from non-California            Teléfono:      800.852.5711 dentro de los Estados Unidos
+   municipal bonds), unless the income is specifically                       916.845.6500 fuera de los Estados Unidos
+   excludable under California law, by entering it on         Servicio de
+   Schedule CA (540NR), column C.                             Retransmisión
+• Do not subtract non-California source income to             de California: 711 o 800.735.2929 para personas con
+   determine your total AGI from all sources under                           limitaciones auditivas o del habla
+   California law.                                            IRS:           800.829.1040 para preguntas sobre
+When you figure your California AGI on                                       impuestos federales
+Schedule CA (540NR), column E, be sure to include
+the following:                                                Q Franchise Tax Board
+• All income from every source while you were a
+   resident of California.                                      Privacy Notice on
+• Income from California sources while you were a
+   nonresident.                                                 Collection
+For more information, get the instructions for                Our privacy notice can be found in annual tax booklets
+Schedule CA (540NR).                                          or online. Go to ftb.ca.gov/privacy to learn about our
+                                                              privacy policy statement, or go to ftb.ca.gov/forms and
+O Double-Taxed Income                                         search for 1131 to locate FTB 1131 EN-SP, Franchise Tax
+                                                              Board Privacy Notice on Collection – Aviso de Privacidad
+If you paid taxes to California and to another state on the   del Franchise Tax Board sobre la Recaudación. To
+same income, you may qualify for a tax credit for taxes       request this notice by mail, call 800.338.0505 and enter
+paid to another state. Get California Schedule S, Other       form code 948 when instructed.
+State Tax Credit.
+
+
+
+
+Page 14 FTB Pub. 1031 2025
+

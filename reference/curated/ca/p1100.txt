@@ -1,0 +1,1016 @@
+                             1100
+               FTB Publication
+
+
+2025
+Taxation of Nonresidents
+and Individuals Who
+Change Residency
+Table of Contents
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Tax Computation Method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Installment Sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Individual Retirement Accounts, Employer-Sponsored Retirement Plans, and Compensation. . . . . . . . . . . . . . . . . . . . . . . . 5
+Stock Options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Deferred Gains and Losses (like-kind exchanges) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Gains and Losses From the Sale of Trade or Business Property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Capital Gains and Losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Passive Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Net Operating Losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Basis in Pass-Through Entities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Partnerships, S corporations, and Certain Trusts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Alternative Minimum Tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+General Phone Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Franchise Tax Board Privacy Notice on Collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+
+
+
+                            Go to ftb.ca.gov for:                                 • Refund Status – find out when                       • FTB legal notices, rulings, and
+                            • MyFTB – view payments,                                we authorized your refund.                            regulations.
+                              balance due, and withholding                        • Installment Agreement –                             • FTB’s analysis of pending
+                              information.                                          request to make monthly                               legislation.
+                            • Web Pay – to pay income taxes.                        payments.                                           • Internal procedure manuals to
+ONLINE                        Choose your payment date up to
+                              one year in advance.
+                                                                                  • Subscription Services – sign up
+                                                                                    to receive emails on a variety of
+                                                                                                                                          learn how we administer law.
+
+SERVICES                    • CalFile – e-file your personal                        tax topics.
+                              income tax return.                                  • Tax forms and publications.
+
+
+Page 2 FTB Pub. 1100 2025
+2025 Taxation of Nonresidents and Individuals Who Change
+Residency
+A Introduction                                                              Total AGI – The AGI from all sources for the entire taxable year.
+                                                                            California Itemized or Standard Deductions – Determined by
+This publication provides information on the current method for             applying the ratio of California AGI to total AGI to all itemized or
+computing tax if you:                                                       standard deductions allowed to California residents.
+• Have always been a California nonresident.                                Total Taxable Income – The entire taxable income determined
+• Change residency from California (move out).                              as if you were a California resident for the current taxable year
+• Change residency to California (move in).                                 and for all prior taxable years for any carryover items, deferred
+FTB Pub. 1031, Guidelines for Determining Resident Status,                  income, suspended losses, or suspended deductions.
+will help you determine your residency status and whether your              Restate – To refigure prior year carryovers or pass-through
+income is taxable by California.                                            entity (PTE) basis amounts to determine the allowable amount
+Key                                                                         in the current year. Prior year tax returns are not amended.
+State abbreviations used in this publication:                               Registered Domestic Partners (RDPs) – Two persons who
+                                                                            filed a Declaration of Domestic Partnership with the California
+CA – California        WY – Wyoming
+                                                                            Secretary of State.
+NY – New York          TX – Texas
+WA – Washington        NV – Nevada
+FL – Florida                                                                Percentage Calculations
+                                                                            Apply ratios as described for the following items to determine
+B Tax Computation Method                                                    the CA amount.
+                                                                            Itemized or Standard Deductions – Divide the California AGI
+If you are a nonresident or a part-year resident, you determine             by the total AGI (the result cannot exceed 1.0):
+your California tax by multiplying your California taxable income
+                                                                                                            CA AGI
+by an effective tax rate. The effective tax rate is the California tax
+on all income as if you were a California resident for the current                                         Total AGI
+taxable year and for all prior taxable years for any carryover              Tax Rate – Divide the tax on total taxable income by the total
+items, deferred income, suspended losses, or suspended                      taxable income:
+deductions, divided by that income. Use the following formula:                                   Tax on total taxable income
+                             Tax on total                                                           Total taxable income
+CA taxable                 taxable income
+                  X                                  = Prorated tax         Credits – Divide the California taxable income by the total
+  income                         Total                                      taxable income:
+                           taxable income
+                                                                                                     CA taxable income
+Definitions                                                                                         Total taxable income
+California Taxable Income – California adjusted gross income                This percentage does not apply to renter’s credit, other state tax
+(AGI) less California itemized or standard deductions.                      credit, or credits conditional upon a transaction occurring wholly
+                                                                            within California. California allows these credits in full.
+California AGI – Gross income and deductions derived from
+California sources for any part of the taxable year during which            The following example shows how the calculation works.
+you were a nonresident plus all items of gross income and all
+deductions, regardless of source, for any part of the taxable
+year during which you were a resident.
+ Example 1
+ You were a Florida resident until March 31, 2024. While a Florida resident, you earned and received wage income of $15,000 and
+ interest income of $1,000. On April 1, 2024, you permanently moved to California. While a California resident, you earned and received
+ wage income of $65,000 and interest income of $3,000. You are single and had the following itemized deductions in 2024:
+ Real estate taxes:                              $ 1,200    (CA house)
+                                                      800   (FL house)
+ Mortgage interest:                                17,000   (CA house)
+                                                    3,500   (FL house)
+ Charitable contributions:                          1,500   (NY Firefighters’ Fund)
+                                                 $ 24,000
+ Determination: Calculate your 2024 California tax liability as follows:
+ CA AGI:                                   $ 65,000 (CA wages)
+                                            + 3,000 (Interest earned while a CA resident)
+                                           $ 68,000
+ Total AGI:                                      $ 80,000 (Wages from all sources)
+                                                  + 4,000 (Interest income from all sources)
+                                                 $ 84,000
+ CA itemized deductions:                         $ 24,000 (Total itemized deductions)
+                                                  x .8095 (CA AGI ÷ Total AGI)
+                                                 $ 19,428                                                         (continued on next page)
+
+
+                                                                                                                FTB Pub. 1100 2025 Page 3
+ CA taxable income:                           $ 68,000 (CA AGI)
+                                               - 19,428 (CA itemized deductions)
+                                              $ 48,572
+ Total taxable income:                        $ 84,000 (Total AGI)
+                                               - 24,000 (Total itemized deductions)
+                                              $ 60,000
+ Tax on total taxable income:                 $ 2,260 (Tax table)
+ Prorated tax:                                $ 48,572 (CA taxable income)
+                                               x .0377 (Tax on total taxable income ÷ total taxable income)
+                                              $ 1,831
+
+ Prorated exemption credit:                   $     149 (Personal exemption credit)
+                                                x .8095 (CA taxable income ÷ total taxable income)
+                                              $     121
+ Tax liability:                               $ 1,831 (Prorated tax)
+                                                - 121 (Prorated exemption credit)
+                                              $ 1,710
+
+C Installment Sales                                                     Example 5 – On September 1, 2022, while a nonresident of
+                                                                        California, you sold stock (intangible property) in an installment
+California taxes installment gains received by a nonresident            sale. On June 1, 2024, you became a California resident and on
+from the sale of tangible property and intangible property that is      October 1, 2024, you received installment proceeds comprised
+sourced to California. California taxes real property based upon        of capital gain income and interest income.
+where the property is located. Installment gains from the sale of       Determination: Your capital gain income and interest income
+intangible property are generally sourced to the recipient’s state      received on October 1, 2024, are taxable by California because
+of residence at the time of the sale. California taxes residents on     you were a California resident when you received the proceeds.
+all income regardless of source.
+                                                                        Change of Residency From California
+Always a Nonresident                                                    (move out)
+California taxes the installment proceeds received by a
+nonresident to the extent the income from the sale was from a           If you are a former California resident, your installment proceeds
+California source.                                                      from the sale of property located outside California that you
+                                                                        sold while you were a California resident are not taxable by
+Example 2 – You have always been a nonresident of California.           California.
+On March 1, 2023, you sold a California rental property in
+an installment sale. During 2023 and 2024, you received                 Example 6 – In June 2023, while a California resident, you sold
+installment proceeds comprised of capital gain income and               a parcel of real property located in Washington in an installment
+interest income.                                                        sale. On March 1, 2024, you became an Ohio resident, and on
+                                                                        June 1, 2024, you received installment proceeds comprised of
+Determination: The capital gain income is taxable by California         capital gain income and interest income.
+in both 2023 and 2024, because the property was located in
+California. The interest income is not taxable by California and        Determination: The capital gain income is not taxable by
+has a source in your state of residence.                                California because the property was not located in California.
+                                                                        The interest income is not taxable by California because
+Example 3 – You have always been a nonresident of California.           you were a nonresident of California when you received the
+On June 4, 2023, you sold a parcel of land located in Idaho             proceeds.
+on an installment basis. During 2023 and 2024, you received
+installment proceeds comprised of capital gain income and               Example 7 – In March 2023, while a California resident,
+interest income.                                                        you sold a parcel of real property located in California in an
+                                                                        installment sale. On June 1, 2024, you became a Washington
+Determination: Your capital gain income is not taxable by               resident, and on August 1, 2024, you received installment
+California because the source of the gain is Idaho. The interest        proceeds comprised of capital gain income and interest income.
+income is not taxable by California and has a source in your
+state of residence.                                                     Determination: The capital gain income is taxable by California
+                                                                        because the property you sold was located in California. The
+Change of Residency to California                                       interest income is not taxable by California because you were a
+                                                                        nonresident of California when you received the proceeds.
+(move in)                                                               Example 8 – In September 2023, while a California resident,
+If you are a California resident who sold property located              you sold stock (intangible property) in an installment sale.
+outside California on the installment basis while a nonresident,        On February 1, 2024, you became a Florida resident, and on
+your installment proceeds while a California resident are taxable       May 1, 2024, you received installment proceeds comprised of
+by California.                                                          capital gain income and interest income.
+Example 4 – On July 1, 2023, while a nonresident of California,         Determination: The capital gain income from the sale of the
+you sold a Texas rental property in an installment sale. On             stock is taxable by California because you were a California
+May 15, 2024, you became a California resident and on                   resident when you sold the stock. The interest income is not
+August 1, 2024, you received installment proceeds comprised of          taxable by California because you were a nonresident of
+capital gain income and interest income.                                California when you received the proceeds.
+Determination: Your capital gain income and interest income
+received on August 1, 2024, are taxable by California because
+you were a California resident when you received the proceeds.
+
+Page 4 FTB Pub. 1100 2025
+D Individual Retirement                                              all of your services in California from February 1, 2021, to
+                                                                     May 1, 2024, the date you left the company and permanently
+  Accounts, Employer-                                                moved to Texas. On June 1, 2024, you exercised your
+                                                                     nonstatutory stock options.
+  Sponsored Retirement                                               Determination: The income resulting from the exercise of your
+  Plans, and Compensation                                            nonstatutory stock options is taxable by California because
+                                                                     the income is compensation for services having a source in
+                                                                     California, the state where you performed all of your services.
+Nonresident
+California does not tax the IRA distributions, qualified pension,    Change of Residency to California
+profit sharing, and stock bonus plans of a nonresident. California
+taxes compensation received by a nonresident for performance
+                                                                     (move in)
+of services in California.                                           If you exercise nonstatutory stock options while a California
+                                                                     resident, the resulting compensation is taxable by California
+Example 9 – You are a nonresident of California and live
+                                                                     because the wage income is recognized while you are a
+and work in Wyoming. Your Wyoming employer temporarily
+                                                                     California resident.
+assigns you to California for four months to complete a project.
+You continue to receive your paycheck from your employer’s           If you dispose of statutory stock options in a disqualifying
+Wyoming headquarters. You earn $5,000 per month.                     disposition, the resulting compensation and capital gain, if any,
+                                                                     are taxable by California because the wage income and capital
+Determination: Because you performed four months of services
+                                                                     gain are recognized while you are a California resident.
+in California, $20,000 ($5,000 x 4 months) of your compensation
+has a source in California and is taxable by California.             California also taxes the capital gain income received by
+                                                                     a former nonresident from the sale of stock in a qualifying
+Example 10 – You lived and worked exclusively in California
+                                                                     disposition of statutory stock options because the stock is sold
+until you retired on December 31, 2023. You moved to Nevada
+                                                                     while the taxpayer is a resident.
+on January 1, 2024. Your former California employer pays its
+employees on the 5th of every month. On January 10, 2024,            Example 14 – On March 1, 2020, while a Nevada resident, you
+you received in the mail your last paycheck of $4,000 from your      were granted nonstatutory stock options. On April 1, 2024, you
+former California employer.                                          retired and permanently moved to California. On May 1, 2024,
+                                                                     you exercised your options.
+Determination: The $4,000 of compensation is taxable by
+California because the income has a source in California, the        Determination: The compensation resulting from the exercise of
+state where you performed your services.                             your nonstatutory stock options is taxable by California because
+                                                                     you were a California resident when the income was recognized.
+Employer-Sponsored Retirement                                        California also taxes the capital gain income received by
+Plans                                                                a former nonresident from the sale of stock in a qualifying
+                                                                     disposition of statutory stock options because the stock is sold
+California taxes residents on all income regardless of source.       while the taxpayer is a resident.
+Example 11 – You permanently moved from Florida to California        Example 15 – On February 1, 2020, while a Texas resident,
+on January 1, 2023. You received pension income during 2023          you were granted incentive stock options. On February 1, 2023,
+through a qualified plan from your former Florida employer.          you exercised your options. On December 1, 2023, you
+Determination: Your qualified pension income is taxable by           permanently moved to California and sold your stock on
+California because you were a California resident when you           March 1, 2024, for a gain.
+received the income.                                                 Determination: The resulting capital gain is taxable by
+                                                                     California because you were a California resident when you sold
+Compensation                                                         the stock.
+California taxes residents on all income regardless of source.       Get FTB Pub. 1004, Stock Option Guidelines, for additional
+Example 12 – You lived and worked in New York until                  information on the California taxation of stock options.
+April 30, 2024. You permanently moved to California on
+May 1, 2024. Your former New York employer pays their
+employees on the 5th of every month. On May 8, 2024, you
+                                                                     F Deferred Gains and Losses
+received in the mail your last paycheck of $3,000 from your            (like-kind exchanges)
+former New York employer.
+                                                                     When you exchange one kind of property for the same kind
+Determination: The $3,000 of compensation is taxable by              of property under the requirements of Internal Revenue Code
+California because you were a California resident when you           (IRC) Section 1031, you realize a gain or loss on the transaction
+received the income. If you also paid tax to New York on this        and defer paying tax on the gain or claiming the loss until the
+compensation, you are allowed a credit for taxes paid.               property is sold or otherwise disposed of. A gain or loss from the
+Get California Schedule S, Other State Tax Credit, for more          sale or exchange of real or tangible personal property located in
+information.                                                         California is sourced to California at the time the gain or loss is
+                                                                     realized.
+E Stock Options                                                      California Property Exchanged for
+Nonresident                                                          Out-of-State Property
+California taxes the wage income received by a nonresident from      If you are a nonresident and exchange real or tangible property
+employee stock options on a source basis, whether you were           located within California for real or tangible property located
+always a nonresident or were formerly a California resident.         outside California, the realized gain or loss will be sourced
+Example 13 – On February 1, 2021, while a California resident,       to California. Taxation will not occur until the gain or loss is
+you were granted nonstatutory stock options. You performed           recognized.
+
+                                                                                                        FTB Pub. 1100 2025 Page 5
+For taxable years beginning on or after January 1, 2014,              For purposes of computing California taxable income, net only
+California Revenue and Taxation Code (R&TC) Sections 18032            California source Section 1231 gains and losses.
+and 24953 require California resident and nonresident taxpayers       Example 19 – You are a resident of Washington. In 2024, your
+who defer gain on the sale or exchange of California property         California and non-California source Section 1231 gains and
+for out-of-state replacement property under IRC Section 1031          losses included a $3,000 California gain, a $2,000 California
+to file an annual information return with the Franchise Tax           loss, a $4,000 Washington gain, and a $5,000 Washington loss.
+Board (FTB). All taxpayers, regardless of residence status or
+commercial domicile, who exchange real property located in            Determination: Based upon the netting of your total and
+California for like-kind property located outside of California,      California source Section 1231 gains and losses, determine
+must file form FTB 3840, California Like-Kind Exchanges, with         your capital gain or ordinary loss as follows:
+their California tax return. Taxpayers who exchange multiple          Taxable Year 2024:           Total Taxable     CA Taxable
+assets involving both real and personal property located in                                           Income          Income
+California for like-kind property located outside of California are   CA Section 1231 gain             $ 3,000        $ 3,000
+also subject to this requirement. Taxpayers who exchange only         CA Section 1231 loss             (2,000)        (2,000)
+personal property assets are not required to file form FTB 3840.      WA Section 1231 gain               4,000
+Example 16 – As a resident of Texas, you exchanged a                  WA Section 1231 loss             (5,000)
+condominium located in California for like-kind property located      Capital gain                     $     0         $1,000
+in Texas. You realized a gain of $15,000 on the exchange that
+was properly deferred under IRC Section 1031. You then sold           Example 20 – You are a resident of Florida. In 2024, your
+the Texas property in a nondeferred transaction and recognized        California and non-California source Section 1231 gains and
+a gain of $20,000.                                                    losses included a $2,500 California gain, a $3,000 California
+Determination: The $15,000 deferred gain (the lesser of the           loss, a $1,000 Florida gain, and a $500 Florida loss.
+deferred gain or the gain recognized at the time you disposed of      Determination: Based upon the netting of your total and
+the Texas property) has a source in California and is taxable by      California source Section 1231 gains and losses, determine
+California.                                                           your capital gain or ordinary loss as follows:
+                                                                      Taxable Year 2024:           Total Taxable     CA Taxable
+Out-of-State Property Exchanged for                                                                   Income          Income
+California Property                                                   CA Section 1231 gain
+                                                                      CA Section 1231 loss
+                                                                                                       $ 2,500
+                                                                                                       (3,000)
+                                                                                                                      $ 2,500
+                                                                                                                      (3,000)
+If you exchange real or tangible property located outside             FL Section 1231 gain               1,000
+California for real or tangible property located within California,   FL Section 1231 loss               (500)
+the gain recognized when you sell or otherwise dispose of the
+California property in a nondeferred transaction has a California     Ordinary loss                    $     0         $(500)
+source and is taxable by California.
+Example 17 – As a resident of Nevada, you exchanged Nevada            H Capital Gains and Losses
+business property for like-kind California business property.
+You realized a $10,000 gain on the exchange that was properly         Always a Nonresident
+deferred under IRC Section 1031. You then sold the California         If you have always been a nonresident of California, you
+business property in a nondeferred transaction and recognized         determine capital loss carryovers and capital loss limitations
+a gain of $50,000.                                                    based only upon California source income and loss items in
+Determination: $40,000 of gain has a California source and is         order to compute California taxable income.
+taxable by California.                                                Example 21 – You have always been a New York resident. In
+Example 18 – While a resident of Kansas, you exchanged real           2023, your California and non-California source capital gains
+property located in Kansas for like-kind real property located        and losses included California capital gains of $2,000, California
+in California. You realized a $12,000 gain on the exchange            capital losses of $6,000, New York capital gains of $5,000,
+that was properly deferred under IRC Section 1031. You then           and New York capital losses of $2,000. You had no capital loss
+became a California resident and, while a resident, you sold the      carryovers prior to 2023.
+California property in a nondeferred transaction and recognized       Determination: Net your capital gains and losses to determine
+a gain of $40,000.                                                    the capital losses allowed in 2023 (the $3,000 limitation applies)
+Determination: California taxes the $40,000 gain because you          and the capital loss carryover to 2024.
+were a California resident at the time of the sale. If you paid       Taxable Year 2023:                 Total Taxable     CA Taxable
+tax to Kansas on the $12,000 deferred gain, you are allowed a                                               Income            Income
+credit for taxes paid.                                                CA capital gain                       $ 2,000            $ 2,000
+                                                                      CA capital loss                       (6,000)            (6,000)
+G Gains and Losses From the                                           NY capital gain
+                                                                      NY capital loss
+                                                                                                              5,000
+                                                                                                            (2,000)
+  Sale of Trade or Business                                           Total                                $(1,000)          $(4,000)
+
+  Property                                                            Capital loss allowed in 2023
+                                                                      Capital loss carryover to 2024       $
+                                                                                                              1,000
+                                                                                                                  0
+                                                                                                                                 3,000
+                                                                                                                             $(1,000)
+When you sell property used in a trade or business or certain
+involuntary conversions (IRC Section 1231 property), losses           Change of Residency to California
+are netted against gains. If Section 1231 losses exceed
+Section 1231 gains, the losses receive ordinary tax treatment.        (move in)
+If Section 1231 gains exceed Section 1231 losses, the gains           If you have capital loss carryovers and were a nonresident of
+receive capital gain tax treatment. Section 1231 gains and            California in prior years, the capital loss carryovers need to be
+losses retain this characterization regardless of whether you         restated as if you had been a California resident for all prior years.
+change your residency status.
+
+Page 6 FTB Pub. 1100 2025
+Example 22 - Assume the same facts as Example 21. On                       Step 2: Net your capital gains and losses to determine the
+January 1, 2024, you become a California resident. During                           amount of capital gain income to include in total taxable
+2024, you sell property located in Wyoming for a capital gain of                    income.
+$5,000 and incur a $4,000 capital loss from the sale of property           Taxable Year 2024:                Total Taxable
+located in California.                                                                                          Income
+Determination:                                                             CA capital loss                    $ (4,000)
+Step 1: Restate your 2023 capital loss carryover as if you had             WY capital gain                        5,000
+         been a California resident for all prior years.                   Capital loss carryover                     0
+2023 Restatement:                 Total Taxable                            Capital gain income                $ 1,000
+                                     Income
+CA capital gain                      $ 2,000                               Change of Residency From California
+CA capital loss
+NY capital gain
+                                      (6,000)
+                                        5,000
+                                                                           (move out)
+NY capital loss                       (2,000)                              If you have capital loss carryovers and you become a
+                                                                           nonresident of California, your capital loss carryovers need to
+Total                               $(1,000)                               be restated as if you had been a nonresident of California for all
+Capital loss allowed in 2023            1,000                              prior years.
+Capital loss carryover to 2024       $       0
+
+ Example 23
+ Assume the same facts as Examples 21 and 22. On January 1, 2025, you become a nonresident of California again. During 2025,
+ you sell property located in Texas for a capital gain of $8,000, sell property located in California for a $9,000 capital gain, and incur a
+ $5,000 capital loss from the sale of property located in California.
+ Determination:
+ Step 1: Restate your capital loss carryovers as if you had been a nonresident of California for all prior years by netting your capital
+         gains and losses from California sources only.
+          2023 Restatement:                        Total Taxable                CA Taxable
+                                                      Income                      Income
+          CA capital gain                            $ 2,000                     $ 2,000
+          CA capital loss                             (6,000)                     (6,000)
+          NY capital gain                               5,000
+          NY capital loss                             (2,000)
+          Total                                      $(1,000)                    $(4,000)
+          Capital loss allowed in 2023                  1,000                       3,000
+          Capital loss carryover to 2024             $      0                    $(1,000)
+
+          2024 Restatement:                        Total Taxable                CA Taxable
+                                                      Income                      Income
+          CA capital loss, 2024                      $(4,000)                   $ (4,000)
+          WY capital gain                               5,000
+          Capital loss allowed in 2023                                            (1,000)
+          Capital gain or loss                       $ 1,000                    $ (5,000)
+          Capital loss allowed in 2024                                              3,000
+          Capital loss carryover to 2025              $      0                  $ (2,000)
+
+ Step 2: Net your capital gains and losses to determine the amount of capital gain income to include in total taxable income and
+         California taxable income.
+          Taxable Year 2025:                       Total Taxable                CA Taxable
+                                                      Income                      Income
+          CA capital gain                            $ 9,000                     $ 9,000
+          CA capital loss                             (5,000)                     (5,000)
+          TX capital gain                               8,000
+          Total                                      $12,000                      $ 4,000
+          Capital loss carryover from 2024                  0                     (2,000)
+          Capital gain income                        $12,000                      $ 2,000
+
+
+
+
+                                                                                                               FTB Pub. 1100 2025 Page 7
+Part-Year Resident                                                       year you were a nonresident. Compute any prior year carryover
+                                                                         loss as if you were a California resident for all prior years and as
+If you changed your residency, compute income and deductions             if you were a nonresident for all prior years. Prorate both capital
+using resident rules for the period of the year you were a               loss carryover amounts based upon the period of California
+California resident and nonresident rules for the period of the          residency and the period of nonresidency during the year.
+
+ Example 24
+ You became a California resident on July 1, 2023. Your total and California source capital gains and losses for 2023 are as follows:
+ Before July 1, 2023                                                  After July 1, 2023
+  Total capital gains                                  $ 10,000        Total capital gains                                     $ 8,000
+  CA source capital gains                                 7,000        CA source capital gains                                   4,000
+  Total capital losses                                  (2,000)        Total capital losses                                    (3,000)
+  CA source capital losses                              (1,000)        CA source capital losses                                (3,000)
+ Your capital loss carryover from 2022 was $7,000, as if you had been a California resident for all prior years and $5,000, as if you had
+ been a nonresident for all prior years.
+ Determination:
+ Step 1: Net your total capital gains and losses for the period of residency and your California source capital gains and losses for the
+         period of nonresidency.
+         CA capital gains, before July 1, 2023                                  $ 7,000
+         CA capital losses, before July 1, 2023                                 (1,000)
+         Total capital gains, after July 1, 2023                                  8,000
+         Total capital losses, after July 1, 2023                               (3,000)
+         Capital gain before carryover losses                                  $11,000
+ Step 2: Prorate your capital loss carryover amounts based upon periods of California residency and nonresidency during 2023.
+         Period of Residency                                                   Period of Nonresidency
+         2022 carryover, as if a CA                                            2022 carryover, as if a
+             resident for all prior years               $(7,000)                   nonresident for all prior years            $(5,000)
+         CA resident days ÷ total days                                         Nonresident days ÷ total days
+                      184 ÷ 365                         x .5041                             181 ÷ 365                          x .4959
+         Prorated 2022 capital                                                 Prorated 2022 capital
+             loss carryover                            $(3,529)                    loss carryover                             $(2,479)
+ Step 3: Compute your capital gain or loss to include in California taxable income.
+         Taxable Year 2023:                                                   CA Taxable
+                                                                                 Income
+         Capital gain before carryover losses                                  $11,000
+         Capital loss carryover, resident period                                (3,529)
+         Capital loss carryover, nonresident period                             (2,479)
+         Capital gain, 2023                                                    $ 4,992
+
+Get California 540NR, Nonresident or Part-Year Resident Booklet, for more information regarding the reporting of capital gains and losses.
+
+I     Passive Activities                                                 Determination: Based upon the netting of your passive income
+                                                                         and losses and the allowance of up to $25,000 for rental losses,
+                                                                         determine your passive losses allowed in 2023 and suspended
+Always a Nonresident                                                     to 2024 as follows:
+If you have always been a nonresident of California, you                 Taxable Year 2023:                  Total Taxable    CA Taxable
+determine the allowed passive activity losses and suspended                                                     Income           Income
+losses based only upon California source passive income and              CA rental income                    $    2,000       $    2,000
+loss items to compute California taxable income. Only California         CA rental losses                      (30,000)         (30,000)
+source passive losses carry forward into the following year.             TX rental income                         4,000
+Example 25 – You have always been a resident of Texas.                   Total                               $ (24,000)       $ (28,000)
+Prior to 2023, you were not engaged in any passive activities.           Allowed rental losses               $ 24,000         $ 25,000
+During 2023, you purchased rental properties in both California
+and Texas. In 2023, your California and non-California source            Suspended loss to 2024              $        0       $ (3,000)
+passive income and losses included California rental income              Example 26 – You have always been a resident of New
+of $2,000, California rental losses of $30,000, and Texas rental         York. Prior to 2023, you were not engaged in any passive
+income of $4,000.                                                        activities. During 2023, you became engaged in California and
+                                                                         non-California passive activities. In 2023, your passive income
+                                                                         and losses included California source partnership income of
+                                                                         $2,000, California source S corporation losses of $8,000, and
+                                                                         New York partnership income of $3,000.
+
+
+
+
+Page 8 FTB Pub. 1100 2025
+Determination: Based upon the netting of your passive income
+and losses, determine your suspended losses to be carried
+                                                                         Change of Residency From California
+forward to 2024 as follows:                                              (move out)
+Taxable Year 2023:             Total Taxable     CA Taxable              If you have suspended passive losses and you become a
+                                   Income          Income                nonresident of California, your suspended passive losses need
+CA partnership income            $ 2,000          $ 2,000                to be restated as if you had been a nonresident of California for
+CA S corporation loss              (8,000)          (8,000)              all prior years.
+NY partnership income                3,000                               Example 28 – Assume the same facts as Examples 26 and 27.
+Suspended loss to 2024           $ (3,000)        $ (6,000)              On January 1, 2025, you become a nonresident of California
+                                                                         again. During 2025, your passive income and losses include
+Change of Residency to California                                        California source partnership income of $15,000, California
+                                                                         source S corporation losses of $7,000, and New York source
+(move in)                                                                partnership income of $2,000.
+If you had suspended passive losses and were a nonresident of            Determination:
+California in prior years, the suspended passive losses need to be
+restated as if you had been a California resident for all prior years.   Step 1: Restate your suspended passive losses as if you had
+                                                                                   been a nonresident of California for all prior years
+Example 27 – Assume the same facts as Example 26. On                               by netting passive income and passive losses from
+January 1, 2024, you become a California resident. In 2024, your                   California sources only.
+passive income and losses include California source partnership
+income of $3,000, California source S corporation losses of              2023 Restatement:                    Total Taxable CA Taxable
+$1,000, and New York source partnership income of $7,000.                                                        Income             Income
+                                                                         CA partnership income                 $     2,000       $     2,000
+Determination:                                                           CA S corporation loss                     (8,000)           (8,000)
+Step 1: Restate your 2023 suspended passive loss as if you               NY partnership income                       3,000
+         had been a California resident for 2023.                        Suspended passive loss to 2024          $ (3,000)         $ (6,000)
+2023 Restatement:                         Total Taxable
+                                             Income                      2024 Restatement:                    Total Taxable    CA Taxable
+CA partnership income                      $ 2,000                                                               Income          Income
+CA S corporation loss                        (8,000)                     CA partnership income                 $    3,000      $    3,000
+NY partnership income                          3,000                     CA S corporation loss                    (1,000)         (1,000)
+Suspended passive loss to 2024             $ (3,000)                     NY partnership income                      7,000
+                                                                         Total                                   $ 9,000       $   2,000
+Step 2: Net your passive income and losses to determine the              Suspended loss from 2023                 (3,000)        (6,000)
+        amount of passive income to include in total taxable
+        income.                                                          Income or suspended loss, 2024        $    6,000      $ (4,000)
+Taxable Year 2024:                    Total Taxable                      Step 2: Net your passive income and losses to determine the
+                                         Income                                  amount of passive income to include in total taxable
+CA partnership income                  $ 3,000                                   income and California taxable income.
+CA S corporation loss                    (1,000)
+NY partnership income                      7,000                         Taxable Year 2025:                   Total Taxable    CA Taxable
+                                                                                                                Income          Income
+Total                                  $ 9,000
+                                                                         CA partnership income                 $ 15,000        $ 15,000
+Suspended passive loss, 2023             (3,000)
+                                                                         CA S corporation loss                    (7,000)         (7,000)
+Passive income, 2024                   $ 6,000                           NY partnership income                      2,000
+                                                                         Total                                 $ 10,000        $   8,000
+                                                                         Suspended loss from 2024                       0        (4,000)
+                                                                         Passive income, 2025                  $ 10,000         $ 4,000
+
+
+
+
+                                                                                                            FTB Pub. 1100 2025 Page 9
+Part-Year Resident                                                       you were a nonresident. Compute any suspended passive losses
+                                                                         as if you were a California resident for all prior years and as if you
+If you changed your residency, compute income and deductions             were a nonresident for all prior years. Prorate both suspended
+using resident rules for the period of the year you were a               passive loss amounts based upon the period of California
+California resident and nonresident rules for the period of the year     residency and the period of nonresidency during the year.
+
+ Example 29
+ You became a nonresident of California on October 1, 2024. Your passive activities did not include any rental properties. Your total and
+ California source passive income and losses for 2024 were as follows:
+ Before October 1, 2024                                                After October 1, 2024
+  Total passive income                                   $ 13,500       Total passive income                                     $ 4,500
+  CA passive income                                         7,500       CA passive income                                          2,500
+  Total passive losses                                    (3,000)       Total passive losses                                     (1,000)
+  CA passive losses                                       (6,000)       CA passive losses                                        (2,000)
+ Your suspended passive loss from 2023 was $7,000, restated as if you had been a California resident for all prior years and $5,000,
+ restated as if you had been a nonresident for all prior years.
+ Determination:
+ Step 1: Net your total passive income and losses for the period of residency and your California source passive income and losses
+         for the period of nonresidency.
+          Total passive income, before October 1, 2024                        $ 13,500
+          Total passive losses, before October 1, 2024                          (3,000)
+          CA passive income, after October 1, 2024                                2,500
+          CA passive losses, after October 1, 2024                              (2,000)
+          Passive income before suspended losses                               $11,000
+ Step 2: Prorate your suspended passive loss carryover amounts based upon periods of California residency and nonresidency during
+         2024.
+          Period of Residency                                                  Period of Nonresidency
+          2023 suspended loss, as if a CA                                      2023 suspended loss, as if a
+              resident for all prior years                $(7,000)                 nonresident for all prior years              $(5,000)
+          CA resident days ÷ total days                                        Nonresident days ÷ total days
+                       273 ÷ 366                          x .7459                           93 ÷ 366                             x .2541
+          Prorated 2023 suspended loss                   $(5,221)              Prorated 2023 suspended loss                     $(1,271)
+ Step 3: Compute your passive income or suspended loss for taxable year 2024.
+          Taxable Year 2024:                                                 CA Taxable
+                                                                               Income
+          Passive income before suspended losses                             $ 11,000
+          Suspended passive loss, resident period                              (5,221)
+          Suspended passive loss, nonresident period                           (1,271)
+          Passive income, 2024                                               $ (4,508)
+Get form FTB 3801, Passive Activity Loss Limitations, for more information regarding the reporting of passive activity losses.
+
+J Net Operating Losses                                                   In 2022 your businesses produced the following results:
+                                                                         Taxable Year          Total Taxable            CA Taxable
+Get form FTB 3805V, Net Operating Loss (NOL) Computation                     2022:                Income                  Income
+and NOL and Disaster Loss Limitations — Individuals, Estates,            NV business              $ 9,000
+and Trusts, for more information regarding NOLs.                         CA business               (3,000)                $ (3,000)
+                                                                         Total                    $ 6,000                 $ (3,000)
+Always a Nonresident
+                                                                         Determination: Only your California sourced income and losses
+The NOL carryover computation for the California taxable
+                                                                         are considered in determining if you have a California NOL.
+income of a nonresident is not limited by the amount of net
+                                                                         For 2022, you have a California NOL of $3,000. You may carry
+operating loss from all sources. Only your California sourced
+                                                                         forward $1,800 (60% of the $3,000 NOL).
+income and losses are considered in determining if you have a
+California NOL.
+Example 30 – You are a resident of Nevada and operate two
+                                                                         Change of Residency to California
+businesses. One business is conducted wholly within California           (move in)
+and the other business is conducted wholly within Nevada.                If you change residency to California and have NOL carryovers,
+                                                                         you need to restate your carryover amounts as if you were a
+                                                                         resident of California for all prior years.
+
+
+
+
+Page 10 FTB Pub. 1100 2025
+ Example 31
+ You became a California resident on January 1, 2023, moving from Texas. You started a business in Texas in 2016 and opened a
+ different business located in California in 2017. You had no income or loss from either business in 2017 through 2020. Under California
+ law, the income and loss from each business are as follows:
+ Business Location                2016                 2021                2022                 2023
+ California                                       $250,000            $(25,000)              $15,000
+ Texas                     $(125,000)            $1,000,000            $ 50,000              $ 5,000
+ Determination:
+ Step 1: First restate your NOL carryovers for prior years            Step 2: Combine your business income from all sources to
+         as if you were a California resident:                                determine your NOL carryover to 2024.
+ 2016 Restatement:                 Total Taxable                      Taxable Year 2023:                Total Taxable
+                                      Income                                                               Income
+ 2016 NOL                         $ (125,000)                         CA source income                  $ 15,000
+ Allowable Percentage                 x 100%                          TX source income                       5,000
+ NOL carryover to 2017            $ (125,000)                         Total                             $ 20,000
+                                                                      Prior year NOL carryover           (100,000)
+ 2021 Restatement:                                                    NOL carryover to 2024             $ (80,000)
+ Business Income             $ 1,250,000
+ Prior NOL carryover         $ (125,000)
+ Net business income exceeds $1,000,000. Your NOL
+ carryover deduction is suspended.
+ 2022 Restatement:
+ Business Income                   $    25,000
+ Prior NOL carryover                 (125,000)
+ NOL carryover to 2023             $ (100,000)
+
+Change of Residency From California                                     2022 Restatement:                Total Taxable
+                                                                                                           Income
+                                                                                                                              CA Taxable
+                                                                                                                               Income
+(move out)                                                              TX source business income           $ 50,000
+If you change residence from California and have NOL                    CA source business income           (25,000)          $(25,000)
+carryovers, you need to restate your carryover amounts as if you        Total                                  25,000         $(25,000)
+were a nonresident of California for all prior years.                   Prior year NOL carryover           (125,000)                  0
+Example 32 – Assume the same facts as Example 31. You                   Carryover to 2023                 $(100,000)          $(25,000)
+became a nonresident of California on January 1, 2024. Your
+Texas and California businesses earn income of $3,000 and               2023 Restatement:                Total Taxable        CA Taxable
+$4,000 respectively.                                                                                       Income              Income
+Determination: Restate your NOL carryover as if you had been            TX source business income             $ 5,000
+a nonresident of California for all prior years by netting business     CA source business loss               15,000           $15,000
+income and losses from California sources only.                         Total                                  20,000            15,000
+2016 Restatement:                Total Taxable          CA Taxable      Prior year NOL carryover           (100,000)           (25,000)
+                                     Income               Income        Carryover to 2024                  $(80,000)          $(10,000)
+TX source business loss             $(125,000)
+CA NOL carryover                                                        Part-Year Resident
+  allowed percentage, 2016             x 100%                           If you changed your residency during the year, compute your
+NOL carryover to 2014               $(125,000)                $0        NOL deduction using resident rules for the period of the year
+                                                                        you were a California resident and nonresident rules for the
+2021 Restatement:             Total Taxable     CA Taxable              period of the year you were a nonresident. Compute any NOL
+                                  Income          Income                carryovers as if you were a California resident for all prior years
+TX source business income      $ 1,000,000                              and as if you were a nonresident for all prior years. Prorate both
+CA source business loss            250,000      $ 250,000               NOL carryover amounts based upon the period of California
+Total                           $1,250,000      $ 250,000               residency and the period of nonresidency during the year.
+Prior year NOL carryover       $ (125,000)             $0
+You cannot use your NOL carryover in determining total
+taxable income because your net business income exceeds
+$1,000,000. You do not have a California source NOL to
+carryover for California taxable income.
+
+
+
+
+                                                                                                          FTB Pub. 1100 2025 Page 11
+ Example 33
+ You moved to California on May 1, 2023. Your total and California source income and losses from your Washington and California
+ business operations for 2023 were as follows:
+ Before May 1, 2023                                                   After May 1, 2023
+  WA business                                            $14,000       WA business                                           $ (26,000)
+  CA business                                             (2,000)      CA business                                               10,000
+  Total                                                  $12,000       Total                                                 $ (16,000)
+ Your NOL carryover from prior years is $6,000 as if you were a resident for all prior years and $3,000 as if you were a nonresident for
+ all prior years.
+ Determination:
+ Step 1: Compute your current year NOL by netting your total business income and losses for the period of residency and your
+         California source business income and losses for the period of nonresidency:
+          CA business losses, before May 1, 2023                             $ (2,000)
+          Total business losses, after May 1, 2023                            (16,000)
+          Total                                                               (18,000)
+          Current year NOL, 2023                                             $(18,000)
+ Step 2: Prorate your NOL carryover amounts based upon periods of California residency and nonresidency during 2023.
+          Period of Residency                                                  Period of Nonresidency
+          NOL carryover, as if a CA                                            NOL carryover, as if a
+          resident for all prior years                   $(6,000)              nonresident for all prior years                $(3,000)
+
+          CA resident days ÷ total days                                        Nonresident days ÷ total days
+                       245 ÷ 365                          x .6712                          120 ÷ 365                           x .3288
+          Prorated NOL carryover                         $(4,027)              Prorated NOL carryover                           $(986)
+ Step 3: Compute your prior year NOL carryover:
+
+          NOL carryover from prior years, resident period                      $(4,027)
+          NOL carryover from prior years, nonresident period                      (986)
+          Total NOL carryover from 2023                                        $(5,013)
+
+K Basis in Pass-Through                                                   Always a Nonresident
+  Entities (PTEs)                                                         Your basis in a PTE for California purposes is equal to
+                                                                          your federal tax basis adjusted for differences in federal
+PTEs include partnerships, S corporations, and limited liability          and California law. For example, allowable depreciation or
+companies that elect to be treated as partnerships.                       amortization expenses are different under California and
+                                                                          federal law.
+
+ Example 34
+ You are a resident of Nevada. In 2023, you invested $10,000 cash in a partnership and became a 50% partner. At the close of 2023,
+ the partnership generated a $4,000 federal loss and a $2,000 California loss. This difference is due to federal depreciation expense
+ being more than allowed under California law.
+ Compute your year-end California basis in the partnership as follows:
+                                                     %      Federal Law      Difference      California      Fed Basis        California
+                                                                                               Law                             Basis
+  1/1/2023 Cash Contribution to Capital                                                                          $10,000       $10,000
+  Partnership’s CA Loss                                       $ (4,000)        $ 2,000       $ (2,000)
+  Partner’s Percentage Interest                      50%      $ (2,000)        $ 1,000       $ (1,000)           $ (2,000)    $ (1,000)
+  Partner’s 12/31/2023 CA Basis (to 1/1/2024)                                                                    $ 8,000       $ 9,000
+
+ Because of the difference in allowable depreciation and amortization expenses, the Partner’s California PTE Basis will be different
+ than their federal PTE Basis.
+
+
+
+
+Page 12 FTB Pub. 1100 2025
+Change of Residency to California                                         example, allowable depreciation or amortization expenses are
+                                                                          different under California law than for federal. Your California
+(move in)                                                                 basis is adjusted for your distributive share of flow-through items
+Your California basis in a PTE is equal to your federal tax               under California law.
+basis adjusted for differences in federal and California law. For
+ Example 35
+ Assume the same facts as Example 34. On January 1, 2024, you become a California resident. At the close of 2024, the partnership
+ generates a $3,000 loss under California law.
+ Compute your California basis in the partnership in the same manner as you would for federal purposes with adjustments for
+ differences in California and federal law.
+                                                            Federal Law      Difference      California       Fed Basis       California
+                                                                                               Law                             Basis
+  1/1/2023 Cash Contribution to Capital                                                                        $10,000         $10,000
+  Partnership’s 2023 CA Loss                                  $ (4,000)       $ 2,000         $ (2,000)
+  Partner’s Percentage Interest                      50%      $ (2,000)       $ 1,000         $ (1,000)        $ (2,000)       $ (1,000)
+  Partner’s 12/31/2023 CA Basis (to 1/1/2024)                                                                   $ 8,000         $ 9,000
+  Partner’s CA Basis (from 12/31/2023)                                                                                          $ 9,000
+  Partnership’s 2024 CA Loss                                                                  $ (3,000)
+  Partner’s Percentage Interest                                                               $ (1,500)                        $ (1,500)
+  Partner’s 12/31/2024 CA Basis (to 1/1/2025)                                                                                   $ 7,500
+
+ Because of the difference in allowable depreciation and amortization expenses, the Partner’s California PTE Basis will be different
+ than their federal PTE Basis.
+
+Change of Residency From California                                       example, allowable depreciation or amortization expenses are
+                                                                          different under California law than for federal. Your California
+(move out)                                                                basis is adjusted for your distributive share of flow-through items
+Your California basis in a PTE is equal to your federal tax               under California law.
+basis adjusted for differences in federal and California law. For
+
+ Example 36
+ Assume the same facts as examples 34 and 35. On January 1, 2025, you become a nonresident of California again. At the close of
+ 2025, the partnership generates a $5,000 loss.
+ Compute your California basis in the partnership in the same manner as you would for federal purposes with adjustments for
+ differences in California and federal law.
+                                                           Federal Law     Difference       California       Fed Basis        California
+                                                                                              Law                              Basis
+  1/1/2023 Cash Contribution to Capital                                                                       $10,000          $10,000
+  Partnership’s 2023 CA Loss                                $ (4,000)        $ 2,000         $ (2,000)
+  Partner’s Percentage Interest                    50%      $ (2,000)        $ 1,000         $ (1,000)        $ (2,000)       $ (1,000)
+  Partner’s 12/31/2023 CA Basis (to 1/1/2024)                                                                 $ 8,000          $ 9,000
+  Partner’s 1/1/2024 CA Basis                                                                                                  $ 9,000
+  (from 12/31/2023)
+  Partnership’s 2024 CA Loss                                                                 $ (3,000)
+  Partner’s Percentage Interest                    50%                                       $ (1,500)                        $ (1,500)
+  Partner’s 12/31/2024 CA Basis (to 1/1/2025)                                                                                  $ 7,500
+  Partner’s 1/1/2025 CA Basis                                                                                                  $ 7,500
+  (from 12/31/2024)
+  Partnership’s 2025 CA Loss                                                                 $ (5,000)
+  Partner’s Percentage Interest                    50%                                       $ (2,500)                        $ (2,500)
+  Partner’s 12/31/2025 CA Basis                                                                                                $ 5,000
+  (to 1/1/2026)
+
+ Because of the difference in allowable depreciation and amortization expenses, the Partner’s California PTE Basis will be different
+ than their federal PTE Basis.
+
+
+
+                                                                                                            FTB Pub. 1100 2025 Page 13
+L Partnerships, S corporations,                                      Step 2: Compute your distributive share income to include in
+                                                                               California taxable income.
+  and Certain Trusts                                                 Taxable Year 2023:                          CA Taxable Income
+                                                                     Distributive share, period of residency                $ 4,800
+Nonresident                                                          Distributive share, period of nonresidency                1,000
+California taxes your distributive share of partnership,             Distributive share income, 2023                        $ 5,800
+S corporation, and trust income derived from California sources      Example 39 – You hold a 60% interest in a Washington
+if you are a nonresident of California. Income from a simple         partnership that reports income and losses on a calendar year
+trust (one which distributes its income annually) is subject to      basis. On September 22, 2023, you became a nonresident of
+these rules. Income from other trusts may also be subject to         California. You obtained a copy of the partnership tax return for
+these rules.                                                         2023. The total net income from the partnership consisted of
+Example 37 – You are a nonresident of California and hold a          the following capital gains on items sold during your periods of
+partnership interest in a California partnership. You received       California residency and nonresidency:
+a Schedule K-1, Shareholder’s Share of Income, Deductions,           January 1, 2023 – September 21, 2023
+Credits, etc., from the California partnership that included net
+income of $10,000 from California sources.                             Sale of WA real property                             $ 15,200
+                                                                       Sale of stock                                           2,000
+Determination: Your $10,000 distributive share of partnership net      Total net income                                     $ 17,200
+income has a source in California and is taxable by California.
+                                                                     September 22, 2023 – December 31, 2023
+Part-Year Resident                                                    Sale of WA real property                              $ 4,400
+If you changed your residency California taxes your distributive      Sale of CA real property                               10,300
+share of partnership, S corporation, and certain trust income         Total net income                                      $ 14,700
+based upon your period of California residency and your period
+of nonresidency during the partnership’s, S corporation’s, or        Determination:
+trust’s taxable year.                                                Step 1: Compute your distributive share income based upon
+The allocation of income between the period of residency                       periods of California residency and nonresidency
+and the period of nonresidency must be made in a manner                        during the partnership’s taxable year.
+that reflects the actual date of realization. In the absence of      Period of Residency
+information that reflects the actual date of realization, you must   Total net income                                      $ 17,200
+allocate an annual amount on a proportional basis between the        percent interest in partnership                        x 60%
+two periods, using a daily pro rata method.
+                                                                     2023 distributive share                               $ 10,320
+Example 38 – You hold a 50% S corporation interest in a
+Washington S corporation that reports income and losses on a         Period of Nonresidency
+fiscal year ending October 31st of each year. On June 10, 2023,      CA net income                                         $ 10,300
+you became a nonresident of California. You obtained interim         percent interest in partnership                        x 60%
+statements from the S corporation that include the following         2023 distributive share                               $ 6,180
+S corporation net income amounts:
+                                                                     Step 2: Compute your distributive share income to include in
+November 1, 2022 - June 9, 2023                                                California taxable income.
+  WA net income                                           $ 5,600    Taxable Year 2023:                          CA Taxable Income
+  CA net income                                             4,000
+                                                                     Distributive share, period of residency               $ 10,320
+  Total net income                                        $ 9,600    Distributive share, period of nonresidency               6,180
+June 10, 2023 - October 31, 2023                                     Distributive share income, 2023                       $ 16,500
+ WA net income                                          $ 4,400      Example 40 – You hold a partnership interest in a Texas
+ CA net income                                            2,000      partnership that reports its income and losses on a calendar
+ Total net income                                       $ 6,400      year basis. On April 1, 2023, you became a nonresident
+                                                                     of California. You received a Schedule K-1 from the Texas
+Determination:                                                       partnership that included net income of $10,000, comprised of
+Step 1: Compute your distributive share income based upon            $4,000 from California sources and $6,000 from Texas sources.
+         periods of California residency and nonresidency
+         during the S corporation’s taxable year.
+Period of Residency
+Total net income                                      $ 9,600
+percent interest in S corporation                     x 50%
+2023 distributive share                               $ 4,800
+Period of Nonresidency
+CA net income                                         $ 2,000
+percent interest in S corporation                     x 50%
+2023 distributive share                               $ 1,000
+
+
+
+
+Page 14 FTB Pub. 1100 2025
+Determination:                                                    Step 3: Compute your distributive share income to include in
+Step 1: Determine the number of California resident days and                California taxable income.
+        nonresident days during the partnership’s taxable year.   Taxable Year 2023:                         CA Taxable Income
+CA Resident Days                                                  Distributive share, period of residency             $ 3,288
+January 1, 2023, through March 31, 2023          = 90 days        Distributive share, period of nonresidency              2,685
+                                                                  Distributive share income, 2023                     $ 5,973
+CA Nonresident Days
+April 1, 2023, through December 31, 2023          = 275 days      Example 42 – You are the sole beneficiary of a simple trust
+                                                                  that reported your distributive share income for the short
+Step 2: Prorate your distributive share income based upon         period of January 1, 2023, through September 30, 2023. On
+          periods of California residency and nonresidency        April 1, 2023, you became a resident of California. You received
+          during the partnership’s taxable year.                  a Schedule K-1 from the trust that includes net income of
+Period of Residency                                               $10,000, comprised of $4,000 from California sources and
+                                                                  $6,000 from Nevada sources.
+Distributive share income from all sources            $ 10,000
+CA resident days ÷ total days                                     Determination:
+                 90 ÷ 365                               x .2466   Step 1: Determine the number of California resident days and
+Prorated 2023 distributive share                      $ 2,466               nonresident days during the trust’s taxable year.
+Period of Nonresidency                                            CA Resident Days
+Distributive share income from CA sources             $ 4,000     April 1, 2023, through September 30, 2023           = 183 days
+Nonresident days ÷ total days
+                 275 ÷ 365                             x .7534    CA Nonresident Days
+Prorated 2023 distributive share                      $ 3,014     January 1, 2023, through March 31, 2023             = 90 days
+Step 3: Compute your distributive share income to include in      Step 2: Prorate your distributive share income based upon
+          California taxable income.                                        periods of California residency and nonresidency
+Taxable Year 2023:                          CA Taxable Income               during the trust’s taxable year.
+Distributive share, period of residency               $ 2,466     Period of Residency
+Distributive share, period of nonresidency                3,014   Distributive share income from all sources            $ 10,000
+Distributive share income, 2023                       $ 5,480     CA resident days ÷ total days
+                                                                                   183 ÷ 273                             x .6703
+Example 41 – You hold an S corporation interest in a Florida      Prorated 2023 distributive share                      $ 6,703
+S corporation that reports income and losses on a fiscal year
+ending May 31st of each year. On February 1, 2023, you            Period of Nonresidency
+became a resident of California. You received a Schedule          Distributive share income from CA sources             $ 4,000
+K-1 from the Florida S corporation for fiscal year ending         Nonresident days ÷ total days
+May 31, 2023, that included net income of $10,000, comprised                        90 ÷ 273                             x .3297
+of $4,000 from California sources and $6,000 from Florida         Prorated 2023 distributive share                      $ 1,319
+sources.
+                                                                  Step 3: Compute your distributive share income to include in
+Determination:                                                              California taxable income.
+Step 1: Determine the number of California resident days and      Taxable Year 2023:                          CA Taxable Income
+        nonresident days during the S corporation’s taxable       Distributive share, period of residency               $ 6,703
+        year.                                                     Distributive share, period of nonresidency               1,319
+CA Resident Days                                                  Distributive share income, 2023                       $ 8,022
+February 1, 2023, through May 31, 2023           = 120 days
+CA Nonresident Days                                               M Alternative Minimum Tax
+June 1, 2022, through January 31, 2023            = 245 days      The California alternative minimum tax of a nonresident
+                                                                  or part-year resident is the amount by which the California
+Step 2: Prorate your distributive share income based upon         tentative minimum tax exceeds the prorated regular tax. The
+          periods of California residency and nonresidency        computation is as follows:
+          during the S corporation’s taxable year.
+                                                                  CA tentative – Prorated
+Period of Residency                                                                               = CA alternative minimum tax
+                                                                  minimum tax        regular tax
+Distributive share income from all sources            $ 10,000
+CA resident days ÷ total days                                     The California tentative minimum tax is the California
+                120 ÷ 365                              x .3288    alternative minimum taxable income multiplied by a rate.
+                                                                  The rate is the amount of tax on total tentative minimum tax
+Prorated 2023 distributive share                      $ 3,288     divided by the total alternative minimum taxable income. The
+Period of Nonresidency                                            computation is as follows:
+Distributive share income from CA sources             $ 4,000     CA alternative        Total tentative minimum tax
+Nonresident days ÷ total days                                     minimum          X Total alternative minimum       = CA tentative
+                                                                                                                       minimum tax
+                245 ÷ 365                              x .6712    taxable income        taxable income
+Prorated 2023 distributive share                      $ 2,685
+
+
+
+
+                                                                                                   FTB Pub. 1100 2025 Page 15
+The California alternative minimum taxable income is the                                             The total alternative minimum taxable income is the
+combined total of the following:                                                                     alternative minimum taxable income determined as if the
+• The alternative minimum taxable income derived from                                                nonresident or part-year resident were a California resident in
+   California sources for any part of the taxable year the                                           both of the following:
+   taxpayer was a nonresident.                                                                       • Current year.
+• The alternative minimum taxable income from all sources for                                        • All prior years for any carryovers, deferred income,
+   any part of the taxable year the taxpayer was a resident.                                             suspended losses, or suspended deductions.
+For the period of nonresidency, any carryovers, deferred                                             Total tentative minimum tax is the tax on the total alternative
+income, suspended losses, or suspended deductions are                                                minimum taxable income.
+included or allowable only to the extent they were derived from                                      The following example shows how the calculation works:
+California sources.
+
+ Example 43
+ You and your spouse/RDP moved to California and became residents on May 1, 2023. Combined wages for the year totaled
+ $170,000. You received $100,000 after your move to California. On October 1, 2023, you exercised an incentive stock option valued at
+ $90,000, for which you paid $10,000 (preference amount $80,000). Your total taxable income for the year was $150,000, with $20,000
+ in itemized deductions. Five thousand dollars ($5,000) of the itemized deductions were real and personal property taxes, which are
+ preference items. Your prorated regular tax was $6,000.
+ Determination
+ Total Alternative Minimum Taxable Income
+    Real and personal property tax preference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5,000
+    Plus: Incentive stock option preference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . + 80,000
+    Plus: Total taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . +150,000
+    Total alternative minimum taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235,000
+ Total Tentative Minimum Tax
+    Total alternative minimum taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235,000
+    Less: Exemption amount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - 116,229
+                                                                                                                                                                                      118,771
+    Alternative minimum tax rate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          x .07
+    Total tentative minimum tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8,314
+ California Alternative Minimum Tax Adjusted Gross Income
+   CA (regular tax) adjusted gross income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100,000
+   Plus: Incentive stock option preference amount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . + 80,000
+   CA alternative minimum tax adjusted gross income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180,000
+ Total Alternative Minimum Tax Adjusted Gross Income
+    Total alternative minimum taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235,000
+    Total itemized deductions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20,000
+    Less: Real and personal property tax preference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - 5,000
+    Total alternative minimum tax itemized deductions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . + 15,000
+    Total alternative minimum tax adjusted gross income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250,000
+ California Alternative Minimum Taxable Income
+   Total alternative minimum tax itemized deductions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15,000
+   Multiply by the ratio:
+   CA alternative minimum tax adjusted gross income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180,000
+                                                                                                                                            =
+   Total alternative minimum tax adjusted gross income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250,000                     x.7200
+   Prorated alternative minimum tax itemized deductions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - 10,800
+   CA alternative minimum taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  169,200
+ California Alternative Minimum Tax
+   CA alternative minimum taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169,200
+   Multiply by the ratio:
+   Total tentative minimum tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8,314
+                                                                                                                                                         =
+   Total alternative minimum taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235,000                                               x .0354
+   CA tentative minimum taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5,990
+   Less: Prorated regular tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - 6,000
+   CA alternative minimum tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        0*
+
+*If California alternative minimum tax is less than zero, enter -0-. Get California 540NR Schedule P, Alternative Minimum Tax and Credit
+Limitations – Nonresidents and Part-Year Residents, for more information regarding California alternative minimum tax.
+
+
+
+
+Page 16 FTB Pub. 1100 2025
+N General Phone Services
+Telephone assistance is available year-round from 8 a.m. until
+5 p.m. Monday through Friday, except holidays. Hours subject to
+change.
+Telephone:    800.852.5711 from within the United States
+              916.845.6500 from outside the United States
+California
+Relay
+Service:      711 or 800.735.2929 for persons with hearing or
+              speaking limitations
+IRS:          800.829.1040 for federal tax questions
+
+Asistencia En Español
+Asistencia telefónica está disponible durante todo el año desde
+las 8 a.m. hasta las 5 p.m. de lunes a viernes, excepto días
+feriados. Las horas están sujetas a cambios.
+Teléfono:       800.852.5711 dentro de los Estados Unidos
+                916.845.6500 fuera de los Estados Unidos
+Servicio de
+Retransmisión
+de California: 711 o 800.735.2929 para personas con
+                limitaciones auditivas o del habla
+IRS:            800.829.1040 para preguntas sobre impuestos
+                federales
+
+O Franchise Tax Board Privacy
+  Notice on Collection
+Our privacy notice can be found in annual tax booklets or
+online. Go to ftb.ca.gov/privacy to learn about our privacy
+policy statement, or go to ftb.ca.gov/forms and search for
+1131 to locate FTB 1131 EN-SP, Franchise Tax Board Privacy
+Notice on Collection – Aviso de Privacidad del Franchise Tax
+Board sobre la Recaudación. To request this notice by mail, call
+800.338.0505 and enter form code 948 when instructed.
+
+
+
+
+                                                                   FTB Pub. 1100 2025 Page 17
+

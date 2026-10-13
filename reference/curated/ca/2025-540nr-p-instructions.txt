@@ -1,0 +1,952 @@
+2025 Instructions for Schedule P 540NR | FTB.ca.gov
+
+# 2025 Instructions for Schedule P (540NR)Alternative Minimum Tax and Credit Limitations – Nonresidents or Part-Year Residents
+
+References in these instructions are to the Internal Revenue Code (IRC) as of January 1, 2025, and to the California Revenue and Taxation Code (R&TC).
+
+## What’s New
+
+Program 4.0 California Motion Picture and Television Production Credit – For taxable years beginning on or after January 1, 2025, California Revenue and Taxation Code (R&TC) Section 17053.98.1 allows a new film credit, Program 4.0, against tax. The credit is allocated and certified by the California Film Commission (CFC). The qualified taxpayer can:
+
+- Offset the credit against income tax liability.
+
+- Sell the credit to an unrelated party (independent films only).
+
+- Assign the credit to an affiliated corporation.
+
+- Apply the credit against qualified sales and use taxes.
+
+In addition, R&TC Section 17053.98.1 allows a qualified taxpayer to make a one-time irrevocable election to receive a refundable tax credit if the amount allowable as a credit under Program 4.0 exceeds the qualified taxpayer’s tax liability for the taxable year.
+
+For more information, get form FTB 3541, California Motion Picture and Television Production Credit, form FTB 3551, Sale of Credit Attributable to an Independent Film, go to ftb.ca.gov and search for motion picture, or go to the CFC website at film.ca.gov.
+
+## General Information
+
+In general, for taxable years beginning on or after January 1, 2025, California law conforms to the Internal Revenue Code (IRC) as of January 1, 2025. However, there are continuing differences between California and federal law. When California conforms to federal tax law changes, we do not always adopt all of the changes made at the federal level. For more information, go to ftb.ca.gov and search for conformity. Additional information can be found in FTB Pub. 1001, Supplemental Guidelines to California Adjustments, the instructions for California Schedule CA (540), California Adjustments – Residents, or Schedule CA (540NR), California Adjustments – Nonresidents or Part-Year Residents, and the Business Entity tax booklets.
+
+The instructions provided with California tax forms are a summary of California tax law and are only intended to aid taxpayers in preparing their state income tax returns. We include information that is most useful to the greatest number of taxpayers in the limited space available. It is not possible to include all requirements of the R&TC in the instructions. Taxpayers should not consider the instructions as authoritative law.
+
+In general, California law conforms to IRC Sections 55 through 59, relating to alternative minimum tax (AMT), as of January 1, 2015. For more information, see R&TC Section 17062.1.
+
+Specific differences between California and federal law are noted in the instructions under the applicable line items.
+
+### Registered Domestic Partners (RDPs)
+
+Under California law, RDPs must file their California income tax returns using either the married/RDP filing jointly or married/RDP filing separately filing status. RDPs have the same legal benefits, protections, and responsibilities as married couples unless otherwise specified.
+
+If you entered into a same sex legal union in another state, other than a marriage, and that union has been determined to be substantially equivalent to a California registered domestic partnership, you are required to file a California income tax return using either the married/RDP filing jointly or married/RDP filing separately filing status.
+
+For purposes of California income tax, references to a spouse, husband, or wife also refer to a California RDP, unless otherwise specified. When we use the initials RDP, they refer to both a California registered domestic “partner” and a California registered domestic “partnership,” as applicable. For more information on RDPs, get FTB Pub. 737, Tax Information for Registered Domestic Partners.
+
+### Pass-Through Entity (PTE) Elective Tax Credit
+
+For taxable years beginning on or after January 1, 2022, the PTE elective tax credit ordering has changed. The PTE elective tax credit should be applied against the net tax after the other state tax credit. Refer to R&TC Section 17039 for more information.
+
+### Elective Tax for PTE and Credit for Qualified Taxpayers
+
+For taxable years beginning on or after January 1, 2021, and before January 1, 2026, California law allows an entity taxed as a partnership or an “S” corporation to annually elect to pay an elective tax at a rate of 9.3% based on its qualified net income (QNI). The election shall be made on an original, timely filed return and is irrevocable for the taxable year.
+
+The law allows a credit against the personal income tax to a taxpayer, other than a partnership, that is a partner, shareholder, or member of a qualified entity that elects to pay the elective tax, in an amount equal to 9.3% of the partner’s, shareholder’s, or member’s pro rata share or distributive share and guaranteed payments of QNI subject to the election made by the qualified entity. Generally, a disregarded business entity and its partners or members cannot receive the credit, except for a disregarded single member limited liability company (SMLLC) that is owned by an individual, fiduciary, estate, or trust subject to personal income tax. For more information, go to ftb.ca.gov and search for pte elective tax and get the following PTE elective tax forms and instructions:
+
+- Form FTB 3893, Pass-Through Entity Elective Tax Payment Voucher
+
+- Form FTB 3804, Pass-Through Entity Elective Tax Calculation
+
+- Form FTB 3804-CR, Pass-Through Entity Elective Tax Credit
+
+This credit can reduce regular tax below the tentative minimum tax (TMT).
+
+### Business Credit Limitation
+
+For taxable years beginning on or after January 1, 2024, and before January 1, 2027, there is a $5,000,000 limitation on the application of business credits. The total of all business credits including the carryover of any credit for the taxable year may not reduce the “net tax” by more than $5,000,000. This limitation does not apply to the Low-Income Housing Credit or the PTE Elective Tax Credit. The credit for prior year AMT is not subject to the credit limitation. Business credits should be applied against “net tax” before other credits.
+
+For each taxable year of the limitation, taxpayers may make an irrevocable election to receive an annual refundable credit amount, in future tax years, for business credits disallowed due to the $5,000,000 limitation. The election must be made annually by completing form FTB 3870, Election for Refundable Credit, and attaching it to an original, timely filed tax return.
+
+If a taxpayer does not choose to make the election outlined above, business credits disallowed due to the limitation may be carried over. The carryover period for disallowed credits is extended by the number of taxable years the credit was not allowed.
+
+For more information, refer to R&TC Sections 17039.4 and 17039.5, get form FTB 3870, and see the instructions for Part III, Credits That Reduce Tax.
+
+### Net Operating Loss Suspension
+
+For taxable years beginning on or after January 1, 2024, and before January 1, 2027, California has suspended the net operating loss (NOL) carryover deduction. Taxpayers may continue to compute and carryover an NOL during the suspension period. However, taxpayers with net business income or modified adjusted gross income (AGI) of less than $1,000,000 or with disaster loss carryovers are not affected by the NOL suspension rules. For more information, see R&TC Section 17276.24, and get form FTB 3805V, Net Operating Loss (NOL) Computation and NOL and Disaster Loss Limitations – Individuals, Estates, and Trusts.
+
+### NOL Carrybacks
+
+For taxable years beginning on or after January 1, 2019, NOL carrybacks are not allowed.
+
+### Small Business Accounting/Percentage of Completion Method
+
+For taxable years beginning on or after January 1, 2019, California law generally conforms to the federal Tax Cuts and Jobs Act’s definition of small businesses as taxpayers whose average annual gross receipts over three years do not exceed a certain amount. For the current taxable year, the threshold amount is $31 million. These small businesses are exempt from the requirement of using the Percentage of Completion Method of accounting for any construction contract if the contract is estimated to be completed within two years from the date the contract was entered into. A taxpayer may elect to apply the provision regarding accounting for long term contracts to contracts entered into on or after January 1, 2018.
+
+### Tax Computation for Certain Children with Investment Income
+
+California conforms to the provision of the federal Small Business and Work Opportunity Tax Act of 2007 which increased the age of children to 18 and under or a full-time student under age 24 for elections made by parents reporting their child’s interest and dividends.
+
+### Nonresident and Part-Year Resident
+
+For taxable years beginning on or after January 1, 2002, California law changed to clarify the method used to calculate loss carryovers, deferred deductions, and deferred income for nonresident and part‑year resident taxpayers. This changed the tax computation to recognize those items, and established a new method to determine percentages for computing tax for all nonresidents and part-year residents. The Form 540NR, California Nonresident or Part-Year Resident Income Tax Return, was revised to more clearly show that nonresidents pay tax to California only on their California taxable income. For more information, get FTB Pub. 1100, Taxation of Nonresidents and Individuals Who Change Residency.
+
+### Federal Veterans Auto and Education Improvement Act (VAEIA) of 2022
+
+The VAEIA was enacted on January 5, 2023, and made amendments to the federal Servicemembers Civil Relief Act (SCRA). California conforms to the following VAEIA provisions:
+
+- A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember’s military orders.
+
+- For any taxable year of the marriage, a servicemember and the spouse of such servicemember may elect to use for purposes of taxation, regardless of the date on which the marriage of the servicemember and the spouse occurred, any of the following:
+
+- The residence or domicile of the servicemember.
+
+- The residence or domicile of the spouse.
+
+- The permanent duty station of the servicemember.
+
+For more information, get FTB Pub. 1032, Tax Information for Military Personnel.
+
+### Military Personnel
+
+Servicemembers domiciled outside of California, and their spouses/RDPs, may exclude the servicemember’s military compensation from gross income when computing the tax rate on nonmilitary income. Requirements for military servicemembers domiciled in California remain unchanged. Military servicemembers domiciled in California must include their military pay in total income. In addition, they must include their military pay in California source income when stationed in California. However, military pay is not California source income when a servicemember is permanently stationed outside of California. The VAEIA amended the SCRA and made changes to the tax residency and domicile laws for servicemembers and the spouse of a servicemember. For more information, see the VAEIA above.
+
+### Estimated Tax Payments
+
+AMT is required to be included in the computation of the estimated tax payments in order to meet a safe harbor from the underpayment of estimated tax penalty.
+
+## A. Purpose
+
+California tax law gives special treatment to some items of income and allows deductions and credits for some items of expense. Many individuals who benefit from these provisions must pay at least a minimum amount of tax and/or limit the amount of their credits.
+
+Use Schedule P (540NR), Alternative Minimum Tax and Credit Limitations – Nonresidents or Part-Year Residents, to determine if:
+
+- You owe AMT.
+
+- Your credits must be reduced or eliminated entirely. Your credits may be limited even if you do not owe AMT, so be sure to complete Side 1 through Side 3 of Schedule P (540NR).
+
+## B. Who Must File
+
+Complete Schedule P (540NR) to see if AMT applies to you. Attach it to your Form 540NR only if any of the following apply:
+
+- You have AMT.
+
+- You have more than two credits.
+
+- You have credits that are reported in Part III, Section A1, Section A2, or Section C. See the Credit Table for a list of credits.
+
+- The total of Part I, line 7 through line 13 is negative and you would be liable for AMT without taking those lines into account.
+
+- Schedule P (540NR), Part I, line 21 is more than Part II, line 22, and you have one or more adjustments on Part I, line 4 or line 7 through line 13l.
+
+## C. Record Keeping
+
+For AMT, certain items of income, deductions, etc., receive different tax treatment than regular tax. Therefore, you need to refigure items for AMT that you figured for regular tax. In some cases, you may wish to do this by completing the applicable tax form a second time. If you do complete another form, do not attach it to your tax return, but keep it for your tax records.
+
+For regular tax, some deductions may result in carryovers to future taxable years. Examples are investment interest expense, NOL, and capital loss. Because you may have to refigure these items for AMT, the carryover amount may be different for AMT than for regular tax. Although the carryovers that you figure for AMT do not affect the carryovers for regular tax, you must keep track of your AMT carryovers in order to complete your Schedule P (540NR) in future years.
+
+## D. Partnerships, S Corporations, Limited Liability Companies (LLCs), Estates, or Trusts
+
+If you are a partner in a partnership, a shareholder of an S corporation, a member of an LLC, or a beneficiary of an estate or trust, you must include your distributive share of adjustments and tax preference items shown on your Schedule K‑1 (565), for partners; Schedule K-1 (100S), for shareholders; Schedule K-1 (568), for members of an LLC; or Schedule K-1 (541), for beneficiaries.
+
+## E. Credit for Prior Year Alternative Minimum Tax
+
+If you paid AMT in a prior year, you may be able to claim the credit for prior year AMT. Get form FTB 3510, Credit for Prior Year Alternative Minimum Tax – Individuals or Fiduciaries, to see if you qualify.
+
+The prior year AMT credit must be applied before any credits that can reduce regular tax below the TMT.
+
+## F. Additional Information
+
+For more information, get federal Form 6251, Alternative Minimum Tax – Individuals.
+
+## G. Alternative Minimum Taxable Income (AMTI) Exclusion
+
+A qualified taxpayer must exclude income, positive and negative adjustments, and preference items attributable to any trade or business when figuring AMTI. These adjustments and preference items must also be excluded when calculating any deductions that may result in AMT carryovers. You are a qualified taxpayer if you meet both of the following:
+
+- Own or have an ownership interest in a trade or business.
+
+- Have aggregate gross receipts (less returns and allowances) during the taxable year of less than $1,000,000 from all trades or businesses for which you are the owner or have an ownership interest. Gross receipts may include, but are not limited to, items reported on federal Schedules C, Profit or Loss from Business; D, Capital Gains and Losses; E, Supplemental Income and Loss (other than income from a trust); or F, Profit or Loss from Farming; and from federal Form 4797, Sales of Business Property (figured in accordance with California law); or California Schedule D-1, Sales of Business Property (if required to complete it), that are associated with a trade or business. In the case of an ownership interest, you include only the proportional share of gross receipts of any trade or business from a partnership, S corporation, regulated investment company (RIC), real estate investment trust (REIT), or real estate mortgage investment conduit (REMIC) in accordance with your ownership interest in the enterprise. Apply the $1,000,000 test to the tax return regardless of filing status. The threshold does not become $2,000,000 for married/RDP taxpayers filing jointly.
+
+Aggregate gross receipts (less returns and allowances) means the sum of the gross receipts of the trades or businesses which you own and the proportionate interest of the gross receipts of the trades or businesses which you own and of pass-through entities in which you hold an interest.
+
+Gross receipts (less returns and allowances) means the sum of the gross receipts from the production of business income, as defined in R&TC Section 25120(a), and the gross receipts from the production of nonbusiness income, as defined in R&TC Section 25120(d).
+
+Proportionate interest means:
+
+- In the case of a pass-through entity which reports a profit for the taxable year, your profit interest in the entity at the end of your taxable year.
+
+- In the case of a pass-through entity which reports a loss for the taxable year, your loss interest in the entity at the end of your taxable year.
+
+- In the case of a pass-through entity which is sold or liquidates during the taxable year, your capital account interest in the entity at the time of the sale or liquidation.
+
+Proportionate interest includes an interest in a pass-through entity including a partnership, S corporation, RIC, REIT, or REMIC.
+
+If you are a qualified taxpayer both of the following applies:
+
+- In Part I, do not include any positive or negative adjustments or preference items attributable to any trade or business.
+
+- In Part I, line 17, enter all taxable income attributable to any trade or business.
+
+## Specific Line Instructions
+
+### Registered Domestic Partners
+
+RDPs compute their AMT using the same rules applicable to a married person. RDPs base their California AMT on the pro forma federal return. For more information on RDPs, get FTB Pub. 737.
+
+### Part I Alternative Minimum Taxable Income
+
+If you are a military servicemember domiciled outside of California, subtract your military pay from your federal AGI.
+
+In Part I, determine your adjustments and preferences that apply to your total taxable income for the year as if you were a resident in the current taxable year and all prior taxable years.
+
+#### Line 2 – Medical and dental expenses
+
+Do not include any adjustment for differences between federal and California laws.
+
+#### Line 3 – Personal property taxes and real property taxes
+
+Enter on this line any of the following from Schedule CA (540NR), Part III, lines 5b and 5c, column A and line 6 (column A minus column B).
+
+- State and local personal property taxes
+
+- State, local, or foreign real property taxes
+
+#### Line 4 – Certain interest on a home mortgage
+
+Enter home mortgage interest in which the proceeds were used for purposes other than buying, building, or improving your principal residence or a qualified dwelling that is your second home (see IRC Section 163(h)(3)). This may be all or part of the amount on Schedule CA (540NR), Part III, line 8a, line 8b, or line 8c (column A plus column C).
+
+Example 1: John paid $950 interest on a $12,000 home equity loan used to buy a ski boat. He would enter $950 on line 4 because the proceeds were not used to buy, build, or improve his home.
+
+Example 2: Jackie paid $1,200 interest on a $15,000 home equity loan to install a swimming pool at her home. She would not make any entry on line 4 because the proceeds of the loan were used to improve her home.
+
+Exception: Do not include interest on a mortgage you took out before July 1, 1982, if it was secured by property that was your main home or a qualified dwelling used by you or a member of your family at the time you took out the mortgage.
+
+#### Line 5 – Miscellaneous itemized deductions
+
+Enter on this line the amount from Schedule CA (540NR), Part III, line 25.
+
+#### Line 6 – Refund of personal property taxes and real property taxes
+
+Enter on this line any refund of taxes you received if all of the following apply:
+
+- The taxes are those described in line 3.
+
+- The taxes are attributable to a taxable year after 1986.
+
+- You deducted the taxes in a taxable year after 1986.
+
+#### Line 7 – Investment interest expense adjustment
+
+Enter on this line any investment interest expense adjustment. If you completed form FTB 3526, Investment Interest Expense Deduction, refigure your investment interest expense using a second form FTB 3526. Complete line 1 through line 8. Follow form FTB 3526 instructions for line 1 through line 8 except for the following:
+
+- When completing line 1, include any interest expense from Schedule P (540NR), Part I, line 4, that was paid or accrued on indebtedness attributable to property held for investment within the meaning of IRC Section 163(d)(5). An example is interest on a home equity loan from which the proceeds were invested in stocks or bonds. This interest might be deductible as home mortgage interest for regular tax, but not for AMT.
+
+- When entering your 2024 disallowed investment interest expense on line 2, use your 2024 AMT disallowed investment interest expense.
+
+- When completing lines 4a through 4c, refigure your gross investment income, any net gain from the disposition of property held for investment, and any investment expenses by taking into account all of your AMT adjustments and preferences that apply.
+
+Your adjustment is the difference between your AMT form FTB 3526, line 8, and your regular tax form FTB 3526, line 8. If the amount figured for AMT is more than the amount figured for regular tax, enter the adjustment as a negative amount.
+
+If you did not itemize deductions and had investment interest expense, do not enter an adjustment. However, if you reported investment interest expense on federal Schedule E, follow the instructions above for completing form FTB 3526.
+
+#### Line 8 – Post-1986 depreciation
+
+If you filed federal Schedules C, E, or F and have tangible property which you began depreciating after 1986, you must use the Alternative Depreciation System (ADS) to calculate AMT depreciation as follows:
+
+Property placed in service before 1999
+
+For property placed in service before 1999, refigure the AMT depreciation using the ADS, with the same convention used for the regular tax. See the table within this line instruction for the method and recovery period to use.
+
+IF the property is | THEN use the
+
+IRC Section 1250(c) property | Straight-line method over 40 years.
+
+Tangible property (other than IRC Section 1250(c) property) depreciated using straight-line for regular tax | Straight-line method over the property’s AMT class life.
+
+Any other tangible property | 150% declining balance method, switching to straight-line the first tax year gives a larger deduction over the property’s AMT class life.
+
+Get federal Pub. 946, How to Depreciate Property, for more information on AMT class life.
+
+### Property placed in service after 1998
+
+For property placed in service after 1998, no adjustment is necessary if the property is IRC Section 1250(c) property or tangible property (other than IRC Section 1250(c) property) depreciated using the straight-line method or 150% declining balance method for regular tax. For any other tangible property, use the 150% declining balance method, switching to the straight-line method the first tax year that it provides a larger deduction. Use the same convention and recovery period used for regular tax.
+
+Get federal Pub. 946 or refer to IRC Section 168(g) for more information on the ADS method.
+
+Grapevines replanted as a result of phylloxera infestation or Pierce’s Disease that are depreciated over 5 years for regular tax must be depreciated over 10 years for AMT.
+
+Partners, S corporation shareholders, and LLC members: Enter the amount shown on the Schedule K-1 (565, 100S, or 568) issued by your partnership, S corporation, or LLC.
+
+Enter on line 8 the difference between depreciation for regular tax and depreciation for AMT. Do not include depreciation from the following:
+
+- Expenses you incurred as an employee and deducted on federal Schedule A (Form 1040 or Form 1040-NR), Itemized Deductions.
+
+- An activity for which you are not at risk.
+
+- Amounts received from a partnership or S corporation, if the basis limitations under IRC Section 704(c) or IRC Section 1366(d) apply.
+
+- A passive activity.
+
+- A tax shelter farm activity.
+
+Instead, include these types of depreciation when you figure adjustments for line 5, line 11, line 13f, line 13j, or line 13k, whichever applies.
+
+If the AMT depreciation is more than the regular tax depreciation, enter the difference on line 8 as a negative amount.
+
+#### Line 9 – Adjusted gain or loss
+
+You will have an entry on this line only if you reported a gain or loss on California Schedule D (540NR), California Capital Gain or Loss Adjustment, Schedule D-1, federal Schedule D, federal Form 4797, or federal Form 4684, Casualties and Theft, for income producing property that has a different basis for AMT than for regular tax. Generally, if you reported a gain or loss from the sale or exchange of mutual funds, stocks, or bonds, you will not have an entry on this line.
+
+To figure the amount to enter on this line:
+
+Step 1 – Refigure the adjusted basis of the asset sold. Take into account any AMT adjustments you made this year or in previous years for depreciation, incentive stock options, circulation expenditures, pollution control facilities, research and experimental expenditures, and mining costs.
+
+Step 2 – Refigure your gain or loss using the adjusted basis from Step 1.
+
+Step 3 – Figure the difference between the AMT gain or loss and the regular tax gain or loss and enter the result on line 9. Enter the difference as a negative amount if: the AMT gain is less than the regular tax gain; the AMT loss is more than the regular tax loss; or you have an AMT loss and a regular tax gain.
+
+#### Line 10 – Incentive stock options and California qualified stock options
+
+Incentive stock options (ISOs). For regular tax, no income is recognized when an ISO, as defined in IRC Section 422(b), is granted or exercised. However, this rule does not apply for AMT. Instead, you must generally include on line 10 the excess of:
+
+- The fair market value (FMV) of the stock acquired through the exercise of the option (determined without regard to any lapse restriction) when your rights in the stock first become transferable, or when these rights are no longer subject to a substantial risk of forfeiture, over
+
+- The amount you paid for the stock.
+
+Increase your AMT basis of any stock acquired through the exercise of an ISO by the amount of the AMT adjustment. If you acquired stock by exercising an ISO and you disposed of that stock in the same year, the tax treatment under regular tax and AMT is the same (no adjustment is required).
+
+California qualified stock options (CQSOs). Under R&TC Section 17502, taxpayers whose earned income from the corporation granting the CQSO was $40,000 or less may exclude compensation arising from the exercise of a CQSO from regular tax income. The amount of compensation excluded for regular tax must be included for AMT on this line.
+
+#### Line 11 – Passive activities adjustment
+
+You may want to complete a second form FTB 3801, Passive Activity Loss Limitations, and the other forms or schedules on which your passive activities are reported to figure this adjustment. You may enter the following types of adjustments on this line:
+
+Regular passive activities. Refigure your passive activity gains and losses for AMT by taking into account all AMT adjustments and preferences and AMT prior year unallowed losses that apply to the passive activity. The adjustment is the difference between your AMT passive activity income or loss (from activities reported on federal Schedules C, E, F, or federal Form 4835, Farm Rental Income and Expenses) and income or loss from these activities for regular tax.
+
+Publicly traded partnership (PTP). If you had losses from a PTP, you will have to refigure the losses using any AMT adjustments, preferences, and any AMT prior year unallowed losses.
+
+Tax shelter passive farm activities. Refigure any gain or loss from a tax shelter passive farm activity. Take into account all AMT adjustments, preferences, and AMT prior year unallowed losses. If the amount is a gain, include it on your AMT form FTB 3801. Do not include a tax shelter passive farm activity loss on your AMT form FTB 3801. Instead, carry the loss forward to offset against future tax shelter passive farm activities.
+
+Insolvency. If, at the end of the taxable year, your liabilities exceed the FMV of your assets, increase your passive activity loss allowed by that excess but not by more than your total loss. See IRC Section 58(c)(1).
+
+#### Line 13 – Other adjustments and preferences
+
+Enter the amount of any other adjustments or preferences that apply to you on line 13a through line 13l. Enter the total on line 13.
+
+#### Line 13a – Circulation expenditures
+
+If you elected the optional three year write-off period for circulation expenditures under IRC Section 59(e), skip this line.
+
+For regular tax, IRC Section 173 allows you to deduct the full amount of circulation expenditures in the taxable year you paid or incurred them. For AMT, you must amortize these expenditures over three years beginning with the year you paid or incurred the expenditures. Enter the difference between your AMT deduction and your regular tax deduction. If your AMT deduction is more than your regular tax deduction, enter your adjustment as a negative amount.
+
+See IRC Section 56(b)(2) for a special rule that applies to losses related to circulation expenditures.
+
+#### Line 13b – Depletion
+
+For AMT, if the depletion deduction for mines, wells, and other natural deposits determined under IRC Section 611 exceeds the adjusted basis of the property at the end of your taxable year, you have a depletion preference adjustment.
+
+To figure your adjusted basis, use the rules in IRC Section 1016, but do not reduce the adjusted basis by current-year depletion. Figure the excess amount separately for each property. Enter on this line only the depletion amount that exceeds your adjusted basis.
+
+Percentage Depletion – For taxable years beginning on or after January 1, 2024, California law does not allow the calculation of depletion as a percentage of gross income from the property for specified natural resources, including coal, oil shale, oil and gas wells. R&TC Sections 17681.3 and 17681.6 allowing state nonconformity to federal rules for percentage depletion of certain refiner exclusions as well as the temporary suspension of taxable income limit for marginal production have also been repealed. For more information, see R&TC Section 17681.
+
+#### Line 13c – Installment sales
+
+If, for regular tax purposes, you used the installment method to report a non-dealer disposition of property that occurred after August 16, 1986, but before January 1, 1990, and if the obligation that arose from the disposition was an installment obligation to which the proportionate disallowance rule applied, refigure your income for AMT purposes without regard to the installment method.
+
+Enter the difference between your AMT and regular tax income on this line. If the AMT income is smaller, enter the difference as a negative amount.
+
+Qualified small business stock (QSBS) exclusion (R&TC Section 18152.5). For taxable years beginning on or after January 1, 2008, and before January 1, 2013, taxpayers were allowed to exclude 50% of the gain from the sale or exchange of their QSBS held for more than five years. If you received installment sale payments in the current year for sales of QSBS made before January 1, 2013, and you excluded the gain as allowed under R&TC Section 18152.5, multiply the excluded amount by 50% and enter it on this line as a positive amount.
+
+#### Line 13d – Intangible drilling costs (IDCs)
+
+If you elected the optional 60-month write-off under IRC Section 59(e) for regular tax for all property in this category, skip this line.
+
+IDCs from geothermal wells are preferences to the extent that the excess IDCs exceed 65% of the net income from the wells. To figure excess IDCs:
+
+- Figure the amount of your IDCs allowed for regular tax under IRC Section 263(c). Do not include any deduction for nonproductive wells. Then refigure your IDCs allowed for AMT by amortizing them over 120 months, starting with the month you placed the well in production. Then subtract your AMT IDCs from your regular tax IDCs to get your excess IDCs. You may elect to use any other method that is allowed in determining cost depletion.
+
+- Figure net income by reducing the gross income from all geothermal wells that you received or accrued during the taxable year by any deductions allocable to these properties (reduced by the excess IDCs). Use only income and deductions allowed for AMT.
+
+- Multiply the net income by 65% (.65). Subtract the result from the excess IDCs figured in A. This is your excess IDCs that you enter on this line.
+
+Intangible Drilling and Development Costs – California law does not allow the IRC Section 263(c) deduction for intangible drilling and development costs (IDCs) in the case of oil and gas wells paid or incurred on or after January 1, 2024. Since R&TC Section 17260(c) is specific to oil and gas wells, geothermal well IDCs are still afforded preferential treatment under R&TC Section 17201(c). Therefore, the tax preference item still applies for geothermal wells for California personal income tax purposes.
+
+#### Line 13e – Long-term contracts
+
+For regular tax, you may have figured taxable income from a long-term contract (entered into after February 28, 1986) using the completed-contract method or another method.
+
+For AMT, use the percentage-of-completion method described in IRC Section 460(b) to determine your taxable income from any long-term contract, defined in IRC Section 460(f), you entered into after February 28, 1986. However, this rule does not apply to: 1) any home construction contract, as defined in IRC Section 460(e)(5), you entered into after June 20, 1988, and before 1991, if you meet the 2-year estimated completion requirement of IRC Section 460(e)(1)(B)(i) and the $10-million ceiling on average annual gross receipts requirement of IRC Section 460(e)(1)(B)(ii), or 2) any home construction contract entered into after 1990.
+
+In the case of a contract described in IRC Section 460(e)(1), use the simplified procedures for allocating costs outlined in IRC Section 460(b)(3) to determine the percentage of completion.
+
+Enter on line 13e the difference between the income you reported for regular tax and the income you recomputed for AMT. If the income for AMT is less than the income for regular tax, enter the difference as a negative amount.
+
+#### Line 13f – Loss limitations
+
+If you include AMT adjustments or preferences on this line, do not include them on any other line of this schedule. Do not include any passive activities on this line. Instead, use line 11. Also, use line 11 for passive tax shelter farm activities. Use line 13k for nonpassive tax shelter farm activities.
+
+For AMT, refigure certain limited losses using your AMT adjustments and preferences. Refigure your gains and losses from activities for which you are not at risk. Also, refigure your basis limitations that apply to partnerships and S corporations. Refer to IRC Sections 59(h), 465, 704(d), and 1366(d).
+
+Enter on this line the difference between AMT limited losses (from activities reported on federal Schedules C, E, F, or federal Form 4835) and your regular tax limited losses from these activities.
+
+#### Line 13g – Mining costs
+
+If you elected the optional 10-year write-off under IRC Section 59(e) for regular tax, skip this line. For AMT, you must capitalize your mining exploration and development costs and amortize them over 10 years beginning with the taxable year you paid or incurred the expenditures. Enter the difference between your AMT mining amortization and your regular tax mining deduction. If your AMT mining amortization is more than your regular tax mining deduction, enter your adjustment as a negative amount.
+
+See IRC Section 56(a)(2)(B) for a special rule that applies to losses related to mining property.
+
+#### Line 13h – Patron’s adjustment
+
+Distributions you received from a cooperative may be includible in income. Unless the distributions are nontaxable, enter on line 13h the total AMT patronage dividend and per-unit retain allocation adjustment reported to you by the cooperative.
+
+#### Line 13i – Pollution control facilities
+
+For regular tax, you may elect to amortize the basis of a certified pollution control facility over 60 months. For facilities placed in service before 1999, the AMT deduction is figured using the alternative depreciation system (ADS) described in IRC Section 168(g). Use the federal Class Life Asset Depreciation Range System (ADR) under the straight-line method. For facilities placed in service after 1998, the AMT deduction is figured under the modified accelerated cost recovery system (MACRS) using the straight-line method. Enter the difference between your AMT pollution control facilities depreciation and your regular tax pollution control facilities amortization. If your AMT pollution control facilities depreciation is more than your regular tax pollution control facilities amortization, enter the adjustment as a negative amount.
+
+#### Line 13j – Research and experimental costs
+
+Do not make this adjustment for costs paid or incurred in connection with an activity in which you materially participated under the passive activity rules or for costs for which you elected the optional 10-year write-off under IRC Section 59(e) for the regular tax.
+
+If you elected the optional 10-year write-off period for research and experimental expenditures under IRC Section 59(e) for regular tax, skip this line.
+
+For regular tax, IRC Section 174(a) allows you to deduct your research and experimental expenditures in the taxable year you paid or incurred them. If you deducted them in the year incurred, amortize these expenditures over 10 years for AMT. Enter the difference between your AMT deduction and your regular tax deduction. If your AMT deduction is more than your regular tax deduction, enter your adjustment as a negative amount.
+
+See IRC Section 56(b)(2)(B) for a special rule that applies to losses related to circulation, research, or experimental expenditures.
+
+#### Line 13k – Tax shelter farm activities
+
+If you include AMT adjustments or preferences on this line, do not include them on any other line of this schedule.
+
+Complete this line only if you have a gain or loss from a tax shelter farm activity, as defined in IRC Section 58(a)(2), that is not a passive activity. If the tax shelter farm activity is a passive activity, include it with your other passive activities on line 11.
+
+Refigure all gains and losses you reported for regular tax from tax shelter farm activities using your AMT adjustments and preferences. Figure your tax shelter farm activity gain or loss for AMT using the same rules you used for regular tax except for the following:
+
+- Do not take any refigured loss unless you are insolvent (see IRC Section 58(c)(1)).
+
+- Do not offset gains from other tax shelter farm activities with your refigured loss.
+
+Suspend and carry over your loss to future taxable years until one of the following apply:
+
+- Have a gain in a future taxable year from that same activity.
+
+- Dispose of the activity.
+
+Enter on this line the difference between the amount that was reported for regular tax for the activity on federal Schedule E or federal Form 4835, and the amount that would be reported for the activity for AMT.
+
+#### Line 13l – Related adjustments
+
+If you have an entry on one of the following lines:
+
+- Line 7 (if you deducted investment interest on federal Schedule E).
+
+- Line 8 through line 11.
+
+- Line 13a through line 13k.
+
+Refigure the following items. These adjustments and preferences are limited based on income (other than a limit based on federal AGI or federal modified AGI) using your AMT income:
+
+- IRC Section 179 expense.
+
+- Taxable IRA distribution (if prior year IRA deductions were different for AMT and regular tax).
+
+- Expenses for business or rental use of your home.
+
+- Conservation expenses.
+
+- Self-employed health insurance deduction.
+
+- Keogh retirement plan or self-employed SEP or SIMPLE deduction.
+
+- IRA deduction affected by the earned income limitation of IRC Section 219(b)(1)(B).
+
+Figure the difference between AMT and regular tax amount for each item. Combine the amounts for all your related adjustments and enter the total on line 13l. Keep a copy of all computations for your records, including any AMT carryover and basis amounts.
+
+#### Line 15 – Taxable income
+
+Enter on this line the amount from Form 540NR, line 19. If Form 540NR, line 19 is zero, subtract Form 540NR, line 18 from Form 540NR, line 17 and enter the result as a negative amount.
+
+#### Line 17 – AMTI exclusion
+
+Qualified taxpayers must exclude income from any trade or business when figuring AMTI. If you are a qualified taxpayer, see General Information G, Alternative Minimum Taxable Income (AMTI) Exclusion, and enter your taxable trade or business income on line 17. If zero or less, enter -0-.
+
+#### Line 18 – Itemized deductions limitation
+
+If you itemized deductions for California purposes and your federal AGI is more than the amount shown on line 18, your California itemized deductions were limited for regular tax. For AMT, this limitation does not apply. Enter the amount from line 9 of the Itemized Deductions Worksheet in the instructions for Schedule CA (540NR), Part III, line 29.
+
+#### Line 20 – AMT net operating loss (NOL) deduction
+
+For taxable years beginning on or after January 1, 2024, and before January 1, 2027, California has suspended the NOL carryover deduction. Taxpayers may continue to compute and carryover an NOL during the suspension period. However, taxpayers with net business income or modified AGI of less than $1,000,000 or with disaster loss carryovers are not affected by the NOL suspension rules. For more information, get form FTB 3805V.
+
+If you are carrying over an NOL from a prior taxable year, refigure your NOL deduction for AMT purposes as follows:
+
+#### Step 1 – AMT NOL for prior taxable year.
+
+For the taxable year the loss was incurred, complete another form FTB 3805V; FTB 3805Z, Enterprise Zone Deduction and Credit Summary; FTB 3807, Local Agency Military Based Recovery Area Deduction and Credit Summary; or FTB 3809, Targeted Tax Area Deduction and Credit Summary, using your AMT income and expense amounts rather than the regular tax amounts.
+
+#### Step 2 – AMT NOL carryover to the current taxable year.
+
+If you incurred the NOL in 2024, the amount of the carryover is the amount figured in Step 1. Otherwise, the amount of the carryover is the amount from Step 1 minus the amounts used for AMT purposes in all preceding carryover years.
+
+#### Step 3 – AMT NOL deduction for the current taxable year.
+
+Enter on line 20 the lesser of the NOL carryover from Step 2 or 90% of the amount on line 19.
+
+#### Line 21 – Alternative minimum taxable income
+
+Married/RDP taxpayers filing separate tax returns complete the following worksheet if line 21 is more than $479,188.
+
+- Enter the amount from Schedule P (540NR), Part I, line 21.
+
+- Maximum exemption amount $479,188.
+
+- Subtract line 2 from line 1.
+
+- Multiply line 3 by 25% (.25).
+
+- Enter the smaller of line 4 or $61,830.
+
+- Add line 1 and line 5. Enter the result here and replace the amount on Schedule P (540NR), Part I, line 21, with this amount.
+
+### Part II Alternative Minimum Tax (AMT)
+
+#### Line 22 – Exemption amount
+
+If line 21 is more than the amount shown for your filing status in the middle column of the chart on line 22, Side 2 of Schedule P (540NR), complete the Exemption Worksheet within this line instruction to figure the amount to enter on line 22.
+
+#### Certain Children Under Age 24
+
+Your exemption amount is limited to the amount of your earned income plus $9,750 if condition 1, 2, or 3 below applies to you.
+
+- You were under age 18 at the end of 2025.
+
+- You were age 18 at the end of 2025 and did not have earned income that was more than half of your support.
+
+- You were a full-time student over age 18 and under age 24 at the end of 2025 and did not have earned income that was more than half of your support.
+
+If condition 1, 2, or 3 applies to you, complete the Exemption Worksheet, including lines 7 through 10, to figure the amount to enter on line 22.
+
+Do not complete this worksheet if the child filed a joint tax return for 2025 or if both parents were deceased at the end of 2025.
+
+Certain January 1 Birthdays. If you were born on January 1, 2008, you are considered to be age 18 at the end of 2025. Your exemption amount is limited only if you did not have earned income that was more than half of your support.
+
+If you were born on January 1, 2007, you are considered to be age 19 at the end of 2025. Your exemption amount is limited only if you were a full‑time student who did not have earned income that was more than half of your support.
+
+If you were born on January 1, 2002, you are considered to be age 24 at the end of 2025. Your exemption amount is not limited.
+
+#### Exemption Worksheet
+
+If line 21 (AMTI) is equal to or more than $718,804 if single or head of household; $958,413 if married/RDP filing jointly or qualifying surviving spouse/RDP; $479,188 if married/RDP filing separately, your exemption amount is zero. Do not complete this worksheet; instead, enter -0- on line 22.
+
+- Enter $92,749 if single or head of household; $123,667 if married/RDP filing jointly or qualifying surviving spouse/RDP; $61,830 if married/RDP filing separately.
+
+- Enter your AMTI from Schedule P (540NR), Part I, line 21.
+
+- Enter $347,808 if single or head of household; $463,745 if married/RDP filing jointly or qualifying surviving spouse/RDP; $231,868 if married/RDP filing separately.
+
+- Subtract line 3 from line 2. If zero or less, enter -0-.
+
+- Multiply line 4 by 25% (.25).
+
+- Subtract line 5 from line 1. If zero or less, enter -0-. If any of the three conditions under “Certain Children Under Age 24” apply to you, go to line 7. Otherwise, enter this amount on Schedule P (540NR), Part II, line 22 and complete Schedule P (540NR).
+
+- Minimum exemption amount for certain children under age 24 $9,750.
+
+- Enter your earned income*, if any.
+
+- Add line 7 and line 8.
+
+- Enter the smaller of line 6 or line 9 here and on Schedule P (540NR), Part II, line 22.
+
+*Earned income includes wages, tips, and other payments received for personal services performed.
+
+#### Line 23
+
+If line 23 is zero or less, enter -0- on line 23, line 24, and line 43. Go to line 44.
+
+#### Line 27 – AMTI exclusion
+
+If you are a qualified taxpayer (see General Information G), enter your trade or business income attributable to both of the following: (1) California sources for any part of the year you were a nonresident, and (2) your income from all sources for any part of the year you were a resident. These are the amounts you would have included on Schedule CA (540NR), column E. If zero or less, enter -0-.
+
+#### Line 29 – Adjustments and preferences
+
+Follow the instructions for Part I, line 7 through line 13l. Enter on line 29a through line 29r the amounts that relate to income and deductions shown on Schedule CA (540NR), Part II, column E. This is income from both of the following: (1) California sources for any part of the year you were a nonresident, and (2) your income from all sources for any part of the year you were a resident. If you are a qualified taxpayer as described under General Information G, make sure to exclude positive and negative adjustments and preferences related to your trade or business income.
+
+#### Line 31 – California AMT net operating loss (NOL) deduction
+
+Follow the instructions for Part I, line 20. Enter the AMT NOL from California sources on Part II, line 31, but not more than 90% of the amount on Part II, line 30.
+
+### Part III Credits That Reduce Tax
+
+Business Credit Limitation – For taxable years beginning on or after January 1, 2024, and before January 1, 2027, there is a $5,000,000 limitation on the application of business credits. The total of all business credits including the carryover of any credit for the taxable year may not reduce the “net tax” by more than $5,000,000.
+
+The credit for prior year AMT is not subject to the credit limitation.
+
+#### How to compute the limitation
+
+The limitation only applies to business credits and does not apply to the following credits:
+
+- Earned income tax credit
+
+- Young child tax credit
+
+- Foster youth tax credit
+
+- Credit for household and dependent care
+
+- Credit for elective tax under the Small Business Relief Act
+
+- Credit for adoption costs
+
+- Renter’s tax credit
+
+- Personal exemption credit
+
+- Credit for qualified joint custody head of household and a qualified taxpayer with a dependent parent
+
+- Credit for qualified senior head of household
+
+- Credit for low-income housing
+
+- Excess contributions of unemployment compensation
+
+The credits listed above are required to be applied after any business credits are applied.
+
+For each taxable year of the limitation, taxpayers may make an irrevocable election to receive an annual refundable credit amount, in future tax years, for business credits disallowed due to the $5,000,000 limitation. The election must be made annually by completing form FTB 3870 and attaching it to an original, timely filed tax return.
+
+If a taxpayer does not choose to make the election outlined above, business credits disallowed due to the limitation may be carried over. The carryover period for disallowed credits is extended by the number of taxable years the credit was not allowed.
+
+Taxpayers are required to keep track of the disallowed business credits on a worksheet and provide it to the Franchise Tax Board upon request.
+
+Complete Part III only if you have tax credits.
+
+Use Part III to determine the following:
+
+- Amount of credit that may be used to offset tax.
+
+- Tax that may be offset.
+
+- Amount of credit, if any, that may be carried over to future years.
+
+- Order in which to claim credits, if you have more than one credit to claim.
+
+Before you begin Part III:
+
+- Complete Form 540NR through line 42.
+
+- Figure the amount of your credits using the credit form or worksheet identified on the Credit Table. Attach the credit form to your Form 540NR, if applicable.
+
+To complete Part III:
+
+- Complete line 1 through line 3 to figure the amount of excess tax you may offset by credits.
+
+- Identify which sections of Part III you may use to take your tax credits. Credits without carryover provisions are listed on Schedule P (540NR) in Section A1, Section B1, and Section B3 and may be taken only in these sections. See the Credit Table for a list of credits. This table identifies the sections of Part III in which you may take these credits.
+
+- If you have credits in Section B, complete line 11 in addition to the lines for your credits.
+
+- Enter the credit code and credit name in the space provided. See the Credit Table for the credit code. Do not enter the same credit code or name on more than one line within a section.
+
+- Complete column (a) through column (d) for each line on which you are taking a credit. See “Column (a) through Column (b) Instructions.”
+
+- If your credits are taken in more than one section, complete each section before going to the next section.
+
+- Once you complete Part III, see “How to Claim Your Credits.”
+
+### Section A Instructions
+
+Line 3 – Subtract line 2 from line 1. If the amount is zero or less than zero, go to question 1. If the amount is more than zero, go to Section A1 instructions.
+
+- Does the Credit Table show that you may take your credit only in Section A1 or Section A2?
+
+- Yes You may not take the credit this year. Go to question 2.
+
+- No Go to Section B to figure the amount of credit you may take this year. Then continue to Section C if the Credit Table shows that you may also take your credit in Section C.
+
+- Does the credit have carryover provisions?
+
+- Yes Enter the credit code, credit name, and credit amount in column (a) of the section indicated by the table. Enter -0- in column (b). Enter the credit amount in column (d). This is the amount of the credit you may carry over and use in future years.
+
+- No You may not take the credit this year or in future years.
+
+The prior year AMT credit must be applied before any credits that can reduce regular tax below the TMT.
+
+### Section A1 Instructions
+
+Line 4 and Line 5 – If you have any of the credits listed in this section, complete column (a) through column (c) for each credit in the order listed.
+
+For taxable years beginning on or after January 1, 2024, and before January 1, 2027, if you did not claim all or a portion of the Prison Inmate Labor credit due to the $5,000,000 business credit limitation, only the disallowed portion of the credit may be carried over by the number of taxable years the credit is not allowed.
+
+### Section A2 Instructions
+
+Line 6 through Line 10 – Follow the Credit Table Instructions to find out in which section to claim your credit. Then complete column (a) through column (d) for each credit in each section before going to the next section.
+
+### Section B1 Instructions
+
+Line 12 through Line 15 – If you have any of the credits listed in this section, complete column (a) through column (c) for each credit in the order listed.
+
+Enter the lesser of the prorated credit or the maximum allowed for the credit from the worksheet for line 55 in the instructions of the Form 540NR.
+
+### Section B2 Instructions
+
+Line 16 through Line 19 – Follow the Credit Table Instructions to find out in which section to claim your credit. Then complete column (a) through column (d) for each credit in each section before going to the next section.
+
+Generally, it is to your advantage to apply credits with limited carryovers before credits with no limitation on carryover. However, you may apply credits with no limitation on carryover first, if that is to your advantage.
+
+### Section B3 Instructions
+
+Line 20 – If you have Other State Tax Credit, complete column (a) through column (c). Get California Schedule S, Other State Tax Credit, for more information.
+
+### Section B4 Instructions
+
+Line 21 – If you have pass-through entity elective tax credit, complete column (a) through column (d). Get form FTB 3804-CR, for more information.
+
+### Section C Instructions
+
+Line 23 and Line 24 – If you have any of the credits listed in this section, complete column (a) through column (d) for each credit in the order listed.
+
+### Column (a) through Column (d) Instructions
+
+In column:
+
+(a) Enter the amount of credit available to offset tax.
+
+(b) Figure the amount of credit you are able to use this year by entering the smaller of the amount in column (a) or the amount in column (c) from the previous line.
+
+(c) Figure the amount of tax remaining to be offset by other credits by subtracting the amount in column (b) from the balance in column (c) of the previous line.
+
+(d) Enter the amount of credit carryover available to use in future years by subtracting the amount in column (b) and any business credit amount elected to be refundable, in future years, on form FTB 3870, if applicable, from the amount in column (a).
+
+### How to Claim Your Credits
+
+Claim your credits by transferring them to Form 540NR as follows:
+
+Line 5 Nonrefundable Child and Dependent Care Expenses Credit – Enter the total amount of the credit from column (b), Section A1 on Form 540NR, line 50.
+
+Credits on Line 12, Line 13, and Line 14 – Add the amounts from column (b) of line 12, line 13, and line 14. Enter the total on Form 540NR, line 55. Write “Schedule P (540NR)” to the left of Form 540NR, line 55. Do not complete Form 540NR, line 51 through line 54.
+
+Line 15 Nonrefundable Renter’s Credit – Enter the total amount of nonrefundable renter’s credit from column (b), Section B1 on Form 540NR, line 61
+
+Other Credits on Line 4, Line 6 through Line 10, and Line 16 through Line 21:
+
+- If you claim one or two other credits, enter the name, code, and amount of the credit from column (b) on Form 540NR, line 58 and/or line 59.
+
+- If you have more than two other credits, do not use line 58 or 59 on Form 540NR. Add the amounts from column (b) for the other credits and enter the total on Form 540NR, line 60.
+
+## Franchise Tax Board Privacy Notice on Collection
+
+Our privacy notice can be found in annual tax booklets or online. Go to ftb.ca.gov/privacy to learn about our privacy policy statement, or go to ftb.ca.gov/forms and search for 1131 to locate FTB 1131 EN-SP, Franchise Tax Board Privacy Notice on Collection – Aviso de Privacidad del Franchise Tax Board sobre la Recaudación. To request this notice by mail, call 800-338-0505 and enter form code 948 when instructed.
+
+### Credit Table Instructions
+
+- Find your credits in the Credit Table.
+
+- See which sections are identified under “Offset Tax in Section.”
+
+- Take the credit only in the sections the Credit Table identifies for your credit.
+
+- Use the credit in the earliest section possible.
+
+- Complete each section before going to the next section.
+
+### Credit Table
+
+Code | Current Credits | Form | Offset Tax in Section
+
+233 | California Competes Tax | FTB 3531 | B2
+
+223 | California Motion Picture and Television Production | FTB 3541 | A2
+
+247 | Cannabis Equity Tax | FTB 3821 | A2
+
+197 | Child Adoption* | Worksheet | B2
+
+232 | Child and Dependent Care Expenses | FTB 3506 | A1
+
+235 | College Access Tax | FTB 3592 | B2
+
+173 | Dependent Parent* | Worksheet | B1
+
+205 | Disabled Access for Eligible Small Businesses | FTB 3548 | A2
+
+204 | Donated Agricultural Products Transportation | FTB 3547 | A2
+
+246 | High-Road Cannabis Tax | FTB 3820 | A2
+
+244 | Homeless Hiring Tax | FTB 3831 | A2
+
+170 | Joint Custody Head of Household* | Worksheet | B1
+
+172 | Low-Income Housing | FTB 3521 | B2
+
+213 | Natural Heritage Preservation | FTB 3503 | B2
+
+237 | New California Motion Picture and Television Production | FTB 3541 | A2
+
+238 | New Donated Fresh Fruits or Vegetables | FTB 3814 | A2
+
+234 | New Employment | FTB 3554 | A2
+
+None | Nonrefundable Renter's* | Worksheet | B1
+
+187 | Other State Tax | Sch. S | B3
+
+242 | Pass-Through Entity Elective Tax | FTB 3804-CR | B4
+
+188 | Prior Year Alternative Minimum Tax | FTB 3510 | A2
+
+162 | Prison Inmate Labor | FTB 3507 | A1
+
+239 | Program 3.0 California Motion Picture and Television Production | FTB 3541 | B2
+
+248 | Program 4.0 California Motion Picture and Television Production | FTB 3541 | B2
+
+183 | Research | FTB 3523 | B2
+
+163 | Senior Head of Household* | Worksheet | B1
+
+245 | Soundstage Filming Tax | FTB 3541 | B2
+
+243 | State Historic Rehabilitation Tax | FTB 3835 | B2
+
+*See the instructions for Form 540NR.
+
+Code | Repealed Credits with Carryover Provisions | Form | Offset Tax in Section
+
+175 | Agricultural Products | FTB 3540 | A2
+
+196 | Commercial Solar Electric System | FTB 3540 | B2
+
+181 | Commercial Solar Energy | FTB 3540 | B2 C
+
+224 | Donated Fresh Fruits or Vegetables | FTB 3540 | A2
+
+194 | Employee Ridesharing | FTB 3540 | A2
+
+190 | Employer Child Care Contribution | FTB 3540 | A2
+
+189 | Employer Child Care Program | FTB 3540 | A2
+
+191 | Employer Ridesharing (Large) | FTB 3540 | A2
+
+192 | Employer Ridesharing (Small) | FTB 3540 | A2
+
+193 | Employer Ridesharing (Transit Passes) | FTB 3540 | A2
+
+182 | Energy Conservation | FTB 3540 | A2
+
+203 | Enhanced Oil Recovery | FTB 3540 | A2
+
+176 | Enterprise Zone Hiring | FTB 3805Z | B2
+
+176 | Enterprise Zone Sales or Use Tax | FTB 3805Z | B2
+
+218 | Environmental Tax | FTB 3540 | A2
+
+207 | Farmworker Housing | FTB 3540 | A2
+
+198 | Local Agency Military Base Recovery Area Hiring | FTB 3807 | A2
+
+198 | Local Agency Military Base Recovery Area Sales or Use Tax | FTB 3807 | A2
+
+160 | Low-Emission Vehicles | FTB 3540 | A2
+
+240 | Main Street Small Business Tax | FTB 3540 | A2
+
+241 | Main Street Small Business Tax II | FTB 3540 | A2
+
+211 | Manufacturing Enhancement Area Hiring | FTB 3808 | A2
+
+185 | Orphan Drug | FTB 3540 | B2
+
+184 | Political Contributions | FTB 3540 | A2
+
+174 | Recycling Equipment | FTB 3540 | A2
+
+186 | Residential Rental & Farm Sales | FTB 3540 | A2
+
+171 | Ridesharing | FTB 3540 | A2
+
+200 | Salmon & Steelhead Trout Habitat Restoration | FTB 3540 | A2
+
+180 | Solar Energy | FTB 3540 | B2 C
+
+179 | Solar Pump | FTB 3540 | A2
+
+210 | Targeted Tax Area Hiring | FTB 3809 | B2
+
+210 | Targeted Tax Area Sales or Use Tax | FTB 3809 | B2
+
+178 | Water Conservation | FTB 3540 | A2
+
+161 | Young Infant | FTB 3540 | A2
+
+## You are leaving ftb.ca.gov
+
+This link will take you to an external website that FTB does not own or control. We are not responsible for the privacy practices or content of the external site. If you proceed, you are subject to the privacy practices of the new site.
+
+Close
+Continue
+
+## Translate our website
+
+×Close
+
+This Google™ translation feature, provided on the Franchise Tax Board (FTB) website, is for general information only. Consult with a translator for official business.
+
+The web pages currently in English on the FTB website are the official and accurate source for tax information and services we provide. Any differences created in the translation are not binding on the FTB and have no legal effect for compliance or enforcement purposes. If you have any questions related to the information contained in the translation, refer to the English version.
+
+We translate some pages on the FTB website into Spanish. These pages do not include the Google™ translation application. For a complete listing of the FTB’s official Spanish pages, visit La página principal en español (Spanish home page).
+
+We cannot guarantee the accuracy of this translation and shall not be liable for any inaccurate information or changes in the page layout resulting from the translation application tool.
+
+This tool will not translate FTB applications, such as MyFTB, or tax forms and other files that are not in HTML format. Some publications and tax form instructions are available in HTML format and can be translated. Visit our Forms and Publications search tool for a list of tax forms, instructions, and publications, and their available formats.
+
+### Choose your language
+
+Close
+
+## Other links
+
+### Help
+
+- Find your answer online
+
+- Wait times
+
+- Chat
+
+- Contact us
+
+- State managed programs
+
+### About FTB
+
+- About us
+
+- Newsroom
+
+- Meetings
+
+- Careers
+
+- Data, reports, and plans
+
+### Resolve an issue
+
+- Respond to a letter
+
+- Taxpayer Advocate services
+
+- Report fraud
+
+- Report identity theft
+
+- Website help
+
+### Your rights
+
+- Accessibility
+
+- Disclaimer
+
+- Conditions of use
+
+- Privacy policy
+
+- Public records act
+
+- Acceso al idioma
