@@ -170,6 +170,68 @@ class FormCalculationTests(unittest.TestCase):
         self.assertIn("kind", ca.calculate(bad)["error"])
 
 
+class MixedScenarioTests(unittest.TestCase):
+    """Synthetic MFJ return covering part-year wages, a rental row with a bonus
+    depreciation add-back, a retirement row and a gain, each split by period."""
+
+    CASE = {
+        "filing_status": "MFJ",
+        "federal_agi": 161000,
+        "rows": [
+            {"id": "w-a", "kind": "income", "federal": 100000, "resident": 100000},
+            {"id": "w-b", "kind": "income", "federal": 50000, "resident": 20000},
+            # federal loss after bonus depreciation; add-back makes column D +4,000
+            {"id": "rental", "kind": "income", "federal": -6000, "addition": 10000,
+             "resident": 2000},
+            {"id": "ira", "kind": "income", "federal": 9000, "resident": 3000},
+            {"id": "gain", "kind": "income", "federal": 8000, "resident": 5000},
+        ],
+    }
+
+    def test_hand_calculation(self):
+        # Hand calculation (Decimal, independent of the script):
+        #  D = 161,000 + 10,000 = 171,000; E = 100,000+20,000+2,000+3,000+5,000 = 130,000
+        #  line 19 = 171,000 - 11,412 = 159,588
+        #  Schedule Y: 6,403.94 + 9.3% x (159,588 - 145,448) = 7,718.96 -> 7,719
+        #  rate = 7,719 / 159,588 = 0.0484; Part IV % = 130,000 / 171,000 = 0.7602
+        #  deduction = 11,412 x 0.7602 = 8,675; line 35 = 121,325; line 37 = 5,872
+        #  line 38 = 121,325 / 159,588 = 0.7602; line 39 = 306 x 0.7602 = 233; line 40 = 5,639
+        r = ca.calculate(self.CASE)
+        self.assertNotIn("error", r)
+        f = r["form_540nr"]
+        self.assertEqual(r["schedule_ca"]["column_D"], "171000")
+        self.assertEqual(r["schedule_ca"]["column_E"], "130000")
+        self.assertEqual(r["notes"], [])
+        for line, want in (("line16", "10000"), ("line17", "171000"), ("line19", "159588"),
+                           ("line31", "7719"), ("line36", "0.0484"), ("line35", "121325"),
+                           ("line37", "5872"), ("line38", "0.7602"), ("line39", "233"),
+                           ("line40", "5639"), ("line74", "5639")):
+            self.assertEqual(f[line], want, line)
+
+    def test_ftb_3805p_additional_tax_goes_to_line_73(self):
+        # 2.5% x 2,000 early taxable distribution = 50 (filer-supplied from FTB 3805P)
+        base = ca.calculate(self.CASE)["form_540nr"]
+        case = dict(self.CASE, other_tax={"line73": 50})
+        f = ca.calculate(case)["form_540nr"]
+        self.assertEqual(f["line73"], "50")
+        self.assertEqual(f["line74"], str(int(base["line74"]) + 50))
+
+    def test_addback_scenario_lowers_tax(self):
+        case = dict(self.CASE, scenarios=[{
+            "label": "no bonus add-back",
+            "rows": {"rental": {"addition": 0, "resident": -3000}}}])
+        sc = ca.calculate(case)["scenarios"][0]
+        self.assertLess(Decimal(sc["change_in_total_tax"]), 0)
+
+    def test_retirement_nonresident_period_is_excluded(self):
+        # All distributions taken while a nonresident: column E has none of the IRA row
+        case = json.loads(json.dumps(self.CASE))
+        case["rows"][3]["resident"] = 0
+        r = ca.calculate(case)
+        self.assertEqual(r["schedule_ca"]["column_E"], "127000")
+        self.assertEqual(r["schedule_ca"]["column_D"], "171000")
+
+
 class CommandLineTests(unittest.TestCase):
     def test_cli_outputs_json(self):
         out = subprocess.run([sys.executable, "-I", SCRIPT, json.dumps(part_year_case())],

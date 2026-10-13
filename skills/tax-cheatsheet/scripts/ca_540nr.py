@@ -16,6 +16,9 @@ Input keys (all amounts in dollars):
     exemptions         {"blind": n, "senior": n, "dependents": n}
     credits_total      Form 540NR line 62 (filer-supplied)
     other_tax          {"line41": x, "line71": x, "line73": x}
+                       line73 holds the FTB 3805P additional tax (2.5% of an early
+                       taxable distribution received as a resident), figured on the
+                       form and entered here: ca-retirement-distributions.md
     payments           {"line81": x, "line82": x, "line83": x, "other": x}
     scenarios          Optional list of {"label": str, "rows": {row_id: {field: value}}}
                        to show the dollar effect of a judgment call.

@@ -93,6 +93,14 @@ Add these rows to `analysis/tax-doc-summary.csv` alongside the federal rows (sam
 | W-2 | Box 14 (CA SDI) | California SDI withheld, label the box `Box 14 (CA SDI)` | Cross-check only; not a credit *(Source: ca-credits-withholding.md, SDI)* |
 | 1099-G | Box 2 | State or local income tax refund | Schedule CA (540NR) Part II Section B line 1, column B *(Source: ca-schedule-ca-540nr.md, Adjustments Included in This Plugin)* |
 | 1099-G | Box 1 | Unemployment compensation | Schedule CA (540NR) line 7, column B *(Source: ca-schedule-ca-540nr.md)* |
+| 1099-R | Box 1, Box 2a | Gross and taxable distribution, one row per distribution with its payment date | Schedule CA (540NR) line 4a-4b (IRA) or 5a-5b (pension); split by residency period *(Source: ca-retirement-distributions.md, Part-Year Residents)* |
+| 1099-R | Box 2b | Taxable amount not determined / total distribution checkboxes | Flags that the taxable amount needs the filer's basis records *(Source: ca-retirement-distributions.md, IRA Basis After Moving to California)* |
+| 1099-R | Box 7 | Distribution code | Early-distribution check on FTB 3805P: codes 2, 3 or 4 show an exception *(Source: ca-retirement-distributions.md, Additional Tax on Early Distributions)* |
+| 1099-R | Box 14 | State tax withheld | Form 540NR line 81 *(Source: ca-credits-withholding.md, Withholding)* |
+| 1099-B | Dates acquired and sold, proceeds, basis | One row per sale with its sale date | Schedule D (540NR) Worksheet; column E uses the sale date *(Source: ca-capital-gains-part-year.md, Part-Year Residents)* |
+| 1099-MISC | Box 1 (rents) | Rents received, with the property's state | Schedule CA (540NR) line 5; property outside California is California-source only for the resident period *(Source: ca-rental-depreciation-passive.md, Part-Year Residents and Rental Property)* |
+
+For every 1099-R distribution and every 1099-B transaction, ask the user for its date (a consolidated annual total cannot be split by residency period). For each 1099-R also ask the Box 7 code and whether the plan is a traditional IRA, Roth IRA or pension. For rental property ask the state where it is located, the date it was first available for rent, and whether federal bonus depreciation was claimed. *(Source: ca-retirement-distributions.md, Part-Year Residents; ca-capital-gains-part-year.md, Part-Year Residents; ca-rental-depreciation-passive.md, Depreciation Differences)*
 
 Also record the date each item was earned or received when the document shows one (for example, rental months, a sale date), because part-year filers need resident-period and nonresident-period amounts. *(Source: ca-residency-part-year.md, Residency Dates Are Not Enough on Their Own)*
 

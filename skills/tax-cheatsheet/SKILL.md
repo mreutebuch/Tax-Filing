@@ -213,15 +213,23 @@ Applies when `analysis/ca-residency.json` exists or the user asks for a Californ
 |------|-------------------|
 | Form 540NR | `ca-form-540nr-line-by-line.md`, `ca-2025-numbers.md`, `ca-credits-withholding.md` |
 | Schedule CA (540NR) | `ca-schedule-ca-540nr.md`, `ca-residency-part-year.md` |
+| Schedule CA (540NR) lines 4a-4b, 5a-5b (retirement) | `ca-retirement-distributions.md` |
+| Schedule CA (540NR) line 5, FTB 3885A, FTB 3801 (rental) | `ca-rental-depreciation-passive.md` |
+| Schedule CA (540NR) line 7a, Schedule D (540NR) | `ca-capital-gains-part-year.md` |
+| Payment and filing dates, FTB 3519 | `ca-filing-deadlines-extension.md` |
 
 ### Workflow
 1. Read `analysis/ca-residency.json` and the California rows of the CSV. Full-year residents filing alone use Form 540; a joint return with a part-year or nonresident spouse uses Form 540NR. *(Source: ca-residency-part-year.md, Who Files Which Form)*
 2. Build the Schedule CA (540NR) rows. For every income and adjustment line enter column A (federal), column B (subtractions), column C (additions), and the column E amounts split into `resident` (earned while a California resident) and `nonresident_ca_source` (California-source income while a nonresident). *(Source: ca-schedule-ca-540nr.md, Columns)*
 3. Apply known California differences: state refund (column B), unemployment (column B), social security (column B), HSA add-backs, rental depreciation via FTB 3885A. *(Source: ca-schedule-ca-540nr.md)*
-4. Run `ca_540nr.py` with the rows (see below). Never compute California lines by hand.
-5. Write `analysis/cheatsheet-ScheduleCA.md` and `analysis/cheatsheet-540NR.md`: one line per entry with the value, its source (CSV row or script output) and its citation.
-6. Present judgment items (below) with a `scenarios` entry each, so the dollar effect of the alternative is shown.
-7. Leave SSN, bank account and signature fields blank.
+4. Schedule CA (540NR) lines that need dated inputs (ask `/tax-prep` rows for the dates; never split an annual total without them):
+   - **Lines 4a-4b (IRA) and 5a-5b (pensions and annuities):** column E holds only distributions received while a resident; a nonresident period contributes nothing. Compare California and federal IRA basis; a difference goes in column B (federal more) or C (federal less) of line 4b, and Pub. 1005 Worksheet I needs the contribution history. Roth IRA distributions need no adjustment unless a traditional IRA was converted with different California basis. If the 1099-R Box 7 code is not 2, 3 or 4 on an early taxable distribution received as a resident, FTB 3805P applies: put the result in `other_tax.line73`. *(Source: ca-retirement-distributions.md, all sections)*
+   - **Line 5 (rental):** column D carries the full-year amount using California depreciation (FTB 3885A, no bonus depreciation); column E carries the resident-period amount for property outside California, allocated by date or daily pro-rata. Passive losses use FTB 3801. *(Source: ca-rental-depreciation-passive.md, Depreciation Differences; Part-Year Residents and Rental Property)*
+   - **Line 7a (capital gains) and Schedule D (540NR) Worksheet:** fill the worksheet columns by each transaction's date; prior-year loss carryover is prorated by days resident and days nonresident (column C = column A x days resident / 365; column D = column B x days nonresident / 365). *(Source: ca-capital-gains-part-year.md, Part-Year Residents; Carryovers)*
+5. Run `ca_540nr.py` with the rows (see below). Never compute California lines by hand.
+6. Write `analysis/cheatsheet-ScheduleCA.md` and `analysis/cheatsheet-540NR.md`: one line per entry with the value, its source (CSV row or script output) and its citation.
+7. Present judgment items (below) with a `scenarios` entry each, so the dollar effect of the alternative is shown.
+8. Leave SSN, bank account and signature fields blank.
 
 ### Calling the script
 

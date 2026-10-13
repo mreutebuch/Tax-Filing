@@ -37,6 +37,24 @@ class CrossCheckTests(unittest.TestCase):
         self.assertTrue(all(c["status"] in ("MATCH", "SKIPPED") for c in r["line_checks"]))
         self.assertTrue(r["unverified_items"])
 
+    def test_mixed_scenario_hand_values_pass(self):
+        # Rental add-back, IRA and gain rows; hand values in test_ca_540nr.MixedScenarioTests
+        inputs = {
+            "filing_status": "MFJ", "federal_agi": 161000,
+            "rows": [
+                {"id": "w-a", "kind": "income", "federal": 100000, "resident": 100000},
+                {"id": "w-b", "kind": "income", "federal": 50000, "resident": 20000},
+                {"id": "rental", "kind": "income", "federal": -6000, "addition": 10000, "resident": 2000},
+                {"id": "ira", "kind": "income", "federal": 9000, "resident": 3000},
+                {"id": "gain", "kind": "income", "federal": 8000, "resident": 5000},
+            ],
+        }
+        filed = {"line13": 161000, "line16": 10000, "line17": 171000, "line19": 159588,
+                 "line31": 7719, "line35": 121325, "line36": "0.0484", "line37": 5872,
+                 "line38": "0.7602", "line39": 233, "line40": 5639, "line74": 5639}
+        r = cc.check({"inputs": inputs, "filed": filed})
+        self.assertEqual(r["verdict"], "READY TO FILE", r)
+
     def test_wrong_tax_stops(self):
         filed = dict(FILED, line74=6000, line40=6000)
         r = cc.check({"inputs": INPUTS, "filed": filed})
