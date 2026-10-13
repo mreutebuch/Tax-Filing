@@ -133,7 +133,7 @@ Each curated file covers one topic (e.g., SALT deduction, mortgage interest, Sch
 |------|-------|
 | `1040-line-by-line.md` | Form 1040 line-by-line reference |
 | `2025-tax-numbers.md` | Federal brackets, deductions, thresholds |
-| `ca/*.md` | California 2025 numbers, residency, Form 540NR, Schedule CA (540NR), credits and withholding |
+| `ca/*.md` | California 2025 numbers, residency, Form 540NR, Schedule CA (540NR), credits and withholding, retirement distributions, rental depreciation and passive losses, part-year capital gains, filing deadlines. The FTB source text (`*.txt`, HTML) is tracked next to them; PDFs are not. |
 | `additional-medicare-tax.md` | Form 8959 (0.9% Additional Medicare Tax) |
 | `investment-income.md` | Schedule B, Schedule D, qualified dividends, capital gains |
 | `mortgage-interest.md` | Mortgage interest deduction (Pub 936) |

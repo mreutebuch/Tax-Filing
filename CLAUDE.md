@@ -16,7 +16,7 @@ residents) tax return using Claude Code. Built for tax year 2025.
 | What | Where |
 |------|-------|
 | Curated IRS references | reference/curated/ |
-| Curated California (FTB) references | reference/curated/ca/ |
+| Curated California (FTB) references (rule files `ca-*.md`; extracted text `*.txt` and HTML instruction pages are tracked; source PDFs are gitignored and fetched from the URL in each `*.source.txt`) | reference/curated/ca/ |
 | Reference curation guide | reference/HOW-TO-CURATE.md |
 | Known pitfalls | docs/KNOWN-PITFALLS.md |
 | Example outputs | examples/ |
