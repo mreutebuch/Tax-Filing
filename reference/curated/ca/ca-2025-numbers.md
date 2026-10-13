@@ -69,7 +69,7 @@
 
 ### Tax Table (line 19 of $100,000 or less)
 - The Tax Table lists $100 ranges (the first range is $1-$50, then $51-$150, $151-$250 and so on). Filing statuses 1 and 3 use the Single/MFS column, 2 and 5 use the joint column, 4 uses the Head of Household column. [2025 Form 540NR Booklet, 2025 California Tax Table]
-- The table amount equals the Rate Schedule tax at the midpoint of the range, rounded to whole dollars (for example, range $12,951-$13,050 for Single is $149 = $110.79 + 2% x ($13,000 - $11,079), rounded; the same range for joint is $130 = 1% x $13,000). [2025 Form 540NR Booklet, 2025 California Tax Table; verified against printed rows]
+- The table amount equals the Rate Schedule tax at the midpoint of the range (the round hundred: 100, 200, ...; the last range $99,951-$100,000 uses $99,975), rounded to whole dollars (for example, range $12,951-$13,050 for Single is $149 = $110.79 + 2% x ($13,000 - $11,079), rounded; the same range for joint is $130 = 1% x $13,000). [2025 Form 540NR Booklet, 2025 California Tax Table; all 1,001 printed ranges checked in all three filing-status columns]
 
 ### Standard Deduction
 - Single or Married/RDP filing separately: $5,706. Married/RDP filing jointly, Head of household, Qualifying surviving spouse/RDP: $11,412. [2025 Form 540NR Booklet, Line 18]
