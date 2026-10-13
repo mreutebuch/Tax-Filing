@@ -77,7 +77,7 @@ Parse the JSON output. Check `document_coverage` for unmapped documents, `requir
 
 ### Step 4 — Manual Pitfall Review
 
-Read `docs/KNOWN-PITFALLS.md` and walk through each of the 8 pitfalls against the user's values:
+Read `docs/KNOWN-PITFALLS.md` and walk through each of the 8 federal pitfalls (and, for a California return, pitfalls 9-12 in the California section) against the user's values:
 
 1. **AGI includes ALL income** — Verify AGI accounts for wages + interest + dividends + capital gains + Schedule C, not just W-2 wages. *(Source: 1040-line-by-line.md, Income Section)*
 2. **Math verified through Python** — Confirm all computed values came from script output, not manual arithmetic. *(Source: CLAUDE.md, Rules)*
@@ -189,6 +189,22 @@ Filing status: [status]. Forms reviewed: [list].
 - **REVIEW THESE ITEMS** — N items need review before filing. See WARNING items above.
 - **STOP — DO NOT FILE** — N critical errors found. Do NOT file until resolved.
 
+## California Section (`state: CA`)
+
+Run after the federal audit when a California return exists. Source files: `reference/curated/ca/`.
+
+1. Gather the filer's Form 540NR values (`line12` ... `line104`) and the inputs given to `ca_540nr.py` (rows, filing status, exemptions, payments).
+2. Run the independent recomputation:
+
+```bash
+python "${CLAUDE_PLUGIN_ROOT}/skills/tax-audit/scripts/ca_cross_check.py" '{"inputs": {...}, "filed": {"line19": 168588, "line74": 6882}, "documents": {"w2_ca_withholding": 9000, "w2_box16_wages": 180000, "state_refund_1099g": 0}}'
+```
+
+3. Report each line check (`MATCH`, `ROUNDING`, `DIFFERENT`), the document checks, and the verdict (READY TO FILE, REVIEW THESE ITEMS, STOP). A difference of $1 or less is rounding because the form rounds each line. *(Source: ca-2025-numbers.md, Rounding the Schedule Result)*
+4. Walk through California pitfalls 9-12 in `docs/KNOWN-PITFALLS.md`.
+5. List the `unverified_items` from the script in the report. Never mark an unverified item as passed.
+6. Confirm that SDI was not claimed as a credit and that withholding on line 81 matches W-2 box 17 only. *(Source: ca-credits-withholding.md)*
+
 ## Input Schema Reference
 
 ### federal_values
@@ -234,6 +250,7 @@ A list of form names the user has completed. Common values:
 |--------|---------|----------|
 | `cross_check.py` | Source-document match, withholding vs W-2, AGI math, tax bracket verification | `${CLAUDE_PLUGIN_ROOT}/skills/tax-audit/scripts/` |
 | `completeness_check.py` | Document coverage, required forms, orphaned documents | `${CLAUDE_PLUGIN_ROOT}/skills/tax-audit/scripts/` |
+| `ca_cross_check.py` | Independent California recomputation and comparison with filed Form 540NR values | `${CLAUDE_PLUGIN_ROOT}/skills/tax-audit/scripts/` |
 
 Also available from `/tax-cheatsheet` (do not modify):
 

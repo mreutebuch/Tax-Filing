@@ -86,3 +86,43 @@ reference file.
   (Form 8959 Line 22) covers the liability or leaves a balance due.
 - **Citation:** *(Source: additional-medicare-tax.md, How Employer
   Withholding Works)*
+
+## Pitfall 9: Part-Year Filers Must Split Income by Residency Period (California)
+
+- **Mistake:** Putting all income in Schedule CA (540NR) column E, or
+  dropping all income earned before a move. California taxes everything
+  earned while a resident and only California-source income while a
+  nonresident.
+- **How to verify:** For each Schedule CA (540NR) row, confirm the
+  column E amount equals the resident-period amount plus the
+  California-source nonresident-period amount, and that column D still
+  holds the all-year total.
+- **Citation:** *(Source: ca-residency-part-year.md, How Part-Year
+  Residents Are Taxed)*
+
+## Pitfall 10: California Does Not Tax the State Refund (California)
+
+- **Mistake:** Leaving a 1099-G state income tax refund in California
+  income because it is on the federal return.
+- **How to verify:** The refund amount appears in column A and again in
+  column B of Schedule CA (540NR) Part II Section B line 1, and matches
+  1099-G Box 2.
+- **Citation:** *(Source: ca-schedule-ca-540nr.md, Adjustments Included
+  in This Plugin)*
+
+## Pitfall 11: Bonus Depreciation and HSA Do Not Carry Over (California)
+
+- **Mistake:** Copying federal rental depreciation (including bonus
+  depreciation) or federal HSA treatment to the California return.
+- **How to verify:** Confirm an FTB 3885A adjustment exists for any
+  property with bonus depreciation, and that HSA contributions and
+  earnings are added back in column C.
+- **Citation:** *(Source: ca-schedule-ca-540nr.md, Depreciation; HSA)*
+
+## Pitfall 12: SDI Is Not a Credit and Withholding Excludes Other States (California)
+
+- **Mistake:** Adding SDI (W-2 Box 14) or tax withheld by another state
+  to Form 540NR line 81.
+- **How to verify:** Line 81 equals the sum of California income tax
+  withheld shown on W-2 Box 17 and the listed 1099 boxes only.
+- **Citation:** *(Source: ca-credits-withholding.md, Withholding; SDI)*

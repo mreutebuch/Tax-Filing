@@ -205,6 +205,44 @@ Not all lines will have data available. Handle gracefully:
 - **Curated reference doesn't cover this rule:** Use the unverified disclaimer: "I cannot verify this from provided IRS materials — check IRS.gov before relying on this."
 - **Partial completion:** Summarize what can be filled now vs. what's missing: "You can fill Lines 1–5 now. Line 6 needs your property tax bill — we'll come back to that."
 
+## California Return (Form 540NR and Schedule CA (540NR))
+
+Applies when `analysis/ca-residency.json` exists or the user asks for a California return. Complete the federal return first: California starts from the final federal AGI. Source files: `reference/curated/ca/`.
+
+| Form | Reference file(s) |
+|------|-------------------|
+| Form 540NR | `ca-form-540nr-line-by-line.md`, `ca-2025-numbers.md`, `ca-credits-withholding.md` |
+| Schedule CA (540NR) | `ca-schedule-ca-540nr.md`, `ca-residency-part-year.md` |
+
+### Workflow
+1. Read `analysis/ca-residency.json` and the California rows of the CSV. Full-year residents filing alone use Form 540; a joint return with a part-year or nonresident spouse uses Form 540NR. *(Source: ca-residency-part-year.md, Who Files Which Form)*
+2. Build the Schedule CA (540NR) rows. For every income and adjustment line enter column A (federal), column B (subtractions), column C (additions), and the column E amounts split into `resident` (earned while a California resident) and `nonresident_ca_source` (California-source income while a nonresident). *(Source: ca-schedule-ca-540nr.md, Columns)*
+3. Apply known California differences: state refund (column B), unemployment (column B), social security (column B), HSA add-backs, rental depreciation via FTB 3885A. *(Source: ca-schedule-ca-540nr.md)*
+4. Run `ca_540nr.py` with the rows (see below). Never compute California lines by hand.
+5. Write `analysis/cheatsheet-ScheduleCA.md` and `analysis/cheatsheet-540NR.md`: one line per entry with the value, its source (CSV row or script output) and its citation.
+6. Present judgment items (below) with a `scenarios` entry each, so the dollar effect of the alternative is shown.
+7. Leave SSN, bank account and signature fields blank.
+
+### Calling the script
+
+```bash
+python "${CLAUDE_PLUGIN_ROOT}/skills/tax-cheatsheet/scripts/ca_540nr.py" '{"filing_status": "MFJ", "federal_agi": 180000, "rows": [{"id": "1a", "kind": "income", "federal": 120000, "resident": 120000}], "payments": {"line81": 9000}}'
+```
+
+The output has `schedule_ca`, `form_540nr` (by line number), `tax_method`, `notes` and `scenarios`. Report `notes` to the user.
+
+### Judgment items (conservative default, show the other side)
+
+| Item | Conservative default | How to show the effect |
+|------|----------------------|------------------------|
+| Rental depreciation (bonus depreciation) | California does not conform; use the FTB 3885A adjustment (more income) *(Source: ca-schedule-ca-540nr.md, Depreciation)* | Scenario with the federal amount unadjusted |
+| Rental income before residency began | Property outside California is not California-source; allocate by date *(Source: ca-residency-part-year.md)*. If the facts are unclear, allocate by daily pro-rata | Scenario moving the amount between `resident` and `nonresident_ca_source` |
+| Community property share of the part-year spouse's pre-move wages | Include half as California income | Scenario with 0% versus 50% in `nonresident_ca_source`. Rule: "I cannot verify this from provided FTB materials — check ftb.ca.gov" *(Source: ca-residency-part-year.md, Community Property)* |
+| Rollovers (529 to Roth IRA, Archer MSA to HSA) | Include in California income *(Source: ca-schedule-ca-540nr.md)* | Scenario excluding the amount |
+| State refund received in the year | Subtract in column B (California does not tax it) *(Source: ca-schedule-ca-540nr.md)* | State the dollar amount subtracted |
+
+Itemized deductions, AMT, Schedule G-1 and credits beyond the exemption credits are outside the script: use the booklet and say "I cannot verify this from provided FTB materials — check ftb.ca.gov".
+
 ## Mandatory Rules
 
 > Full rule definitions are in CLAUDE.md. Skill-specific subset below.
@@ -232,6 +270,7 @@ Scripts accept a single CLI argument (JSON string) and print a JSON object to st
 | `standard_vs_itemized.py` | Compare standard deduction vs. itemized, accounting for SALT cap and phase-out |
 | `schedule_c_calculator.py` | Compute Schedule C lines: COGS, expenses, net profit/loss, SE tax flag, QBI |
 | `salt_cap_calculator.py` | Compute effective SALT cap with MAGI phase-out |
+| `ca_540nr.py` | California Form 540NR / Schedule CA (540NR) calculation, part-year proration, judgment-call scenarios |
 
 ## Related Skills
 
