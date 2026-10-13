@@ -3,7 +3,7 @@ completeness_check.py — Document coverage, required forms detection,
 and orphaned document identification.
 
 Usage:
-    python completeness_check.py '{"csv_path": "analysis/tax-doc-summary.csv", "forms_filed": ["1040", "Schedule A", "Schedule B", "Schedule D", "MD 502"], "filing_status": "MFJ"}'
+    python completeness_check.py '{"csv_path": "analysis/tax-doc-summary.csv", "forms_filed": ["1040", "Schedule A", "Schedule B", "Schedule D"], "filing_status": "MFJ"}'
 
 Reads the extracted tax document CSV and checks:
 1. Every document is mapped to at least one filed form
@@ -315,27 +315,6 @@ def check_required_forms(rows, forms_filed, filing_status):
             "status": "recommended",
             "reason": "Schedule C business income — file Form 8995 for QBI deduction (or to establish loss carryforward)",
             "filed": form_filed(forms_filed, "Form 8995")
-        })
-
-    # --- MD 502: if any W-2 has Maryland state data ---
-    has_md = False
-    for row in rows:
-        doc = row.get("document", "").upper()
-        box = row.get("box_or_line", "")
-        val = row.get("value", "").upper()
-        if "W-2" in doc and box == "Box 15" and "MD" in val:
-            has_md = True
-            break
-        # Also check if Box 16 or 17 exist for W-2s (some CSVs may not have Box 15)
-        if "W-2" in doc and box in ("Box 16", "Box 17"):
-            has_md = True
-
-    if has_md:
-        required.append({
-            "form": "MD 502",
-            "status": "required",
-            "reason": "W-2 contains Maryland state wage/withholding data",
-            "filed": form_filed(forms_filed, "MD 502")
         })
 
     # --- Schedule A: if itemizing (check for 1098 mortgage data) ---

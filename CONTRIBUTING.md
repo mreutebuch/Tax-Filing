@@ -20,7 +20,7 @@ In rough order of "easiest to land" to "needs discussion first":
 - **Bug fixes in existing Python scripts** — open a PR with a short before/after example showing the bad output and the corrected output.
 - **New curated reference files** (e.g. another state, a new form, a new deduction) — open an issue first so we can confirm scope and citation sources.
 - **New skills** — open an issue first. New skills must follow the conventions below and fit the existing pipeline.
-- **Tax-year updates (2026 and beyond)** — coordinate via issue so thresholds stay consistent across all 13 curated files.
+- **Tax-year updates (2026 and beyond)** — coordinate via issue so thresholds stay consistent across all 12 curated files.
 
 ## What We're NOT Looking For
 
@@ -44,7 +44,7 @@ These rules apply to every contribution. If your change can't satisfy them, it p
 
 ## Adding a New Skill
 
-- **Location:** `.claude/skills/{skill-name}/SKILL.md`
+- **Location:** `skills/{skill-name}/SKILL.md`
 - **Naming:** kebab-case. The skill name in frontmatter must match the directory name.
 - **Required frontmatter:**
   ```yaml
@@ -55,7 +55,7 @@ These rules apply to every contribution. If your change can't satisfy them, it p
   ```
 - **Session handoff pattern:** follow what the existing skills do — check for `analysis/tax-doc-summary.csv`, report status, ask the user for the next step, and stop early if the CSV is missing and your skill needs it.
 - **Disclaimer:** any user-facing output must include the standard disclaimer (not tax advice, verify against source documents, etc.).
-- **Scripts:** go in `.claude/skills/{skill-name}/scripts/`, snake_case filenames, JSON-in / JSON-out, `Decimal` for all money math. See [.claude/skills/tax-audit/scripts/cross_check.py](.claude/skills/tax-audit/scripts/cross_check.py) for the established pattern.
+- **Scripts:** go in `skills/{skill-name}/scripts/`, snake_case filenames, JSON-in / JSON-out, `Decimal` for all money math. See [skills/tax-audit/scripts/cross_check.py](skills/tax-audit/scripts/cross_check.py) for the established pattern.
 
 ## Adding a Curated Reference File
 

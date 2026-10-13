@@ -25,3 +25,6 @@ Desktop.ini
 .vscode/
 .idea/
 *.swp
+
+# IRS forms/instructions/publications as PDFs (freely downloadable; see the matching *.source.txt for title and URL)
+reference/curated/*.pdf

@@ -1,0 +1,11 @@
+{
+  "name": "tax-filing-local",
+  "owner": { "name": "local" },
+  "plugins": [
+    {
+      "name": "tax-filing",
+      "source": "./",
+      "description": "Federal (Form 1040) tax-year-2025 filing skills."
+    }
+  ]
+}

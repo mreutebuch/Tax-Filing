@@ -1,6 +1,6 @@
 ---
 name: tax-advisor
-description: "After filing, analyzes the completed return and recommends actions to reduce tax liability for the next year. Runs what-if scenarios showing the dollar impact of each recommendation on federal, Maryland state, and local taxes. Triggers on: 'what should I do differently next year', 'how to reduce my taxes', 'tax planning', 'what if I maxed my 401k', 'tax optimization', 'next year tax strategy', 'reduce my tax bill', 'tax savings opportunities', 'should I change my withholding', 'how much would I save'."
+description: "After filing, analyzes the completed return and recommends actions to reduce tax liability for the next year. Runs what-if scenarios showing the dollar impact of each recommendation on federal taxes. Triggers on: 'what should I do differently next year', 'how to reduce my taxes', 'tax planning', 'what if I maxed my 401k', 'tax optimization', 'next year tax strategy', 'reduce my tax bill', 'tax savings opportunities', 'should I change my withholding', 'how much would I save'."
 ---
 
 # tax-advisor
@@ -26,8 +26,6 @@ Every conversation starts here:
    - Schedule C net profit/loss
    - Deduction components (mortgage interest, state/local tax, real estate tax, charitable)
    - Retirement contributions already made (401k, IRA, HSA)
-   - County of residence
-   - US obligation interest (for MD subtractions)
    - QBI carryforward from current year (if any)
 6. Ask which scenarios to explore, or offer to run all scenarios
 
@@ -54,7 +52,7 @@ Every conversation starts here:
 Reconstruct the baseline from the user's filed return. Use `form_line_lookup.py` from `/tax-cheatsheet` to pull values from the CSV where possible:
 
 ```bash
-python .claude/skills/tax-cheatsheet/scripts/form_line_lookup.py '{"csv_path": "analysis/tax-doc-summary.csv", "document_filter": "W-2", "box_filter": "Box 1", "operation": "sum"}'
+python "${CLAUDE_PLUGIN_ROOT}/skills/tax-cheatsheet/scripts/form_line_lookup.py" '{"csv_path": "analysis/tax-doc-summary.csv", "document_filter": "W-2", "box_filter": "Box 1", "operation": "sum"}'
 ```
 
 Build the baseline JSON dict with all fields from the Input Schema Reference below. Key extraction mappings:
@@ -78,7 +76,7 @@ Build the baseline JSON dict with all fields from the Input Schema Reference bel
 For each scenario the user wants to explore, invoke `what_if.py`:
 
 ```bash
-python .claude/skills/tax-advisor/scripts/what_if.py '{"baseline": {...}, "scenario": {"name": "max_401k_both", "retirement_contributions_primary": "23500", "retirement_contributions_spouse": "23500"}}'
+python "${CLAUDE_PLUGIN_ROOT}/skills/tax-advisor/scripts/what_if.py" '{"baseline": {...}, "scenario": {"name": "max_401k_both", "retirement_contributions_primary": "23500", "retirement_contributions_spouse": "23500"}}'
 ```
 
 Parse the JSON output. Each result contains `baseline`, `modified`, `savings`, and `notes`.
@@ -102,7 +100,7 @@ Use the Output Template below. For each scenario:
 If the user wants to see the combined impact of multiple strategies, run a single combined scenario through `what_if.py` (not a sum of individual savings — tax is nonlinear):
 
 ```bash
-python .claude/skills/tax-advisor/scripts/what_if.py '{"baseline": {...}, "scenario": {"name": "custom", "retirement_contributions_primary": "23500", "retirement_contributions_spouse": "23500", "hsa_contributions": "8550", "charitable": "10000"}}'
+python "${CLAUDE_PLUGIN_ROOT}/skills/tax-advisor/scripts/what_if.py" '{"baseline": {...}, "scenario": {"name": "custom", "retirement_contributions_primary": "23500", "retirement_contributions_spouse": "23500", "hsa_contributions": "8550", "charitable": "10000"}}'
 ```
 
 ## Input Schema Reference
@@ -134,10 +132,7 @@ Collect these values from the user's filed return and extracted CSV:
 | `charitable` | Schedule A Line 12 | Charitable contributions |
 | `medical_expenses` | Schedule A Line 1 | Gross medical expenses |
 | `other_itemized` | Schedule A other | Other itemized deductions |
-| `county` | User input | Maryland county (e.g., "Montgomery") |
-| `us_obligation_interest` | 1099-INT Box 8 | U.S. obligation interest (MD subtraction) |
 | `qbi_carryforward` | Form 8995 Line 16 | QBI loss carryforward from current year |
-| `num_exemptions` | User input | Number of MD exemptions (default: 2 MFJ) |
 
 ### scenario
 
@@ -157,18 +152,18 @@ Based on your 2025 filed return (filing status: [status], AGI: $[amount]).
 
 ### Still Do Before April 15
 
-| # | Strategy | Federal Savings | State Savings | Total Savings | Note |
-|---|----------|-----------------|---------------|---------------|------|
-| 1 | [Strategy name] | $X | $Y | $Z | [Key note] |
+| # | Strategy | Federal Savings | Note |
+|---|----------|-----------------|------|
+| 1 | [Strategy name] | $X | [Key note] |
 
 *If any before-deadline strategies show $0 savings, explain why (e.g., "IRA not deductible at your income level").*
 
 ### Plan for Next Year
 
-| # | Strategy | Current → Proposed | Federal Savings | State + Local Savings | Total Savings |
-|---|----------|-------------------|-----------------|----------------------|---------------|
-| 1 | Max 401(k) both | $0 → $47,000 | $X | $Y | $Z |
-| ... | ... | ... | ... | ... | ... |
+| # | Strategy | Current → Proposed | Federal Savings |
+|---|----------|-------------------|-----------------|
+| 1 | Max 401(k) both | $0 → $47,000 | $X |
+| ... | ... | ... | ... |
 
 *Ranked by total savings (largest first).*
 
@@ -203,7 +198,7 @@ If you implemented [list of recommended strategies]:
 ```
 
 **Important output rules:**
-- Always show both federal AND state/local impact — state savings are significant at MD rates
+- This skill models federal taxes only — state and local taxes are out of scope
 - When a scenario shows $0 savings, explain why (phase-out, not eligible, etc.)
 - When retirement/HSA limits are used, include the verification warning from the script's `notes` array
 - Round dollar amounts to whole dollars in the summary table; cents in detail sections
@@ -223,16 +218,16 @@ If you implemented [list of recommended strategies]:
 
 | Script | Purpose | Location |
 |--------|---------|----------|
-| `what_if.py` | Model tax scenarios, compute dollar savings for federal + MD state + local | `.claude/skills/tax-advisor/scripts/` |
+| `what_if.py` | Model tax scenarios, compute dollar savings for federal taxes | `${CLAUDE_PLUGIN_ROOT}/skills/tax-advisor/scripts/` |
 
 Also available from other skills (do not modify):
 
 | Script | Purpose | Location |
 |--------|---------|----------|
-| `form_line_lookup.py` | Query CSV by document type and box | `.claude/skills/tax-cheatsheet/scripts/` |
-| `standard_vs_itemized.py` | Compare standard vs itemized deduction | `.claude/skills/tax-cheatsheet/scripts/` |
-| `salt_cap_calculator.py` | SALT cap with MAGI phase-out | `.claude/skills/tax-cheatsheet/scripts/` |
-| `cross_check.py` | Federal vs state consistency, tax bracket verification | `.claude/skills/tax-audit/scripts/` |
+| `form_line_lookup.py` | Query CSV by document type and box | `${CLAUDE_PLUGIN_ROOT}/skills/tax-cheatsheet/scripts/` |
+| `standard_vs_itemized.py` | Compare standard vs itemized deduction | `${CLAUDE_PLUGIN_ROOT}/skills/tax-cheatsheet/scripts/` |
+| `salt_cap_calculator.py` | SALT cap with MAGI phase-out | `${CLAUDE_PLUGIN_ROOT}/skills/tax-cheatsheet/scripts/` |
+| `cross_check.py` | Source-document match, withholding match, tax bracket verification | `${CLAUDE_PLUGIN_ROOT}/skills/tax-audit/scripts/` |
 
 ## Related Skills
 

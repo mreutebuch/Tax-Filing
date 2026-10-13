@@ -82,7 +82,7 @@ See `templates/tax-doc-summary-template.csv` for a complete example with sample 
 After extraction is complete, run the validation script to flag anomalies:
 
 ```bash
-python .claude/skills/tax-prep/scripts/validate_extraction.py '{"csv_path": "analysis/tax-doc-summary.csv"}'
+python "${CLAUDE_PLUGIN_ROOT}/skills/tax-prep/scripts/validate_extraction.py" '{"csv_path": "analysis/tax-doc-summary.csv"}'
 ```
 
 The script checks for common issues: zero withholding, Medicare wages below regular wages, missing cost basis on 1099-B, duplicate entries, and more. It outputs JSON with:
@@ -108,10 +108,10 @@ The script checks for common issues: zero withholding, Medicare wages below regu
 
 ## Script Invocation
 
-Scripts live in `.claude/skills/tax-prep/scripts/`. Invoke via:
+Scripts live in `${CLAUDE_PLUGIN_ROOT}/skills/tax-prep/scripts/`. Invoke via:
 
 ```bash
-python .claude/skills/tax-prep/scripts/<script>.py '<json_input>'
+python "${CLAUDE_PLUGIN_ROOT}/skills/tax-prep/scripts/<script>.py" '<json_input>'
 ```
 
 Scripts accept a single CLI argument (JSON string) and print a JSON object to stdout. Parse that output — those are the authoritative results.

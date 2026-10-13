@@ -8,11 +8,11 @@ Based on your 2025 filed return. Filing status: **MFJ**. AGI: **$85,550**.
 
 ## Scenario Summary
 
-| # | Strategy | Federal Savings | State Savings | Local Savings | Total Savings |
-|---|----------|-----------------|---------------|---------------|---------------|
-| 1 | Max 401(k) — primary | $2,100 | $963 | $560 | **$3,623** |
-| 2 | Max HSA (family) | $1,026 | $471 | $274 | **$1,771** |
-| 3 | Increase charitable ($5,000) | $0 | $0 | $0 | **$0** |
+| # | Strategy | Federal Savings |
+|---|----------|-----------------|
+| 1 | Max 401(k) — primary | **$2,100** |
+| 2 | Max HSA (family) | **$1,026** |
+| 3 | Increase charitable ($5,000) | **$0** |
 
 ## Scenario Details
 
@@ -24,10 +24,7 @@ Based on your 2025 filed return. Filing status: **MFJ**. AGI: **$85,550**.
 - Additional pre-tax contribution: $17,500
 - Current federal tax: $6,197
 - Modified federal tax: $4,097
-- **Federal savings: $2,100** (12% marginal rate)
-- **MD state savings: $963** (5.50% rate)
-- **Local savings: $560** (3.20% Montgomery County rate)
-- **Total annual savings: $3,623**
+- **Annual federal savings: $2,100** (12% marginal rate)
 
 **Notes:**
 - This reduces AGI from $85,550 to $68,050
@@ -44,14 +41,11 @@ Based on your 2025 filed return. Filing status: **MFJ**. AGI: **$85,550**.
 - HSA contribution: $8,550 (above-the-line deduction)
 - Current federal tax: $6,197
 - Modified federal tax: $5,171
-- **Federal savings: $1,026** (12% marginal rate)
-- **MD state savings: $471** (5.50% rate)
-- **Local savings: $274** (3.20% rate)
-- **Total annual savings: $1,771**
+- **Annual federal savings: $1,026** (12% marginal rate)
 
 **Notes:**
 - Requires enrollment in a High Deductible Health Plan (HDHP)
-- HSA contributions are deductible for federal AND Maryland state taxes
+- HSA contributions are deductible above the line for federal income tax
 - Funds grow tax-free and can be used for qualified medical expenses
 - *(Source: retirement-hsa-limits.md, HSA Limits)*
 - Verify HSA eligibility requirements at irs.gov
@@ -61,7 +55,7 @@ Based on your 2025 filed return. Filing status: **MFJ**. AGI: **$85,550**.
 **What:** Donate an additional $5,000 to qualified charities.
 
 **Impact:**
-- **Total savings: $0**
+- **Federal savings: $0**
 
 **Why $0:** At AGI $85,550 with the MFJ standard deduction of $31,500, your itemized deductions ($12,000 mortgage + $4,500 real estate tax + $5,000 charitable = $21,500) are still below the standard deduction. The additional charitable contribution does not change your tax.
 
@@ -73,10 +67,10 @@ Based on your 2025 filed return. Filing status: **MFJ**. AGI: **$85,550**.
 
 If you implemented strategies **1 + 2** (max 401(k) + max HSA):
 
-- Current total tax: **$11,147** (federal $6,197 + MD $4,105 + local $2,845)
-- Projected total tax: **$5,727**
-- **Total annual savings: $5,420**
-- Effective rate: 13.0% → 7.5%
+- Current federal tax: **$6,197**
+- Projected federal tax: **$3,071**
+- **Total annual federal savings: $3,126**
+- Effective rate: 7.2% → 3.6%
 
 *Note: Combined scenario run as a single calculation — not a simple sum of individual scenarios, because bracket interactions matter.*
 

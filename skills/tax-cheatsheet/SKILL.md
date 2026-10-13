@@ -15,7 +15,7 @@ Every conversation starts here:
 2. If it exists:
    - Count distinct documents and total rows
    - Report: "I have your extracted tax data (N documents, M values). Which form would you like help with?"
-   - List the most common forms: Form 1040, Schedule A, Schedule B, Schedule C, Schedule D, Schedule 1, Schedule 2, Maryland Form 502
+   - List the most common forms: Form 1040, Schedule A, Schedule B, Schedule C, Schedule D, Schedule 1, Schedule 2
 3. If it does NOT exist:
    - Tell the user: "No extracted tax data found. Run `/tax-prep` first to extract your document values, then come back here."
    - Stop — do not proceed without the CSV
@@ -42,7 +42,6 @@ Use this table to determine which curated reference files to read for each form,
 | Form 8959 (Additional Medicare Tax) | `additional-medicare-tax.md`, `2025-tax-numbers.md` | W-2 |
 | Form 8960 (NIIT) | `niit-form-8960.md`, `2025-tax-numbers.md` | 1099-INT, 1099-DIV, 1099-B, Schedule C result |
 | Form 8995 (QBI Deduction) | `self-employment-qbi.md` | Schedule C result |
-| Maryland Form 502 | `maryland-502-guide.md`, `2025-tax-numbers.md` | W-2, all |
 
 ## Cheat Sheet Generation Workflow
 
@@ -52,7 +51,7 @@ When the user asks about a form (by name, line number, or screenshot):
 
 2. **Load the CSV.** Read `analysis/tax-doc-summary.csv`. Use `form_line_lookup.py` to pull relevant values.
 
-3. **Consult the reference files.** Using the Supported Forms Table above, read the appropriate curated reference file(s) from `reference/curated/`.
+3. **Consult the reference files.** Using the Supported Forms Table above, read the appropriate curated reference file(s) from `${CLAUDE_PLUGIN_ROOT}/reference/curated/`.
 
 4. **Generate the cheat sheet table.** For each line in the requested section, produce a row with these columns:
 
@@ -219,10 +218,10 @@ Not all lines will have data available. Handle gracefully:
 
 ## Script Invocation
 
-Scripts live in `.claude/skills/tax-cheatsheet/scripts/`. Invoke via:
+Scripts live in `${CLAUDE_PLUGIN_ROOT}/skills/tax-cheatsheet/scripts/`. Invoke via:
 
 ```bash
-python .claude/skills/tax-cheatsheet/scripts/<script>.py '<json_input>'
+python "${CLAUDE_PLUGIN_ROOT}/skills/tax-cheatsheet/scripts/<script>.py" '<json_input>'
 ```
 
 Scripts accept a single CLI argument (JSON string) and print a JSON object to stdout. Parse that output — those are the authoritative results.

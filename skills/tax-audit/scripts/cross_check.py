@@ -1,12 +1,12 @@
 """
-cross_check.py — Federal/state consistency, withholding match, AGI math,
+cross_check.py — Source-document match, withholding match, AGI math,
 and tax bracket verification.
 
 Usage:
-    python cross_check.py '{"csv_path": "analysis/tax-doc-summary.csv", "federal_values": {"line_1_wages": "85000.00", "line_2b_interest": "200.00", "line_3b_dividends": "350.00", "line_7_capital_gain": "0.00", "line_8_other_income": "0.00", "line_9_total_income": "85550.00", "line_10_adjustments": "0.00", "line_11_agi": "85550.00", "line_12a_deduction": "31500.00", "line_13a_qbi": "0.00", "line_13b_sched1a": "0.00", "line_14_total_deductions": "31500.00", "line_15_taxable_income": "54050.00", "line_16_tax": "6197.00", "line_25a_w2_withholding": "9500.00"}, "state_values": {"line_1_agi": "85550.00", "line_40_withholding": "5200.00"}, "filing_status": "MFJ"}'
+    python cross_check.py '{"csv_path": "analysis/tax-doc-summary.csv", "federal_values": {"line_1_wages": "85000.00", "line_2b_interest": "200.00", "line_3b_dividends": "350.00", "line_7_capital_gain": "0.00", "line_8_other_income": "0.00", "line_9_total_income": "85550.00", "line_10_adjustments": "0.00", "line_11_agi": "85550.00", "line_12a_deduction": "31500.00", "line_13a_qbi": "0.00", "line_13b_sched1a": "0.00", "line_14_total_deductions": "31500.00", "line_15_taxable_income": "54050.00", "line_16_tax": "6197.00", "line_25a_w2_withholding": "9500.00"}, "filing_status": "MFJ"}'
 
 Reads the extracted tax document CSV and the user's completed form values,
-then runs 10 cross-checks comparing source documents to form entries.
+then runs 8 cross-checks comparing source documents to form entries.
 
 Tolerance: $1.00 for rounding (IRS rounds to whole dollars on forms).
 
@@ -264,38 +264,6 @@ def check_federal_withholding(rows, fv):
     }
 
 
-def check_state_withholding(rows, sv):
-    """Check 8: MD 502 Line 40 vs sum of W-2 Box 17 from CSV."""
-    csv_sum, count = sum_csv(rows, "W-2", "Box 17")
-    form_val = d(sv.get("line_40_withholding"))
-    status = compare(csv_sum, form_val)
-    return {
-        "check_name": "state_withholding",
-        "category": "Withholding Match",
-        "status": status,
-        "expected": str(cents(csv_sum)),
-        "actual": str(cents(form_val)),
-        "difference": str(cents(abs(csv_sum - form_val))),
-        "detail": f"MD 502 Line 40 ({fmt(form_val)}) vs sum of {count} W-2 Box 17 ({fmt(csv_sum)})"
-    }
-
-
-def check_fed_state_agi_match(fv, sv):
-    """Check 9: 1040 Line 11 = MD 502 Line 1."""
-    fed_agi = d(fv.get("line_11_agi"))
-    state_agi = d(sv.get("line_1_agi"))
-    status = compare(fed_agi, state_agi)
-    return {
-        "check_name": "fed_state_agi_match",
-        "category": "Cross-Return Consistency",
-        "status": status,
-        "expected": str(cents(fed_agi)),
-        "actual": str(cents(state_agi)),
-        "difference": str(cents(abs(fed_agi - state_agi))),
-        "detail": f"Federal AGI ({fmt(fed_agi)}) vs MD 502 Line 1 ({fmt(state_agi)})"
-    }
-
-
 def compute_ordinary_tax(taxable_income, filing_status):
     """Compute ordinary income tax using 2025 federal brackets.
 
@@ -315,7 +283,7 @@ def compute_ordinary_tax(taxable_income, filing_status):
 
 
 def check_tax_bracket(fv, filing_status):
-    """Check 10: Verify Line 16 tax against bracket computation.
+    """Check 8: Verify Line 16 tax against bracket computation.
 
     If the user has qualified dividends or long-term capital gains,
     Line 16 should be LESS than or equal to the ordinary tax (QDCG
@@ -386,7 +354,6 @@ def cross_check(data):
     """Run all cross-checks and return results."""
     csv_path = data.get("csv_path", "")
     fv = data.get("federal_values", {})
-    sv = data.get("state_values", {})
     filing_status = data.get("filing_status", "MFJ")
 
     if not csv_path or not os.path.exists(csv_path):
@@ -404,8 +371,6 @@ def cross_check(data):
         check_agi(fv),
         check_taxable_income(fv),
         check_federal_withholding(rows, fv),
-        check_state_withholding(rows, sv),
-        check_fed_state_agi_match(fv, sv),
         check_tax_bracket(fv, filing_status),
     ]
 
@@ -427,7 +392,7 @@ def cross_check(data):
 def main():
     if len(sys.argv) < 2:
         print(json.dumps({
-            "error": 'Usage: cross_check.py \'{"csv_path": "...", "federal_values": {...}, "state_values": {...}, "filing_status": "MFJ"}\''
+            "error": 'Usage: cross_check.py \'{"csv_path": "...", "federal_values": {...}, "filing_status": "MFJ"}\''
         }))
         sys.exit(1)
 

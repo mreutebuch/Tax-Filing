@@ -1,7 +1,7 @@
 # Tax Filing Skills for Claude Code
 
 > I used Claude Code to build a complete tax-filing copilot — 4 custom skills,
-> 8 Python scripts, 13 curated IRS reference files — and filed my real federal
+> 8 Python scripts, 12 curated IRS reference files — and filed my real federal
 > and state return with it.
 >
 > This is "vibe coding" applied to something that actually matters.
@@ -12,9 +12,9 @@
 
 A set of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills that turn tax filing from a solo ordeal into a structured conversation. You provide your tax documents. Claude extracts every value, generates line-by-line cheat sheets as you fill each form, audits your completed return for errors before you file, and models what-if scenarios for next year.
 
-Built for **tax year 2025**, covering U.S. federal (Form 1040) and Maryland state (Form 502). The architecture is designed so you can adapt it for any state.
+Built for **tax year 2025**, covering U.S. federal (Form 1040) only. State and local tax calculation has been removed from this fork.
 
-> **Scope:** Federal (Form 1040) + Maryland (Form 502). Optimized for filers with W-2 wages, investment income, small self-employment (Schedule C), mortgage interest, and student loans. Does not currently cover rental income (Schedule E), foreign income, farm income (Schedule F), or complex credits (Child Tax Credit, Education Credits, EIC) — but the architecture is designed to be extended. See [Customizing for Your State](#customizing-for-your-state) and [reference/HOW-TO-CURATE.md](reference/HOW-TO-CURATE.md) for how to add coverage.
+> **Scope:** Federal (Form 1040) only. Optimized for filers with W-2 wages, investment income, small self-employment (Schedule C), mortgage interest, and student loans. Does not currently cover rental income (Schedule E), foreign income, farm income (Schedule F), or complex credits (Child Tax Credit, Education Credits, EIC) — but the architecture is designed to be extended. See [reference/HOW-TO-CURATE.md](reference/HOW-TO-CURATE.md) for how to add coverage.
 
 **This is not a tax preparation app.** It's a workflow — a set of skills that make Claude Code behave like a methodical, citation-obsessed tax assistant that never does mental math.
 
@@ -54,7 +54,7 @@ The key thing that made me comfortable: I can review and audit the final result 
 Every calculation runs through a Python script using `Decimal` arithmetic. The skills never do arithmetic in natural language. When you see a number on a cheat sheet, it came from a script, not from the LLM estimating.
 
 ```bash
-python .claude/skills/tax-cheatsheet/scripts/standard_vs_itemized.py '{"filing_status": "MFJ", "magi": 120000, ...}'
+python skills/tax-cheatsheet/scripts/standard_vs_itemized.py '{"filing_status": "MFJ", "magi": 120000, ...}'
 ```
 
 ### 3. Citation Discipline
@@ -85,16 +85,6 @@ Output forms always leave SSN, bank routing, account numbers, and signature fiel
 6. Run `/tax-audit` before submitting to catch errors
 7. After filing, use `/tax-advisor` to plan for next year
 
-### Customizing for Your State
-
-This project was built for Maryland (Form 502). To adapt for your state:
-
-1. **Replace** `reference/curated/maryland-502-guide.md` with a guide for your state's return
-2. **Update** `reference/curated/2025-tax-numbers.md` — replace the Maryland brackets and local tax rates with your state's
-3. **Update** `.claude/skills/tax-advisor/scripts/what_if.py` — replace the MD state/local bracket tables with your state's
-4. **Modify** `.claude/skills/tax-audit/scripts/cross_check.py` — update the state withholding check (check #7) to match your state's form and line
-5. Follow `reference/HOW-TO-CURATE.md` for the curation format
-
 ## Skills Reference
 
 | Skill | What It Does | Trigger Phrases |
@@ -102,7 +92,7 @@ This project was built for Maryland (Form 502). To adapt for your state:
 | **`/tax-prep`** | Reads every tax document, extracts box/line values into a structured CSV. Validates for anomalies. | "extract my tax docs", "let's start my taxes", "I have my tax docs ready" |
 | **`/tax-cheatsheet`** | Generates line-by-line cheat sheets for any form. Explains what each line means, where the value comes from, which rules apply. | "help me fill out Form 1040", "cheat sheet for Schedule C", "what goes on line 12a" |
 | **`/tax-audit`** | Comprehensive pre-filing cross-check. Verifies math, withholding, cross-form consistency, document completeness. Issues a verdict: READY / REVIEW / STOP. | "audit my return", "am I ready to file", "final check" |
-| **`/tax-advisor`** | Models what-if scenarios for next year. Quantifies dollar impact of 401(k), HSA, charitable giving, and more on federal + state taxes. | "how to reduce my taxes", "what if I maxed my 401k", "tax planning" |
+| **`/tax-advisor`** | Models what-if scenarios for next year. Quantifies dollar impact of 401(k), HSA, charitable giving, and more on federal taxes. | "how to reduce my taxes", "what if I maxed my 401k", "tax planning" |
 
 ## Scripts Reference
 
@@ -113,9 +103,9 @@ This project was built for Maryland (Form 502). To adapt for your state:
 | `standard_vs_itemized.py` | /tax-cheatsheet | Compare standard deduction vs. itemized with SALT cap |
 | `schedule_c_calculator.py` | /tax-cheatsheet | Schedule C: COGS, expenses, net profit/loss, SE tax flag, QBI |
 | `salt_cap_calculator.py` | /tax-cheatsheet | SALT deduction with $40K cap and MAGI phase-out |
-| `cross_check.py` | /tax-audit | 10 cross-checks: income match, AGI math, withholding, brackets |
+| `cross_check.py` | /tax-audit | 8 cross-checks: income match, AGI math, withholding, brackets |
 | `completeness_check.py` | /tax-audit | Document coverage, required forms, orphaned documents |
-| `what_if.py` | /tax-advisor | 11 tax-saving scenarios with federal + state + local impact |
+| `what_if.py` | /tax-advisor | 11 tax-saving scenarios with federal impact |
 
 All scripts accept a JSON string as a CLI argument and print JSON to stdout. They use Python's `Decimal` type — no floating-point rounding errors on your tax return.
 
@@ -124,7 +114,7 @@ All scripts accept a JSON string as a CLI argument and print JSON to stdout. The
 Tax rules change every year. Rather than hardcode rules into skills, this project uses a **curated reference layer**:
 
 ```
-IRS publications / state tax booklets (reference/Raw/)
+IRS publications (reference/Raw/)
         ↓  Extract rules, thresholds, citations
 Curated markdown files (reference/curated/)
         ↓  Skills cite these files
@@ -133,17 +123,16 @@ Skills and scripts use rules with citations
 
 Each curated file covers one topic (e.g., SALT deduction, mortgage interest, Schedule C). Every rule includes a citation to the source IRS publication, form instruction, or IRC section.
 
-**To update for a new tax year:** Update the 13 curated files with new thresholds. The skills and scripts stay the same. See [HOW-TO-CURATE.md](reference/HOW-TO-CURATE.md) for the format.
+**To update for a new tax year:** Update the 12 curated files with new thresholds. The skills and scripts stay the same. See [HOW-TO-CURATE.md](reference/HOW-TO-CURATE.md) for the format.
 
 ### Curated Reference Files
 
 | File | Topic |
 |------|-------|
 | `1040-line-by-line.md` | Form 1040 line-by-line reference |
-| `2025-tax-numbers.md` | Federal/state brackets, deductions, thresholds |
+| `2025-tax-numbers.md` | Federal brackets, deductions, thresholds |
 | `additional-medicare-tax.md` | Form 8959 (0.9% Additional Medicare Tax) |
 | `investment-income.md` | Schedule B, Schedule D, qualified dividends, capital gains |
-| `maryland-502-guide.md` | MD Form 502 line-by-line, subtractions, phase-outs |
 | `mortgage-interest.md` | Mortgage interest deduction (Pub 936) |
 | `niit-form-8960.md` | Net Investment Income Tax (3.8%) |
 | `retirement-hsa-limits.md` | 401(k), IRA, HSA contribution limits |
@@ -160,7 +149,7 @@ This repository contains the **workflow and logic** — the reusable part. All p
 **Not included:**
 - `my-tax-docs/` — Your scanned/PDF tax documents (W-2s, 1099s, etc.)
 - `analysis/` — Extracted CSV and generated cheat sheets with real values
-- `reference/Raw/` — Source IRS/state PDFs (~40MB, freely available from IRS.gov)
+- `reference/Raw/` — Source IRS PDFs (~40MB, freely available from IRS.gov)
 - Situation-specific notes that were in reference files (replaced with placeholder sections)
 
 **The `.gitignore` protects** against accidentally committing personal documents or generated analysis files.
@@ -179,7 +168,6 @@ See the [examples/](examples/) directory for sample outputs using fictional data
 
 ## Future Ideas
 
-- **Multi-state support** — Abstract state-specific logic into a `states/` module pattern
 - **Unit tests** — Run each script with sample data to verify outputs
 - **Demo mode** — Run the full pipeline end-to-end with fictional data
 - **GitHub Actions CI** — Verify scripts stay functional on every push

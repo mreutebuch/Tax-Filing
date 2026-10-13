@@ -69,12 +69,6 @@
 - The disallowed loss is added to the basis of the replacement security.
 - Broker reports wash sale adjustments on Form 1099-B.
 
-### U.S. Government Obligation Interest — Maryland Exemption
-- Interest on U.S. Treasury securities (T-bills, T-notes, T-bonds, I-bonds, EE/HH bonds) is **exempt from Maryland state and local income tax**. [MD Resident Booklet, Instruction 13, Code ab]
-- Report on Form 502SU, subtraction code **ab**.
-- Dividends from mutual funds that invest in U.S. obligations are partially exempt — only the portion attributable to U.S. obligation interest/gains can be subtracted.
-- **GNMA (Ginnie Mae) interest is NOT exempt** from MD tax. [MD Resident Booklet, Instruction 13, Code ab]
-
 ---
 
 ## Your Situation Notes

@@ -55,16 +55,16 @@ User provides tax documents (PDFs)
          v
     /tax-audit
     ├── Collects user's completed form values
-    ├── Runs cross_check.py (10 consistency checks)
+    ├── Runs cross_check.py (8 consistency checks)
     ├── Runs completeness_check.py (document coverage)
-    ├── Checks 10 known pitfalls (docs/KNOWN-PITFALLS.md)
+    ├── Checks 8 known pitfalls (docs/KNOWN-PITFALLS.md)
     └── Issues verdict: READY TO FILE / REVIEW THESE ITEMS / STOP
          |
          v
     /tax-advisor
     ├── Uses baseline from completed return
     ├── Runs what_if.py (11 scenarios)
-    └── Reports federal + state + local dollar impact
+    └── Reports federal dollar impact
 ```
 
 ## Script Dependency Map
@@ -88,7 +88,6 @@ User provides tax documents (PDFs)
 | `2025-tax-numbers.md` | All skills |
 | `additional-medicare-tax.md` | /tax-cheatsheet, /tax-audit |
 | `investment-income.md` | /tax-cheatsheet |
-| `maryland-502-guide.md` | /tax-cheatsheet, /tax-audit, /tax-advisor |
 | `mortgage-interest.md` | /tax-cheatsheet, /tax-audit |
 | `niit-form-8960.md` | /tax-cheatsheet |
 | `retirement-hsa-limits.md` | /tax-advisor |

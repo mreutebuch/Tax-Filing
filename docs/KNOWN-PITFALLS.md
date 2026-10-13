@@ -8,13 +8,13 @@ reference file.
 
 ## Pitfall 1: AGI Breakdown Must Include ALL Income
 
-- **Mistake:** When splitting AGI between spouses (for MD two-income
-  subtraction or other purposes), only including W-2 wages and
-  forgetting interest, dividends, capital gains, and Schedule C income.
+- **Mistake:** When splitting AGI between spouses (or reconciling it
+  to source documents), only including W-2 wages and forgetting
+  interest, dividends, capital gains, and Schedule C income.
 - **How to verify:** Sum each spouse's W-2 wages + their share of
   investment income + Schedule C income. The total must equal federal AGI
   (1040 Line 11).
-- **Citation:** *(Source: maryland-502-guide.md, Two-Income Subtraction)*
+- **Citation:** *(Source: 1040-line-by-line.md, Income Section)*
 
 ## Pitfall 2: All Math Must Be Verified Through Python
 
@@ -24,18 +24,7 @@ reference file.
   corresponding script output. Use `cross_check.py` for verification.
 - **Citation:** *(Source: CLAUDE.md, Rules)*
 
-## Pitfall 3: State Rules Differ From Federal
-
-- **Mistake:** Applying federal deduction rules on the state return.
-  Maryland has its own itemized deduction calculation (federal itemized
-  minus state/local income taxes, then subject to 7.5% phase-out above
-  $200,000 FAGI). The SALT cap does NOT apply to Maryland.
-- **How to verify:** Confirm MD 502 Line 17 uses MD-specific
-  calculation, not the federal Schedule A total.
-- **Citation:** *(Source: maryland-502-guide.md, Itemized Deduction
-  for Maryland; Itemized Deduction Phase-Out)*
-
-## Pitfall 4: Cross-Form References Must Pull From Completed Forms
+## Pitfall 3: Cross-Form References Must Pull From Completed Forms
 
 - **Mistake:** Entering a value on Form 1040 Line 7 that does not
   match Schedule D Line 21 (or using an estimate instead of the
@@ -44,7 +33,7 @@ reference file.
   trace the value back to the source form and confirm they match.
 - **Citation:** *(Source: 1040-line-by-line.md, Income Section)*
 
-## Pitfall 5: W-2 Box 5 (Medicare Wages) >= Box 1 (Wages)
+## Pitfall 4: W-2 Box 5 (Medicare Wages) >= Box 1 (Wages)
 
 - **Mistake:** Not noticing when Medicare wages are less than regular
   wages, which can indicate pre-tax benefits were applied differently.
@@ -54,27 +43,16 @@ reference file.
 - **Citation:** *(Source: additional-medicare-tax.md, Form 8959
   Line-by-Line)*
 
-## Pitfall 6: SALT Cap Applies to Schedule A, Not State Return
+## Pitfall 5: SALT Cap Must Be Applied on Schedule A
 
-- **Mistake:** Applying the $40,000 SALT cap when computing Maryland
-  deductions. The SALT cap only limits the federal Schedule A
-  deduction. Maryland computes its own itemized deductions separately.
-- **How to verify:** Confirm Schedule A Line 5e respects the SALT cap.
-  Confirm MD 502 does NOT apply the SALT cap.
-- **Citation:** *(Source: salt-deduction-2025.md, Overall SALT Cap;
-  maryland-502-guide.md, Itemized Deduction for Maryland)*
+- **Mistake:** Deducting state/local taxes and property taxes on
+  Schedule A without applying the $40,000 SALT cap (or its MAGI
+  phase-out).
+- **How to verify:** Confirm Schedule A Line 5e respects the SALT cap
+  and any MAGI phase-out.
+- **Citation:** *(Source: salt-deduction-2025.md, Overall SALT Cap)*
 
-## Pitfall 7: MD 502 Line 1 Must Equal Federal AGI
-
-- **Mistake:** MD 502 Line 1 not matching 1040 Line 11 exactly.
-  This is the starting point for the Maryland return and must be
-  an exact copy of federal AGI.
-- **How to verify:** `cross_check.py` performs this check automatically
-  (check `fed_state_agi_match`).
-- **Citation:** *(Source: maryland-502-guide.md, Line-by-Line
-  Reference, Line 1)*
-
-## Pitfall 8: Student Loan Interest May Be $0 Despite Having 1098-E
+## Pitfall 6: Student Loan Interest May Be $0 Despite Having 1098-E
 
 - **Mistake:** Claiming a student loan interest deduction when MAGI
   exceeds the phase-out range. Having a 1098-E does not guarantee
@@ -84,7 +62,7 @@ reference file.
   of the 1098-E amount.
 - **Citation:** *(Source: student-loan-interest.md, MAGI Phase-Out)*
 
-## Pitfall 9: QBI Deduction Is $0 if Schedule C Shows a Net Loss
+## Pitfall 7: QBI Deduction Is $0 if Schedule C Shows a Net Loss
 
 - **Mistake:** Entering a QBI deduction when the business had a loss.
   Negative QBI produces $0 deduction (but the loss carries forward
@@ -95,7 +73,7 @@ reference file.
 - **Citation:** *(Source: self-employment-qbi.md, QBI Loss
   Carryforward)*
 
-## Pitfall 10: Additional Medicare Tax Threshold Mismatch
+## Pitfall 8: Additional Medicare Tax Threshold Mismatch
 
 - **Mistake:** Assuming that because neither spouse individually
   exceeds $200,000 in wages, no Additional Medicare Tax is due. The

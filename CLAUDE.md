@@ -1,7 +1,7 @@
 # Tax Filing Skills 2025
 
-Skills for preparing, filing, and optimizing a U.S. federal (Form 1040) and
-state tax return using Claude Code. Built for tax year 2025.
+Skills for preparing, filing, and optimizing a U.S. federal (Form 1040)
+tax return using Claude Code. Built for tax year 2025.
 
 ## Setup
 1. Place your tax documents in the `my-tax-docs/` folder
@@ -14,7 +14,7 @@ state tax return using Claude Code. Built for tax year 2025.
 ## File Locations
 | What | Where |
 |------|-------|
-| Curated IRS/MD references | reference/curated/ |
+| Curated IRS references | reference/curated/ |
 | Reference curation guide | reference/HOW-TO-CURATE.md |
 | Known pitfalls | docs/KNOWN-PITFALLS.md |
 | Example outputs | examples/ |

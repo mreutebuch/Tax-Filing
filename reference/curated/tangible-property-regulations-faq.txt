@@ -1,0 +1,326 @@
+Source: https://www.irs.gov/businesses/small-businesses-self-employed/tangible-property-final-regulations (IRS web page, text extracted 2026-10-12)
+
+
+Tangible property final regulations | Internal Revenue Service
+Skip to main content
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A lock
+( )
+or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+English
+Español
+中文 (简体)
+中文 (繁體)
+한국어
+Русский
+Tiếng Việt
+Kreyòl ayisyen
+Search
+Menu
+Search
+Include Historical Content
+- Any - No
+Include Historical Content
+- Any - No
+Search
+File
+Overview
+INFORMATION FOR…
+Individuals
+Business and self-employed
+Charities and nonprofits
+International filers
+Retirement
+Governments and tax-exempt bonds
+Indian Tribal Governments
+FILING FOR INDIVIDUALS
+How to file
+When to file
+Where to file
+Update your information
+POPULAR
+Tax record (transcript)
+Apply for an Employer ID Number (EIN)
+Amend return
+Identity Protection PIN (IP PIN)
+Pay
+Overview
+PAY BY
+Bank Account (Direct Pay)
+Payment Plan (Installment Agreement)
+Electronic Federal Tax Payment System (EFTPS)
+POPULAR
+Your Online Account
+Tax Withholding Estimator
+Estimated Taxes
+Penalties
+Refunds
+Overview
+About refunds
+Direct deposit
+Reduced refunds
+Where’s my amended return?
+Credits & Deductions
+Overview
+INFORMATION FOR...
+Individuals
+Businesses & Self-Employed
+POPULAR
+Earned Income Credit (EITC)
+Child Tax Credit
+Clean Energy and Vehicle Credits
+Standard Deduction
+Retirement Plans
+Forms
+Overview
+POPULAR FORMS & INSTRUCTIONS
+Form 1040
+Form 1040 Instructions
+Form W-9
+Form 4506-T
+Form W-4
+Form 941
+Form W-2
+Form 9465
+POPULAR FOR TAX PROS
+Form 1040-X
+Form 2848
+Form W-7
+Circular 230
+Report Fraud
+Overview
+Tax fraud and scams
+Identity theft
+Fake IRS email or message
+Tax return preparer
+Search
+Include Historical Content
+- Any - No
+Include Historical Content
+- Any - No
+Search
+Tangible property final regulations
+More In File
+Individuals
+Businesses and self-employed
+Business tax account
+Employer ID numbers
+Business taxes
+Business structures
+Operating a business
+Self-employed
+Small business
+Industries and professions
+Small business events
+Online learning
+Large business
+Charities and nonprofits
+International taxpayers
+Governmental liaisons
+Federal, state and local governments
+Indian tribal governments
+Tax exempt bonds
+Taxpayer identification numbers (TIN)
+Section 162 of the Internal Revenue Code (IRC) allows you to deduct all the ordinary and necessary expenses you incur during the taxable year in carrying on your trade or business, including the costs of certain materials, supplies, repairs, and maintenance. However, section 263(a) of the IRC requires you to capitalize the costs of acquiring, producing, and improving tangible property, regardless of the size or the cost incurred. The tax law has long required you to determine whether expenditures related to tangible property are currently deductible business expenses or non-deductible capital expenditures. Before the issuance of the final tangible property regulations on Sept. 17, 2013, [ Treasury Decision 9636 ("final tangibles regulations")], your decisions were guided by decades of often conflicting case law, as well as administrative rulings on specific factual situations.
+The final tangibles regulations combine the case law and other authorities into a framework to help you determine whether certain costs are currently deductible or must be capitalized. The final tangibles regulations also contain several simplifying provisions that are elective and prospective in application (for example, the election to apply the de minimis safe harbor , the election to utilize the safe harbor for small taxpayers , and the election to capitalize repair and maintenance costs in accordance with books and records ).
+Do the final tangible regulations apply to you?
+A de minimis safe harbor election
+Clarified rules for the treatment of materials and supplies costs
+A regulatory framework for analyzing whether expenditures are for deductible repairs or capital improvements
+What is the facts and circumstances analysis for distinguishing capital improvements from deductible repairs?
+What are the simplifying alternatives to the facts and circumstances analysis?
+How do these final tangibles regulations coordinate with other provisions of the IRC?
+When and how do you apply the final tangibles regulations?
+When and how do you make elections under the final tangibles regulations?
+When and how do you change a method of accounting to use the final tangibles regulations?
+Simplified procedures for small business taxpayers
+Do the final tangibles regulations apply to you?
+The final tangibles regulations apply to anyone who pays or incurs amounts to acquire, produce, or improve tangible real or personal property. These regulations apply to corporations, S corporations, partnerships, LLCs, and individuals filing a Form 1040 or 1040-SR with Schedule C, E, or F. The final tangibles regulations affect you if you incur amounts to acquire, produce or improve tangible real or personal property in carrying on your trades or businesses. The rules are most significant for those that regularly incur large capital expenditures, e.g., electric utilities, telecommunications companies, and businesses with substantial real estate holdings. The final tangibles regulations are effective for taxable years beginning on or after Jan. 1, 2014. There are many examples in the final tangibles regulations to illustrate the application of these new provisions.
+Do the final tangibles property regulations apply to nonprofits?
+The final tangibles regulations apply equally to all businesses subject to U.S. tax law, regardless of for-profit or exempt status, organization size, legal entity, or industry. Nonprofits that pay unrelated business income tax, have taxable subsidiaries, or lose their tax exempt status need to consider the effect of these final tangibles regulations and determine if there is a change to current methods of calculating taxable income and deductions.
+A de minimis safe harbor election
+Note: Effective for taxable years beginning on or after Jan. 1, 2016, the Internal Revenue Service in Notice 2015-82 PDF increased the de minimis safe harbor threshold from $500 to $2500 per invoice or item for taxpayers without applicable financial statements. In addition, the IRS will provide audit protection to eligible businesses by not challenging the use of the $2,500 threshold for tax years ending before Jan. 1, 2016, if the taxpayer otherwise satisfies the requirements of Treasury Regulation section 1.263(a)-1(f)(1)(ii).
+What is the de minimis safe harbor election?
+Under the final tangibles regulations, you may elect to apply a de minimis safe harbor to amounts paid to acquire or produce tangible property to the extent such amounts are deducted by you for financial accounting purposes or in keeping your books and records. If you have an applicable financial statement (AFS), you may use this safe harbor to deduct amounts paid for tangible property up to $5,000 per invoice or item (as substantiated by invoice). If you don't have an AFS, you may use the safe harbor to deduct amounts up to $2,500 ($500 prior to Jan. 1, 2016) per invoice or item (as substantiated by invoice).
+These limitations are for purposes of determining whether particular expenses qualify under the safe harbor; they aren't intended as a ceiling on the amount you can deduct as business expenses under the IRC.
+The de minimis safe harbor election does not include amounts paid for inventory and land. Additionally, it does not apply to rotable, temporary, and standby emergency spare parts that the taxpayer elects to capitalize and depreciate under section 1.162-3(d). It does not apply to rotable and temporary spare parts that the taxpayer accounts for under the optional method of accounting under section 1.162-3(e).
+Neither the IRC nor prior regulations included a de minimis safe harbor exception to capitalization; you were required to determine whether each expenditure for tangible property, regardless of amount, was required to be capitalized. The de minimis safe harbor election eliminates the burden of determining whether every small-dollar expenditure for the acquisition or production of property is properly deductible or capitalizable. If you elect to use the de minimis safe harbor, you don't have to capitalize the cost of qualifying de minimis acquisitions or improvements. However, de minimis amounts you pay for tangible property may be subject to capitalization under section 263A, if the amounts include the direct or allocable indirect costs of other property you produced or acquired for resale. For example, unless you are exempt from section263A, you must capitalize all the direct and allocable indirect costs of constructing a new building. Certain taxpayers with gross receipts under the section448(c) thresholds are exempt from section 263A.
+If you use the de minimis safe harbor, do you have to capitalize all expenses that exceed the $2,500 ($500 prior to Jan. 1, 2016) or $5,000 limitations?
+No. Amounts paid for the acquisition or production of tangible property that exceed the safe harbor limitations aren't subject to the de minimis safe harbor election. Therefore, the safe harbor doesn't require you to capitalize all amounts paid for tangible property in excess of the applicable limitation. If an amount doesn't qualify under the de minimis safe harbor, you should treat the amount under the normal rules that apply, i.e., currently deductible if paid for incidental materials and supplies or for repair and maintenance. This treatment is proper regardless of whether the amount exceeds the applicable de minimis safe harbor limitation. The de minimis safe harbor is simply an administrative convenience that generally allows you to elect to deduct small-dollar expenditures for the acquisition or production of property that otherwise must be capitalized under the general rules.
+Are there financial statements other than those required to be filed with the SEC that qualify as an AFS, permitting you to apply the $5,000 de minimis limitation, rather than the $2,500 ($500 prior to Jan. 1, 2016) limitation?
+An AFS includes a financial statement required to be filed with the SEC, as well as other types of certified audited financial statements accompanied by a CPA report, including a financial statement provided for a loan, reporting to shareholders, or for other non-tax purposes. An AFS also includes a financial statement required to be provided to a federal or state government or agency other than the IRS or the SEC.
+If you don't have an AFS, are you required to have a written accounting procedure at the beginning of your taxable year to qualify for the de minimis safe harbor election in that year?
+If you don't have an AFS, you are not required to have written accounting procedures; however, you must expense amounts on your books and records for the taxable year in accordance with a consistent accounting procedure or policy existing at the beginning of the taxable year. If you have AFS, you must have the accounting procedures in writing.
+What if you don't have an AFS but have had a policy for your books and records of deducting the costs of acquiring or improving tangible property less than a specified dollar amount but that amount exceeds the de minimis safe harbor ceiling of $2,500 ($500 prior to Jan. 1, 2016)?
+If you don't have an AFS and have a policy for your books and records of deducting amounts more than $2,500 ($500 prior to Jan. 1, 2016), you may properly deduct these amounts for federal tax purposes, as long as you can show that your reporting policy clearly reflects your income.
+In these situations, you may want to elect the de minimis safe harbor for items costing $2,500 ($500 prior to Jan. 1, 2016) or less to assure that the deduction of the items costing $2,500 ($500 prior to Jan. 1, 2016) or less will not be questioned by the IRS.
+How do you elect to use the de minimis safe harbor?
+You should attach a statement titled "Section 1.263(a)-1(f) de minimis safe harbor election" to the timely filed original federal tax return including extensions for the taxable year in which the de minimis amounts are paid. The statement should include your name, address, and Taxpayer Identification Number, as well as a statement that you are making the de minimis safe harbor election. Under the election, you must apply the de minimis safe harbor to all expenditures meeting the criteria for the election in the taxable year. For more information, see When and how do you make an election provided under the final tangibles regulations?
+An annual election is not a change in method of accounting. Therefore, you should not file Form 3115, Application for Change in Method of Accounting, to use the de minimis safe harbor for a particular tax year, and you should not file a Form 3115 to change the amount you deduct under your book policy. Similarly, you should not file a Form 3115 to stop applying the de minimis safe harbor for a subsequent tax year.
+How does the de minimis safe harbor affect the deductions you typically take for materials and supplies or repairs and maintenance?
+In general, when you elect the de minimis safe harbor, materials and supplies that also qualify under your de minimis safe harbor are treated as de minimis costs and are not treated as materials and supplies. However, the de minimis safe harbor doesn't change your ability to deduct costs for materials and supplies, incidental or non-incidental, that don't qualify under the de minimis safe harbor.
+Similarly, the de minimis safe harbor doesn't change your ability to deduct repair and maintenance costs that don't qualify under the de minimis safe harbor, for example, costs that exceed the safe harbor threshold. Therefore, for costs that don't qualify under the de minimis safe harbor, you apply the general rules for identifying and deducting repair and maintenance costs, incidental supplies, and non-incidental materials and supplies.
+Inventory that you are accounting for as non-incidental materials and supplies under IRC 471(c) (for years beginning after Dec. 31, 2017, Revenue Procedure 2001-10 PDF or Revenue Procedure 2002-28 PDF for years beginning prior to Jan. 1, 2018) are still characterized as inventory and not subject to the de minimis safe harbor election. These two revenue procedures allow qualifying small business taxpayers to remain on the cash method even though they have inventory and to account for their inventory as non-incidental materials and supplies.
+How does the increase in the de minimis threshold from $500 to $2,500 effective Jan. 1, 2016, affect years prior to Jan. 1, 2016?
+The IRS will provide audit protection to eligible businesses by not challenging the use of the new $2,500 threshold for amounts paid in tax years beginning in 2012 and prior to 2016 if the taxpayer otherwise satisfied the requirements of Treasury Regulation section 1.263(a)-1(f)(1)(ii). More information is available in Notice 2015-82 PDF .
+Clarified rules for the treatment of materials and supplies costs
+How do the final tangibles regulations governing deductions for materials and supplies differ from previous rules?
+In most cases, the final tangibles regulations don't change the general rules for deducting materials and supplies. The final tangibles regulations merely incorporate pre-existing precedents on the definition and treatment of materials and supplies and add some safe harbors to provide you with additional certainty. The final tangibles regulations also provide additional elections and methods for those using rotable spare parts.
+What is included in the definition of materials and supplies?
+Materials and supplies are tangible, non-inventory property used and consumed in your operations including:
+Acquired components – Costs of components acquired to maintain, repair, or improve tangible property owned, leased, or serviced by you and that's not acquired as part of a larger item of tangible property; or
+Consumables – Costs of fuel, lubricants, water, and similar items that are reasonably expected to be consumed in 12 months or less, beginning when used in operations; or
+12 month property – Costs of tangible property that has an economic useful life of 12 months or less, beginning when the property is used or consumed in your operations; or
+$200 property – Costs of tangible property that has an acquisition cost or production cost of $200 or less.
+The property need only fit into one of the above categories to qualify as a material or supply.
+When can you deduct the costs of materials and supplies?
+As under prior rules, you may deduct the costs of incidental and non-incidental materials and supplies in the following manner:
+Incidental materials and supplies – If the materials and supplies are incidental, i.e., of minor or secondary importance, carried on hand without keeping a record of consumption, and no beginning and ending inventories are recorded, e.g., pens, paper, staplers, toner, trash baskets, then you deduct the materials and supplies costs in the taxable year in which the amounts are paid or incurred, provided taxable income is clearly reflected.
+Non-incidental materials and supplies – If the materials and supplies are not incidental, then you deduct the materials and supplies costs in the taxable year in which the materials and supplies are first used or consumed in your operations. For example, deduct certain expendable spare parts in a trucking business for which records of consumption are kept and inventories are recorded in the taxable year the part is removed from your storage area and installed in one of your trucks. However, an otherwise deductible material or supply cost could be subject to capitalization under section 263(a) if you use the material or supply to improve property or under section 263A if you incorporate the material or supply into property you produce or acquire for resale.
+Application with de minimis safe harbor – If you elect to use the de minimis safe harbor and any materials and supplies also qualify for the safe harbor, you must deduct amounts paid for these materials or supplies under the safe harbor in the taxable year the amounts are paid or incurred. Such amounts are not treated as amounts paid for materials and supplies and may be deducted as business expenses in the taxable year they are paid or incurred.
+What must you do to apply the final tangibles regulations to materials and supplies?
+Because the final tangibles regulations governing the treatment of materials and supplies are based primarily on prior law, if you were previously in compliance with the rules you generally will still be in compliance and generally no action will be required to continue to apply these rules on a prospective basis.
+Also, the final tangibles regulations governing the treatment of material and supplies apply to amounts paid or incurred in taxable years beginning on or after Jan. 1, 2014. Therefore, for your first taxable year beginning Jan. 1, 2014, most of you will not have a change in accounting method for your materials and supplies. If you desire to change your method of accounting for materials and supplies in a subsequent taxable year, you would file Form 3115 and compute a section 481(a) adjustment taking into account only amounts paid after Jan. 1, 2014.
+For more information, including simplified procedures for accounting method changes for certain small business taxpayers, see When and how do you change a method of accounting to use the final tangibles regulations?
+A regulatory framework for analyzing whether expenditures are for deductible repairs or capital improvements.
+Have the final tangibles regulations changed the rules for determining whether an expenditure is a deductible repair or a capital improvement?
+The final tangibles regulations synthesize existing case law and prior administrative rules into a framework to help you determine whether a cost is deductible as a repair and maintenance expense or must be capitalized because it's an improvement. If the amounts are not paid or incurred for an improvement to tangible property as determined under the final tangibles regulations, then the amounts generally are deductible as repairs and maintenance. Of course, whether a cost is for repair or an improvement will always require reviewing facts and circumstances, as required under prior rules. This facts and circumstances analysis is described in more detail below. The final regulations do not eliminate the requirements of section 263A, which generally provide that you must capitalize the direct and allocable indirect costs of producing real or tangible personal property and acquiring property for resale. For more information, see How do these final tangibles regulations coordinate with other provisions of the IRC?
+In addition, the final tangibles regulations provide several simplifying safe harbors and elections (simplifying alternatives) to ease your compliance with these rules. See Safe harbor election for small taxpayers , Safe harbor for routine maintenance , and Election to capitalize repair and maintenance costs .
+What is the facts and circumstances analysis for distinguishing capital improvements from deductible repairs?
+Step 1 – What is the unit of property to which you should apply the improvement rules?
+For buildings – The unit of property is generally the entire building including its structural components. However, under the final tangibles regulations and for these purposes only, the improvement analysis applies to the building structure and each of the key building systems. The key building systems are the plumbing system, electrical system, HVAC system, elevator system, escalator system, fire protection and alarm system, gas distribution system, and the security system. Lessees of portions of buildings apply the analysis to the portion of the building structure and portion of each building system subject to the lease. Lessors of an entire building apply the improvement rules to the entire building structure and each of the key building systems.
+For non-buildings – The unit of property is, and the analysis applies to, all components that are functionally interdependent. Components of property are functionally interdependent if you cannot place in service one component of property without placing in service another component of property.
+For plant property, e.g., manufacturing plant, generation plant, etc. – The unit of property is, and the analysis applies to, each component or group of components within the plant that performs a discrete and major function or operation.
+For network assets, e.g., railroad track, oil and gas pipelines, etc. – Your particular facts and circumstances or industry guidance from the Treasury Department and the IRS determines the unit of property and the application of the improvement analysis.
+There are two additional rules, based on depreciation conformity, that determine when a component or group of components of a unit of property must be treated as a separate unit of property. These are as follows:
+For the Year Placed in Service - This rule, only for non-building property, is triggered at the time you initially placed the unit of property into service. If at the time the unit of property is first placed in service, you properly treat the component of the unit of property as being within a different MACRS class than the MACRS class for the unit of property of which the component is a part, or you properly depreciate the component using a different depreciation method than the depreciation method used for the unit of property of which the component is a part, then you must treat the component as a separate unit of property.
+Subsequent Change in Classification - This rule, for both building and non-building property, is triggered when you make a subsequent change in your classification of the property for MACRS. In any taxable year after the unit of property is initially placed in service, if you or the IRS changes the treatment of that property to a proper MACRS class or a proper depreciation method (for example, as a result of a cost segregation study or a change in the use of the property), then you must change the unit of property determination for that property under this rule to be consistent with your change in treatment for depreciation purposes.
+You can find more information about the proper MACRS class or the proper depreciation method, in Publication 946 on How to Depreciate Property .
+Step 2 – Is there an improvement to the unit of property, or in the case of a building, the building structure or any key building system, identified in Step 1?
+A unit of tangible property is improved only if the amounts paid are:
+For a betterment to the unit of property; or
+To restore the unit of property; or
+To adapt the unit of property to a new or different use .
+What is a betterment ?
+Amounts paid to fix a material condition or material defect that existed before the acquisition or arose during production of the unit of property; or
+Amounts paid for a material addition, including a physical enlargement, expansion, extension, or addition of a major component, to the property or a material increase in capacity, including additional cubic or linear space, of the unit of property; or
+Amounts paid that are reasonably expected to materially increase productivity, efficiency, strength, quality, or output of the unit of property where applicable.
+The term "material" is not defined in the final tangibles regulations. Although the final tangibles regulations include examples that refer to percentage increases, these examples are provided to assist you in understanding the rules. These percentages are not intended to set a standard, for example, a particular percentage increase in square footage or capacity, for determining whether the amount paid is a "material" betterment. In determining whether a betterment is "material", you should use common sense and reasonable judgment as applied to your own facts and circumstances.
+Examples:
+Ameliorates (fixes) a material condition or defect - A taxpayer acquires land with a leaking underground storage tank left by previous owner. Costs to clean up the land would be an improvement because they fix a material condition or defect that arose prior to the acquisition.
+Material addition - A taxpayer adds a stairway and loft to its retail building to increase its selling space. Costs to build the stairway and loft are for an improvement because they materially increase the capacity of taxpayers' building structure.
+Material increase in strength - A taxpayer adds expansion bolts to its building that is located in an earthquake prone area. These bolts anchor the building frame to its foundation, providing additional structural support and resistance to seismic forces. Costs to add these expansion bolts would be an improvement because they increase the strength of the building structure.
+What are amounts to restore a unit of property?
+Replacement of a major component or substantial structural part – Amounts paid for the replacement of a part or combination of parts that make up a major component or a substantial structural part of the unit of property; or
+Recognition of gains or losses and basis adjustments - You have taken into account or adjusted the basis of the unit of property or component of the unit of property, including: Deducted Loss – Amounts paid for the replacement of a component of the unit of property and you have properly deducted a loss for that component, other than a casualty loss; or
+Sale or exchange – Amounts paid for the replacement of a component of the unit of property and you have properly taken into account the adjusted basis of the component in realizing gain or loss resulting from the sale or exchange of the component; or
+Casualty loss or event – Amounts paid for the restoration of damage to the unit of property for which you are required to take a basis adjustment because of a casualty loss under section 165, or relating to a casualty event described in section 165, but limited to the basis in the unit of property; or
+Deterioration to state of disrepair – Amount paid to return the unit of property to its ordinarily efficient operating condition, if the unit of property has deteriorated to a state of disrepair and is no longer functional for its intended use; or
+Rebuilding to like-new condition – Amounts paid for the rebuilding of the unit of property to a like-new condition after the end of its class life.
+Examples:
+Restoration after casualty loss or event - A taxpayer owns an office building. The building is damaged by a hurricane. The taxpayer either deducts a casualty loss under section 165 as a result of the damage or receives insurance proceeds after the accident to compensate for the loss. The taxpayer properly reduces the basis of the building by the amount of the loss or by the amount of the insurance proceeds. Assuming that the reduction in basis is less than or equal to the taxpayer’s adjusted basis in the building, amounts paid to restore the damage to the building must be treated as an improvement and must be capitalized. Note: If the amounts paid to restore the property exceed the adjusted basis of the property prior to the loss, the amount required to be capitalized may be limited. See section 1.263(a)-3(k)(4)(i) for application of this limitation.
+Deterioration to a state of disrepair – A taxpayer operates a farm with several out-buildings. The taxpayer did not use or maintain one of the out-buildings on a regular basis, and the out-building fell into a state of disrepair, such that it could no longer be used in the taxpayer’s business. The taxpayer decides to restore the building by shoring the walls and replacing siding. The costs are for restorations, and therefore improvements, because the building was returned to its ordinarily efficient operating condition after it had deteriorated to a state of disrepair and was no longer functional for its intended use.
+Rebuild of property to like-new condition - A taxpayer owns a fleet of vehicles. After the end of the class life of each vehicle, the taxpayer disassembles and rebuilds each vehicle according to the manufacturer’s original specification. Costs paid to rebuild each vehicle are for restorations, and therefore are improvements, because each fleet vehicle is restored to a like-new condition after the end of its class life.
+What adapts the unit of property to a new or different use?
+An amount is paid to adapt a unit of property to a new or different use if the adaptation is not consistent with your ordinary use of the unit of property at the time you originally placed it in service.
+Examples:
+New or different use - A taxpayer owns a manufacturing building that it used to manufacture items for several years beginning when the building was placed in service by the taxpayer. The taxpayer pays amounts to convert the manufacturing building into a showroom through modifications to the building structure and various building systems. Costs to convert the manufacturing building into a showroom are improvements because the structure and systems are converted to a new or different use that is inconsistent with the intended ordinary use of the building (manufacturing items) at the time it was placed in service.
+New or different use - A taxpayer owns a fishing boat that it used it its fishing business for several years beginning when it was placed in service. The taxpayer pays amounts to convert the fishing boat into a sightseeing boat, in which it plans to offer scenic passenger tours. Costs to convert the fishing boat into a sightseeing boat adapt the unit of property to a new or different use, which is inconsistent with the intended ordinary use of the fishing boat at the time it was placed in service, and therefore an improvement that must be capitalized.
+Not a new or different use - A taxpayer owns a building that it plans to sell. In order to prepare the property for viewing, the taxpayer paints the walls and refinishes the floors. Preparing the property for sale by painting walls and refinishing floors is not adapting the building to a new or different use for purposes of determining whether there is an improvement to the property.
+What are the simplifying alternatives to the facts and circumstances analysis?
+Safe harbor election for small taxpayers ;
+Safe harbor for routine maintenance ; and
+Election to capitalize repair and maintenance costs .
+Safe harbor election for small taxpayers
+You are not required to capitalize as an improvement, and therefore may be permitted to deduct, the costs of work performed on owned or leased buildings, e.g., repairs, maintenance, improvements or similar costs, that fall into the safe harbor election for small taxpayers. The requirements of the safe harbor election for small taxpayers are:
+Average annual gross receipts of $10 million or less; and
+Owns or leases building property with an unadjusted basis of less than $1 million or less; and
+The total amount paid during the taxable year for repairs, maintenance, improvements, or similar activities performed on such building property doesn't exceed the lesser of- Two percent of the unadjusted basis of the eligible building property; or
+$10,000 (for questions about how to calculate the unadjusted basis, refer to "Figuring the Unadjusted Basis of Your Property" in Publication 946
+You make the election to use the safe harbor for each taxable year in which qualifying amounts are incurred. The election is made by attaching a statement to your income tax return for the taxable year. See When and how do you make an election provided under the final tangibles regulations ?
+An annual election is not a change in method of accounting. Therefore, you shouldn't file Form 3115, Application for Change in Method of Accounting, to make this election or to stop applying the safe harbor in a subsequent year.
+Safe harbor for routine maintenance
+You are not required to capitalize as an improvement, and therefore may deduct, amounts that meet all of the following criteria:
+Amounts paid for recurring activities that you expect to perform;
+As a result of your use of the property in your trade or business;
+To keep the property in its ordinarily efficient operating condition; and
+You reasonably expect, at the time the property is placed in service, to perform the activities: For building structures and building systems, more than once during the 10-year period beginning when placed in service, or
+For property other than buildings, more than once during the class life of the unit of property.
+If the amount doesn't meet all of the requirements for the routine maintenance safe harbor, you may still deduct the amount if the amount is not for an improvement under the facts and circumstances analysis .
+For more information about class life, refer to Appendix B of Publication 946 which includes class life, recovery periods, and a glossary of terms.
+What are the most important exceptions from and inclusions in the routine maintenance safe harbor?
+The routine maintenance safe harbor doesn't apply to amounts paid for betterments .
+The routine maintenance safe harbor does apply to certain restorations that would otherwise be improvements, including when you pay amounts to replace a major component or substantial structural part of a unit of property.
+What must you do to apply the safe harbor for routine maintenance to amounts paid for repairs and maintenance?
+Because these final tangibles regulations are based primarily on prior law, if you were previously in compliance with the rules you generally will be in compliance with the final tangibles regulations and generally no action was required. If you are not in compliance or otherwise want to change your method of accounting to use the safe harbor for routine maintenance, you should file Form 3115, Application for Change in Accounting Method, and compute a section 481(a) adjustment. For more information, including simplified accounting method change rules for certain small business taxpayers, see When and how do you change a method of accounting to use the final tangibles regulations ?
+Election to capitalize repair and maintenance costs
+To reduce the difficulty with applying the facts and circumstances analysis to identify the tax treatment of costs and to recognize simpler administration by permitting you to follow financial accounting policies for federal tax purposes, the final tangibles regulations include an election to capitalize repair and maintenance expenses as improvements, if you treat such costs as capital expenditures for financial accounting purposes.
+You may elect to treat repair and maintenance costs paid during the taxable year as amounts paid to improve property if you:
+Pay these amounts in carrying on a trade or business; and
+Treat these amounts as capital expenditures on your books and records regularly used in computing your income.
+Make the election to capitalize for each taxable year in which qualifying amounts are incurred by attaching a statement to your timely filed original federal tax return including extensions for the taxable year that the amounts are paid. If you make the election to capitalize repair and maintenance expenses, you must apply the election to all amounts paid for repair and maintenance that you treat as capital expenditures on your books and records in that taxable year. For more information see When and how do you make an election provided under the final tangibles regulations?
+An annual election is not a change in method of accounting. Therefore, you shouldn't file Form 3115, Application for Change in Method of Accounting, to make this election or to stop capitalizing repairs and maintenance costs for a subsequent year.
+How do these final tangibles regulations coordinate with other provisions of the IRC?
+Nothing in the final tangibles regulations under section 263(a) changes the treatment of any amount that is specifically provided for under any provision of the IRC or the Treasury regulations other than section 162(a) or section 212. For example, the final tangibles regulations do not eliminate the requirements of section 263A, which generally provides that you must capitalize the direct and allocable indirect costs of producing real or tangible personal property and acquiring property for resale.
+When and how do you apply the final tangibles regulations?
+What is the effective date?
+Generally, the final tangibles regulations apply to taxable years beginning on or after Jan. 1, 2014, or in certain circumstances, apply to costs paid or incurred in taxable years beginning on or after Jan. 1, 2014.
+When and how do you make an election provided under the final tangibles regulations?
+The final tangibles regulations add certain annual elections that you can choose to make for a taxable year. These elections include:
+De minimis safe harbor election
+Safe harbor election for small taxpayers
+Election to capitalize repair and maintenance costs
+To make these elections, you should attach a statement for each election to your timely filed original federal tax return including any extension for the taxable year in which the amounts subject to the election are paid. Each statement should include your name, address, Taxpayer Identification Number, and a statement describing the election. For some elections, you will need to include a description of the property to which the election is applied. For example, if you qualify and desire to use the de minimis safe harbor election for qualifying amounts paid during your annual taxable year beginning Jan. 1, 2014, you must file a statement with your timely filed original federal tax return for 2014. You must also file a statement with your timely filed original tax return for each subsequent taxable year for which you intend to make such election.
+An annual election is not a change in method of accounting. Therefore, you shouldn't file Form 3115, Application for Change in Method of Accounting, to make these elections or to stop applying the safe harbor or other election in a subsequent year.
+When and how do you change a method of accounting to use the final tangibles regulations?
+General procedures
+Under the IRC, a change in method of accounting includes a change in the treatment of an item affecting the timing for including the item in income or taking the item as a deduction. For example, you are changing your method of accounting if you have been capitalizing certain amounts that you characterized as improvements and would like to currently deduct the amounts as repairs and maintenance costs pursuant to the final tangibles regulations.
+You must get the IRS Commissioner's consent to change a current accounting method to a new accounting method. The Treasury Department and the IRS provides automatic consent procedures for those who want to change to a method of accounting permitted under the final tangibles regulations.
+Generally, you receive automatic consent to change a method of accounting by completing and filing Form 3115, Application for Change in Accounting Method , and including it with your timely filed original federal tax return for the year of change. You also mail a duplicate copy of the Form 3115 to Ogden, UT. The Form 3115 will identify the taxpayer, describe the methods that are being changed, identify the type of property involved in the change, and include a section 481(a) adjustment, if applicable. There is no fee for filing an automatic consent to change a method of accounting.
+The section 481(a) adjustment takes into account how you treated certain expenditures in years before the effective date of the final tangibles regulations to avoid duplication or omission of amounts in your taxable income. For detailed instructions for filing applications for changes in methods of accounting under the final tangibles regulations, see  Rev. Proc. 2015-13 , 2015-5 I.R.B. 419, and sections 6.37-6.40 and 10.11 of  Rev. Proc. 2015-14 , 2015-5 I.R.B. 450. Transition rules generally allow taxpayers the option to file voluntary changes in method of accounting under either  Rev. Proc. 2011-14 PDF as modified by  Rev. Proc. 2014-16 PDF , or  Rev. Proc. 2015-13 PDF , as modified by  Rev. Proc. 2015-33 PDF , for taxpayers whose tax year ends on or after May 31, 2014, and begins before Jan. 1, 2015. For years beginning after December 31, 2014, consult the Rev. Proc. for automatic changes applicable to the year of change.
+You cannot file an amended return to make the change in method of accounting. The only exception is a limited late filing provision found in section 6.03(4) of  Revenue Procedure 2015-13 PDF . These provisions grant, for a taxpayer who has timely filed (including any extension) its original federal income tax return for the year of change, an automatic extension of 6 months from the due date (excluding any extension) of the federal income tax return for the year of change to file an amended return in a manner that is consistent with the taxpayer's changed method of accounting and includes the original Form 3115. The return must also have a statement attached to the Form 3115 that the application is being filed pursuant to Treas. Reg. section 301.9100-2(b) of the Procedure and Administration Regulations. Remember to also file a copy with Ogden, UT.
+Reduced filing requirements for small business taxpayers
+A "qualified small business taxpayer" who does not want to use the simplified procedures for small business taxpayers ( Revenue Procedure 2015-20 PDF ), may use a reduced filing requirement for the implementation of the change in accounting method provisions of the final tangibles regulations. A "qualified small taxpayer" is a taxpayer whose average annual gross receipts are less than or equal to 10 million dollars for the three taxable years preceding the year of change. A qualified small taxpayer is required to complete only the following information on Form 3115:
+(i) The identification section of page 1 (above Part I);
+(ii) The signature section at the bottom of page 1;
+(iii) Part I, line 1(a)
+(iv) Part II, all lines except lines 11, 13, 14, 15, and 17;
+(v) Part II, line 13, if the change is to depreciating property;
+(vi) Part IV, lines 25 and 26; and
+(vii) Schedule E, if applicable.
+Simplified procedures for small business taxpayers
+To ease the administrative burden faced by small business taxpayers that want to prospectively apply the final tangibles regulations, and do not wish to compute a section 481(a) adjustment, the IRS has provided a simplified procedure that you may have used for your first taxable year beginning in 2014. Under this procedure, if you have a small business you were permitted to change to certain methods of accounting under the final tangibles regulations by taking into account only amounts paid or incurred in taxable years beginning on or after Jan. 1, 2014. If you used this procedure for your small business, then your small business did not have a section 481(a) adjustment for your first taxable year beginning 2014, and was not required to file a Form 3115, Application for Change in Accounting Method. This procedure permitted you to implement the final tangibles regulations on a prospective basis. The simplified procedures only applied to the changes in the final tangibles regulations. They could not be applied to other automatic changes.
+It is important to know that if you have a trade or business that qualified under the Simplified Procedures for Small Taxpayers ( Rev. Proc. 2015-20 PDF ) and you did not file a Form 3115 and include a Section 481(a) adjustment for your first taxable year beginning Jan. 1, 2014, then generally you will be presumed to have changed the trade or business’s method to utilize the final tangibles regulations under these simplified procedures. For additional information about the effects of using the simplified procedure, see What should you know about the using the simplified procedure for your trade or business?
+Did you qualify for this simplified procedure?
+This simplified procedure applied to each of your separate and distinct trades or businesses. Generally, a separate and distinct trade or business refers to each trade or business for which you keep a complete and separable set of books and records.
+This procedure applied to each separate and distinct trade or business that met one or both of the following criteria:
+Total assets of less than $10 million; or
+Average annual gross receipts of $10 million or less for the prior three taxable years
+What are total assets?
+Total assets are determined by the accounting method you regularly use in keeping the books and records of your trade or business at the end of the tax year.
+How do you determine annual gross receipts?
+Gross receipts for each taxable year generally are defined as the trade or business's receipts for the taxable year that are properly recognized under its method of accounting used for federal tax purposes. For more information, see section 1.263(a)-3 (h)(3)(iv) of the final tangibles regulations.
+What if you have multiple trades and businesses and only some qualified for the safe harbor?
+If you have more than one separate and distinct trade or business, you could only utilize the simplified procedure for the trades or businesses that meet at least one of the criteria specified above. You could not use the simplified procedure for any trade or business that does not meet at least one of the criteria above. Therefore, you could have applied the simplified procedure to some of your trade or businesses but not to others.
+What should you know about using the simplified procedure for your trade or business?
+For that business, you cannot take into account certain dispositions of tangible property occurring in taxable years beginning before Jan. 1, 2014, or make a late partial disposition election for a disposition during that period.
+You do not receive audit protection for that trade or business for amounts paid or incurred in taxable years beginning before Jan. 1, 2014, as specified in the simplified method change procedure.
+You must use the simplified method for all changes specified under the simplified method change procedure and could not pick and choose particular methods that your business would apply prospectively.
+For more information on the simplified procedure for small business taxpayers, see Rev. Proc. 2015-20, 2015-09 I.R.B. 694.
+What should you know about using the simplified procedure and its effect on method changes under the final tangibles regulations for future years?
+If you have a trade or business that qualified under the simplified procedures for small taxpayers and you did not file a Form 3115 and include a Section 481(a) adjustment for your first taxable year beginning Jan. 1, 2014, then you will be presumed to have changed your trade or business's method of accounting for amounts incurred under the final tangibles regulations unless you can provide proof of facts and circumstances that demonstrate otherwise.
+If you utilized (or were presumed to have utilized) the simplified procedure for your qualifying trade or business its first taxable year beginning Jan. 1, 2014, and want to change the specified accounting methods for that trade or business in a later taxable year by filing a Form 3115 and calculating a section 481(a) adjustment in the later year, then the section 481(a) adjustment is calculated by taking into account only amounts paid or incurred, and dispositions, in taxable years beginning in 2014. You should also refer to section 5.01 of Rev. Proc. 2015-13 to determine if you are eligible to use the automatic consent procedures or must receive advance consent for the change.
+If you filed a statement with your 2014 tax return indicating that your qualifying trade or business is not applying the simplified procedure of Rev. Proc. 2015-20 and you did not file a Form 3115 for the 2014 taxable year, you may still be required to file an application to change your accounting method for changes under the final tangibles regulations for this trade or business. In this situation, you cannot use the simplified procedure but must comply with the requirements of Rev. Proc. 2015-13 and Rev. Proc. 2015-14 to change your methods of accounting for tax years beginning on or after Jan. 1, 2015.
+Related topic
+Business Tax Account
+Self-employed individuals tax center
+Modernized e-File (MeF) for employment taxes - Electronic filing and payment options
+Taxpayer Advocate
+Taxpayer Advocate Service
+Page Last Reviewed or Updated: 04-Aug-2026
+Share Facebook
+Twitter
+Linkedin
+Print
