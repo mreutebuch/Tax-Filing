@@ -3,18 +3,22 @@
 Date: 2026-10-13
 Audience: a Claude Code cloud session continuing California state support.
 Read order: this file, then `CLAUDE.md`, then
-`docs/handoff/2026-10-13-california-state-support-handoff.md` (original task,
-still valid for the rules in its section 0), then
+`docs/handoff/2026-10-13-california-state-support-handoff.md` (original task
+and build phases), then
 `docs/superpowers/plans/2026-10-13-california-state-support-plan.md`.
 
-## 0. The vital rule: never leak private tax data
+## 0. Privacy: no real tax data in any tracked file
 
-Same as the original handoff. Protected folders: `my-tax-docs/`,
-`my tax files/`, `analysis/` (all gitignored, all absent from a cloud clone).
-Never weaken their `.gitignore` entries, never `git add -f` or `git add -A`,
-stage by explicit path, and run `python -I scripts/check_private_data.py`
-before every commit and push. Do not record facts from the private folders in
-any tracked file, including this one.
+Never write real tax data into a tracked file, commit message, PR text, test,
+example or report: no names, SSNs, addresses, employers, account numbers, real
+dollar amounts or real dates. Use synthetic inputs only.
+
+- Keep the `.gitignore` entries for `my-tax-docs/`, `my tax files/` and
+  `analysis/`; never weaken them.
+- Stage files by explicit path; never `git add -A` or `git add -f`.
+- Run `python -I scripts/check_private_data.py` before every commit and push.
+- If private data is ever found in a tracked file or in history, stop, do not
+  push, and report it without repeating the data.
 
 ## 1. State of the work
 
