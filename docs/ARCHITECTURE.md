@@ -78,6 +78,8 @@ User provides tax documents (PDFs)
 | `/tax-cheatsheet` | `salt_cap_calculator.py` | SALT cap with phase-out |
 | `/tax-audit` | `cross_check.py` | 10 cross-checks |
 | `/tax-audit` | `completeness_check.py` | Document coverage |
+| `/tax-cheatsheet` | `ca_540nr.py` | California Form 540NR and Schedule CA (540NR) |
+| `/tax-audit` | `ca_cross_check.py` | Independent California recomputation |
 | `/tax-advisor` | `what_if.py` | 11 tax-saving scenarios |
 
 ## Reference File Dependency Map
@@ -96,6 +98,22 @@ User provides tax documents (PDFs)
 | `schedule-c-guide.md` | /tax-cheatsheet, /tax-audit, /tax-advisor |
 | `self-employment-qbi.md` | /tax-cheatsheet, /tax-audit, /tax-advisor |
 | `student-loan-interest.md` | /tax-cheatsheet, /tax-audit |
+| `ca/ca-2025-numbers.md` | /tax-cheatsheet, /tax-audit |
+| `ca/ca-residency-part-year.md` | /tax-prep, /tax-cheatsheet, /tax-audit |
+| `ca/ca-form-540nr-line-by-line.md` | /tax-cheatsheet, /tax-audit |
+| `ca/ca-schedule-ca-540nr.md` | /tax-cheatsheet, /tax-audit |
+| `ca/ca-credits-withholding.md` | /tax-prep, /tax-cheatsheet, /tax-audit |
+
+## California Data Flow
+
+```
+/tax-prep  --> analysis/tax-doc-summary.csv (+ California rows)
+           --> analysis/ca-residency.json   (residency dates, gitignored)
+/tax-cheatsheet --> ca_540nr.py --> analysis/cheatsheet-ScheduleCA.md, analysis/cheatsheet-540NR.md
+/tax-audit  --> ca_cross_check.py (independent recomputation vs filed lines and source documents)
+```
+
+California starts from the final federal AGI. `ca_540nr.py` builds Schedule CA (540NR) columns D and E, applies the tax rate method (tax on total taxable income divided by that income, applied to California taxable income) and prorates exemption credits. Tests: `python -m unittest discover -s tests`. Privacy guard: `python -I scripts/check_private_data.py`.
 
 ## Script Pattern
 
