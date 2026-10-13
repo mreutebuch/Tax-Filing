@@ -103,6 +103,10 @@ User provides tax documents (PDFs)
 | `ca/ca-form-540nr-line-by-line.md` | /tax-cheatsheet, /tax-audit |
 | `ca/ca-schedule-ca-540nr.md` | /tax-cheatsheet, /tax-audit |
 | `ca/ca-credits-withholding.md` | /tax-prep, /tax-cheatsheet, /tax-audit |
+| `ca/ca-retirement-distributions.md` | /tax-prep, /tax-cheatsheet, /tax-audit |
+| `ca/ca-rental-depreciation-passive.md` | /tax-cheatsheet, /tax-audit |
+| `ca/ca-capital-gains-part-year.md` | /tax-prep, /tax-cheatsheet |
+| `ca/ca-filing-deadlines-extension.md` | /tax-audit |
 
 ## California Data Flow
 

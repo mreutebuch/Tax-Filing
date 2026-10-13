@@ -1,0 +1,3 @@
+Title: 2025 Personal Income Tax Booklet (Form 540, full-year residents)
+URL: https://www.ftb.ca.gov/forms/2025/2025-540-booklet.pdf
+Local copy: 2025-540-booklet.pdf (gitignored; download it from the URL above and save it in this folder)

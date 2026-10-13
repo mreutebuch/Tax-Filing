@@ -33,3 +33,6 @@ reference/curated/*.pdf
 reference/curated/ca/*.pdf
 reference/curated/ca/*.txt
 !reference/curated/ca/*.source.txt
+
+# FTB HTML instruction pages (downloaded for local reference)
+reference/curated/ca/*.html
