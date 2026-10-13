@@ -1,0 +1,937 @@
+                             1005
+               FTB Publication
+
+
+2025
+Pension and Annuity
+Guidelines
+Table of Contents
+What’s New . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+General Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Important Reminders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Common Terms Used in this Publication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Figuring Your California Pension, Annuity, and IRA Amounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Social Security and Railroad Retirement Benefits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Three-Year Rule . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+California Residents Receiving an Out-of-State Pension . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Nonresidents of California Receiving a California Pension . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Individual Retirement Arrangements (IRAs) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+   IRA Deduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+   IRA Distribution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+   Coverdell Education Savings Accounts (ESAs). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+   Expanded Use of IRC Section 529 Accounts Funds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+  Archer Medical Savings Accounts (MSAs) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+   Health Savings Accounts (HSAs) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+   California Achieving a Better Life Experience (ABLE) Accounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+   Roth IRA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+   Roth IRA Worksheet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Simplified Employee Pension (SEP) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Self-Employed Retirement Plans (Keoghs) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Lump-Sum Distribution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Change in Residency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Tax on Early Distributions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Basis Worksheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Additional Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+General Phone Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+
+
+
+                            Go to ftb.ca.gov for:                                 • Refund Status – find out when                      • FTB legal notices, rulings, and
+                            • MyFTB – view payments,                                we authorized your refund.                           regulations.
+                              balance due, and withholding                        • Installment Agreement –                            • FTB’s analysis of pending
+                              information.                                          request to make monthly                              legislation.
+                            • Web Pay – pay income taxes.                           payments.                                          • Internal procedure manuals to
+ONLINE                        Choose your payment date up to                      • Subscription Services – sign up                      learn how we administer law.
+                              one year in advance.                                  to receive emails on a variety of
+SERVICES                    • CalFile – e-file your personal                        tax topics.
+                              income tax return.                                  • Tax forms and publications.
+
+
+Page 2 FTB Pub. 1005 2025
+2025 Pension and Annuity Guidelines
+What’s New                                                             to California Adjustments, the instructions for California
+                                                                       Schedule CA (540) or Schedule CA (540NR), and the Business
+Military Retirement Exclusion – For taxable years beginning            Entity tax booklets.
+on or after January 1, 2025, and before January 1, 2030,               The instructions provided with California tax forms are a
+California law allows an exclusion from gross income for               summary of California tax law and are only intended to aid
+a qualified taxpayer that received retirement pay from the             taxpayers in preparing their state income tax returns. We
+federal government for service in the uniformed services or            include information that is most useful to the greatest number
+annuity payments pursuant to a United States Department of             of taxpayers in the limited space available. It is not possible
+Defense Survivor Benefit Plan during the taxable year, not to          to include all requirements of the R&TC in the instructions.
+exceed $20,000. For more information, get the instructions for         Taxpayers should not consider the instructions as authoritative
+Schedule CA (540), California Adjustments – Residents, or              law.
+Schedule CA (540NR), California Adjustments – Nonresidents             California law conforms to certain provisions of the IRC
+or Part-Year Residents, Pub. 1032, Tax Information for Military        related to pension plans and deferred compensation, including
+Personnel, and see California Revenue and Taxation Code                amendments to the IRC that may be enacted in the future.
+(R&TC) Sections 17132.9 and 17132.10.
+                                                                       Special Rules for Certain Distributions from Qualified IRC
+Qualified Higher Education Expenses of IRC Section                     Section 529 Tuition Plans – The CAA, 2023, allows qualified
+529 Accounts – Enacted on July 4, 2025, the federal One                IRC Section 529 tuition plans that have been maintained for 15
+Big Beautiful Bill Act (OBBBA), expands qualified higher               years to rollover to a Roth IRA without a tax or penalty. Under
+education expenses eligible for tax-exempt distributions               the federal law, rollover distributions from an IRC Section 529
+from Internal Revenue Code (IRC) Section 529 accounts by               plan to a Roth IRA after December 31, 2023, will be treated
+including additional expenses in connection with enrollment            in the same manner as the earnings and contributions of
+or attendance at an elementary or secondary public, private,           a Roth IRA. California law does not conform to this federal
+or religious school. The OBBBA also allows tax-exempt                  provision. Rollover distributions from an IRC Section 529 plan
+distributions from IRC Section 529 accounts to be used for             to a Roth IRA is includible in California taxable income and
+qualified postsecondary credentialing expenses, as defined in          subject to an additional tax of 2½%. For more information, get
+IRC Section 529(f). California law does not conform to these           the instructions for Schedule CA (540) or Schedule CA (540NR)
+federal provisions. For California purposes, the earnings portion      and form FTB 3805P.
+of a non-qualified distribution from an IRC Section 529 account
+is includable in California taxable income and subject to an           Federal CAA, 2023 – The CAA, 2023, was enacted on
+additional tax of 2½%. For more information, get the instructions      December 29, 2022, and it includes the SECURE 2.0 Act of
+for Schedule CA (540) or Schedule CA (540NR) and form                  2022. In general, California R&TC conforms to the changes
+FTB 3805P, Additional Taxes on Qualified Plans (Including IRAs)        to the retirement provisions under the SECURE 2.0 Act. For
+and Other Tax-Favored Accounts.                                        more general information, refer to the federal act and California
+                                                                       R&TC.
+Conformity to Federal Act Provisions – For taxable years
+beginning on or after January 1, 2025, California law conforms         SECURE Act – The SECURE Act was enacted on
+to the following:                                                      December 20, 2019. In general, California R&TC does not
+                                                                       conform to the changes. For more information, refer to the
+• Provision under the federal Setting Every Community Up for           federal act and California R&TC.
+    Retirement Enhancement (SECURE) Act that repealed the
+    maximum age of 70½ for traditional Individual Retirement           Coronavirus Aid, Relief, and Economic Security (CARES)
+    Arrangement (IRA) contributions.                                   Act – The federal CARES Act was enacted on March 27, 2020.
+• Provision under the federal Consolidated Appropriations              In general, California R&TC does not conform to the changes.
+    Act (CAA), 2021, that allows disaster-related plan loans for       For more information, refer to the federal act and California
+    qualified individuals.                                             R&TC.
+• Provision under the federal Consolidated Appropriations Act          Consolidated Appropriations Act (CAA), 2021 –The
+    (CAA), 2023, that provides for the indexing for the $1,000         CAA, 2021, was enacted on December 27, 2020. In general,
+    catch-up contribution to an IRA for individuals age 50 or          California R&TC does not conform to the changes. California
+    older.                                                             law conforms to the federal provision that amends the minimum
+• Provision under the CAA, 2023, IRC Section 414(v)(2)                 age for certain multiemployer plans for individuals who were
+    relating to the increased catch-up contribution limit for simple   participants in the plan on or before April 30, 2013, and for
+    plans.                                                             distributions made before, on, or after December 27, 2020. For
+• Provision under the CAA, 2023, IRC Section 414(v) relating           more information, refer to the federal act and California R&TC.
+    to higher catch-up limit to apply at 60 to 63 years of age,        American Rescue Plan Act (ARPA) of 2021 – The federal
+    inclusive.                                                         ARPA of 2021 was enacted on March 11, 2021. In general,
+The above lists are not intended to be all-inclusive of the federal    California law conforms to the changes to the retirement
+and state conformities and differences. For more information,          provisions under the ARPA. For more information, refer to the
+refer to the R&TC.                                                     federal act and California R&TC.
+                                                                       Expanded Definition of Qualified Higher Education
+General Information                                                    Expenses – For taxable years beginning on or after
+In general, for taxable years beginning on or after                    January 1, 2021, California law conforms to the expanded
+January 1, 2025, California law conforms to the IRC as of              definition of qualified higher education expenses associated
+January 1, 2025. However, there are continuing differences             with participation in a registered apprenticeship program and
+between California and federal law. When California conforms           payment on the principal or interest of a qualified education
+to federal tax law changes, we do not always adopt all of the          loan under the federal Further Consolidated Appropriations
+changes made at the federal level. For more information, go to         Act, 2020.
+ftb.ca.gov and search for conformity. Additional information
+can be found in FTB Pub. 1001, Supplemental Guidelines
+
+                                                                                                         FTB Pub. 1005 2025 Page 3
+Retirement Income – Federal law prohibits states from taxing        Form 540NR                     California Nonresident or Part-Year
+the retirement income of nonresidents. It also includes a                                          Resident Income Tax Return
+prohibition on taxing retirement income paid by a partnership to    Schedule CA (540)              California Adjustments — Residents
+a nonresident retired partner under any written plan, program,      Schedule CA (540NR)            California Adjustments —
+or arrangement in effect immediately before retirement begins.                                     Nonresidents or Part-Year Residents
+California does not impose tax on retirement income received        Traditional IRA                Any IRA that is not a Roth IRA or
+by a nonresident after December 31, 1995. This includes military                                   SIMPLE IRA
+pensions, IRA distributions, Roth IRA conversions, Roth IRA
+distributions, Simplified Employee Pension (SEP), and self-
+employed retirement plans (Keoghs).
+                                                                    Figuring Your California
+                                                                    Pension, Annuity, and IRA
+Introduction                                                        Amounts
+This publication provides information on the California tax
+treatment of the distributions you receive from your pension        Complete your federal tax return before starting your California
+plans, annuity plans, or IRAs, and how to report these amounts      tax return. If you need information on how to report your
+on your California income tax return.                               pension, annuity, or IRA income on your federal tax return, refer
+                                                                    to federal forms, instructions, and publications.
+The California treatment of pensions, annuities, and IRAs is
+generally the same as the federal treatment of such income.         Once you have completed your federal tax return, compute the
+However, there are some differences between California and          California amounts of your pension, annuity, or IRA income. If
+federal law that may cause the amount of your California            the California amount is different than the federal amount, you
+distribution income to be different than the amount reported for    will need to make a California adjustment.* Depending on the
+federal purposes. This publication identifies the most common       California form you file, report your California adjustment on one
+differences and explains how to report these differences on your    of the following forms:
+California tax return.                                              • Schedule CA (540) for Form 540 filers.
+                                                                    • Schedule CA (540NR) for Form 540NR filers.
+Important Reminders                                                 *A California adjustment is an addition to or subtraction from
+California generally conforms to federal law. The California        your federal AGI. Your federal pension, annuity, or IRA income is
+treatment of pension and annuity income is generally the same       included in the federal AGI figure that you list on your California
+as the federal treatment. For example, California and federal law   tax return (Form 540 or 540NR, line 13).
+are the same regarding:                                             Maximum Contribution Amounts to Traditional and Roth
+• The “General Rule.”                                               IRAs. Taxpayers may contribute the following amounts to a
+• The “Simplified General Rule” (sometimes called the “Safe         traditional and/or Roth IRA:
+    Harbor Method”).                                                   Age       2021     2022        2023    2024     2025     2026
+• IRA rollovers.
+                                                                    Under 50    $6,000   $6,000      $6,500   $7,000   $7,000   $7,500
+• Roth IRAs.
+• Archer Medical Savings Accounts (MSAs).                           50 & Over   $7,000    $7,000     $7,500   $8,000   $8,000   $8,600
+• Coverdell Education Savings Accounts (ESAs).
+                                                                    Maximum Contribution Amounts to 401(k), 403(b), and 457
+• Current-year IRA deductions.
+                                                                    Plans. Taxpayers may contribute the following amounts to a
+• Lump-sum credit received by federal employees.
+                                                                    deferred compensation plan:
+• California Achieving a Better Life Experience (ABLE)
+    accounts.                                                          Age     2021    2022    2023    2024    2025    2026
+Differences between California and federal law. There are           Under 50 $19,500 $20,500 $22,500 $23,000 $23,500 $24,500
+differences between California and federal law for:                 50 & Over $26,000 $27,000 $30,000 $30,500 $31,000 $32,500
+• Social security and railroad retirement benefits.
+                                                                    Maximum Contribution Amounts to Savings Incentive
+• Retirees using the “Three-Year Rule” whose annuity date was
+                                                                    Match Plan for Employees (SIMPLE). Taxpayers may contribute
+    after July 1, 1986, and before January 1, 1987.
+                                                                    the following amounts to a Simple IRA and Simple 401(k):
+• Some prior-year IRA deductions.
+• Health Savings Accounts (HSAs).                                      Age     2021    2022    2023    2024    2025    2026
+Pensions invested in U.S. Government Securities. If your            Under 50 $13,500 $14,000 $15,500 $16,000 $16,500 $17,000
+pension plan invested in U.S. Government securities or in           50 & Over $16,500 $17,000 $19,000 $19,500 $20,000 $21,000
+mutual funds that invested in U.S. Government securities, you
+may not reduce the taxable portion of your pension distribution     Maximum Contribution Amounts to Keogh. The maximum
+by the amount of interest attributable to the U.S. Government       contribution amount a taxpayer can make to a Keogh plan per
+securities.                                                         year is as follows:
+                                                                    • 2026, the amount is $72,000
+Common Terms Used in this                                           • 2025, the amount is $70,000
+                                                                    • 2024, the amount is $69,000
+Publication                                                         • 2023, the amount is $66,000
+                                                                    • 2022, the amount is $61,000
+AGI                        Adjusted Gross Income                    • 2021, the amount is $58,000
+California Adjustment      An adjustment to your federal
+                           adjusted gross income (an addition
+                           or subtraction) to arrive at your
+                           California AGI
+Form 540                   California Resident Income Tax
+                           Return
+
+
+Page 4 FTB Pub. 1005 2025
+Maximum Deduction and Contribution Amounts to a
+Simplified Employee Pension (SEP). The maximum deduction                   California Residents Receiving
+and contribution amounts per plan year to an SEP are as
+follows:
+                                                                           an Out-of-State Pension
+• 2026, the lesser of $72,000 or 25% of compensation                       In General
+    (compensation is limited to $360,000)                                  California residents are taxed on ALL income, including
+• 2025, the lesser of $70,000 or 25% of compensation                       income from sources outside California. Therefore, a pension
+    (compensation is limited to $350,000)                                  attributable to services performed outside California but
+• 2024, the lesser of $69,000 or 25% of compensation                       received after you became a California resident is taxable in its
+    (compensation is limited to $345,000)                                  entirety by California. See Examples 1 through 4.
+• 2023, the lesser of $66,000 or 25% of compensation                       Examples:
+    (compensation is limited to $330,000)
+• 2022, the lesser of $61,000 or 25% of compensation                       Example 1 – You worked 10 years in Texas, moved to California
+    (compensation is limited to $305,000)                                  and worked an additional 5 years for the same company. You
+• 2021, the lesser of $58,000 or 25% of compensation                       retired in California and began receiving your pension, which is
+    (compensation is limited to $290,000)                                  attributable to your services performed in both California and
+                                                                           Texas.
+Rollovers. Section 457 plans can be rolled over to other
+qualified plans. In addition, distributions from a Section 457 plan        Determination: You are a full-year resident of California. As a
+can be used to purchase permissive service credit for other                California resident, you are taxed on all your income, regardless
+retirement plans.                                                          of its source. Do not make an adjustment on Schedule CA (540)
+                                                                           to exclude any of the pension income.
+A surviving spouse can roll over distributions from a deceased
+spouse’s qualified retirement plan to a Section 457 plan in which          Example 2 – You worked in New York for 20 years. You retired
+the surviving spouse participates.                                         and moved permanently to California on January 1. While living
+                                                                           in California, you begin receiving your pension attributable to the
+Social Security and Railroad                                               services performed in New York.
+                                                                           Determination: You are a full-year resident of California. As a
+Retirement Benefits                                                        California resident, you are taxed on all your income, regardless
+                                                                           of its source. Do not make an adjustment on Schedule CA (540)
+California law differs from federal law in that California does not tax:
+                                                                           to exclude any of the pension income.
+• Social security benefits.
+                                                                           Example 3 – In December 2024, you retired and moved
+• Tier 1 railroad retirement benefits.
+                                                                           permanently to California. Prior to your move, you elected to
+• Tier 2 railroad retirement benefits reported on federal
+                                                                           receive your pension as a lump-sum distribution. Your pension
+   Form RRB-1099-R, Annuities or Pensions by the Railroad
+                                                                           is attributable solely to services you performed in Washington
+   Retirement Board.**
+                                                                           prior to your move. You received the lump-sum distribution in
+• Sick pay benefits under the federal Railroad Unemployment
+                                                                           February 2025, after you became a California resident.
+   Insurance Act.
+                                                                           Determination: You are a full-year California resident in 2025. As
+Make an adjustment to exclude any of this income if it
+                                                                           a California resident, you are taxed on all income, regardless of
+was included in your federal AGI. See the instructions for
+                                                                           its source. Do not make an adjustment on Schedule CA (540) to
+Schedule CA (540), Part I or Schedule CA (540NR), Part II,
+                                                                           exclude any portion of the Washington pension income.
+Section A, lines 1z, 5a, 5b, and 6b, for more information.
+                                                                           Example 4 – You worked in Georgia for 20 years. You retired
+The information listed applies only to United States social
+                                                                           and began receiving your monthly pension on January 1, 2025,
+security and railroad retirement. Foreign social security is
+                                                                           while you were still living in Georgia. Your pension is $2,000 a
+taxable by California as annuity income. A tax treaty between
+                                                                           month. Because you did not contribute to the plan, your pension
+the United States and another country which excludes the
+                                                                           is fully taxable. On May 1, 2025, you moved permanently to
+foreign social security from federal income or which treats the
+                                                                           California.
+foreign social security as if it were United States social security
+does not apply for California purposes.                                    Determination: You are a part-year resident of California.
+                                                                           While you are a nonresident, only your California-source
+** Railroad benefits paid by individual railroads are taxable by
+                                                                           income is taxable by California. While you are a resident,
+California. These benefits are reported on federal Form 1099-R,
+                                                                           all of your income, regardless of its source, is taxable by
+Distributions From Pensions, Annuities, Retirement or
+                                                                           California. Because your pension is attributable to services
+Profit-Sharing Plans, IRAs, Insurance Contracts, etc.
+                                                                           you performed in Georgia, your pension has a Georgia source.
+Three-Year Rule                                                            None of the pension received while you were a nonresident
+                                                                           of California is taxable by California. However, the pension
+The “Three-Year Rule” was repealed for retirees whose annuity              received during the period that you are a California resident
+starting date is after December 31, 1986. However, if your                 (May 1 through December 31) is taxable by California.
+annuity starting date was before January 1, 1987, and you                  Therefore, $16,000 ($2,000 x 8 months) is the taxable portion
+elected to use the “Three-Year Rule,” continue to use this                 of the pension to enter on Schedule CA (540NR), Part II,
+method.                                                                    Section A, line 5b, column E. Do not make an adjustment on
+Under the “Three-Year Rule,” amounts you receive are not                   Schedule CA (540NR), column B, to exclude any of the Georgia
+taxed until your after-tax contributions are recovered. Once your          pension income.
+contributions are recovered, your pension or annuity is fully
+taxable.
+Generally, the California and federal taxable amounts are
+the same. If the California and federal taxable amounts are
+different, enter the difference on Schedule CA (540), Part I, or
+Schedule CA (540NR), Part II, Section A, line 5b, column C.
+
+
+                                                                                                              FTB Pub. 1005 2025 Page 5
+Military Pension                                                     To take the election on the Schedule CA (540 or 540NR), the
+                                                                     federal deduction is taken on Section C, line 20, column A.
+If you are a California resident, your military pension is taxable   The election for California will be on Section C, line 20,
+by California, regardless of where the service was performed.        column B or C.
+
+Nonresidents of California                                           Following is a summary of the California IRA deduction allowed.
+                                                                     To calculate any adjustments to your IRA deduction, see
+Receiving a California Pension                                       Schedule CA (540 or 540NR) instructions.
+                                                                     2005 through 2025
+In General                                                           California law is generally the same as federal law. For a
+California does not impose tax on retirement income received         SIMPLE IRA, an elective deferral may be made for up to the
+by a nonresident after December 31, 1995. For this purpose,          amount listed in the chart on this page. For a traditional IRA,
+retirement income means any income from any of the following:        the most that can be contributed is the smaller of:
+• A qualified plan described in IRC Section 401.                     • The amount listed in the chart on this page or
+• A qualified annuity plan described in IRC Section 403(a).          • 100% of your compensation.
+• A tax-sheltered annuity described in IRC Section 403(b).           IRA
+• A governmental plan described in IRC Section 414(d).                   Age          2005       2006-2007        2008-2012   2013-2018
+• A deferred compensation plan maintained by a state or local         Under 50       $4,000        $4,000          $5,000      $5,500
+    government or an exempt organization described in IRC             50 & Over      $4,500        $5,000          $6,000      $6,500
+    Section 457.
+• An IRA described in IRC Section 7701(a)(37), including Roth            Age        2019-2022        2023         2024-2025
+    IRA and SIMPLE.                                                   Under 50        $6,000        $6,500          $7,000
+• A simplified employee pension described in IRC                      50 & Over       $7,000        $7,500          $8,000
+    Section 408(k).
+• A trust described in IRC Section 501(c)(18).                       SIMPLE IRA
+• A military pension, even if the military service was performed         Age        2005-2006    2007-2008        2009-2012   2013-2014
+    in California.                                                    Under 50       $10,000      $10,500          $11,500     $12,000
+• A private deferred compensation plan program or                     50 & Over      $12,500      $13,000          $14,000     $14,500
+    arrangement described in IRC Section 3121(v)(2)(C) only if
+    the income is either of the following:                               Age        2015-2018        2019         2020-2021     2022
+    1. Part of a series of substantially equal periodic payments      Under 50       $12,500        $13,000        $13,500     $14,000
+       (not less frequently than annually) made over the life         50 & Over      $15,500        $16,000        $16,500     $17,000
+       or life expectancy of the participant or those of the
+       participant and the designated beneficiary or a period of         Age          2023           2024           2025
+       not less than 10 years.                                        Under 50       $15,500        $16,000        $16,500
+    2. A payment received after termination of employment             50 & Over      $19,000        $19,500        $20,000
+       under a plan program or arrangement maintained solely         2002 through 2004
+       to provide retirement benefits for employees in excess of     California law was the same as federal law. For a SIMPLE IRA,
+       the limitations on contributions or benefits imposed by the   an elective deferral may be made for up to the amount listed
+       IRC.                                                          in the chart below. For a traditional IRA, the most that can be
+• Any retirement or retainer pay received by a member or             contributed is the smaller of:
+    former member of a uniform service computed under
+    Chapter 71 of Title 10, United States Code.                      • The amount listed in the chart below or
+                                                                     • 100% of your compensation.
+Individual Retirement                                                                     IRA                       SIMPLE IRA
+                                                                         Age          2002 - 2004         2002         2003     2004
+Arrangements (IRAs)                                                   Under 50           3,000            7,000        8,000    9,000
+The California treatment of IRAs is generally the same as the        50 or Older         3,500            7,500        9,000   10,500
+federal treatment. For information on the federal treatment          1987 through 2001
+of IRAs, get federal Pub. 590-A, Contributions to Individual         California law was the same as federal law. The IRA deduction
+Retirement Arrangements (IRAs), federal Pub. 590-B,                  is the lesser of $2,000 or 100% of your compensation. For a
+Distributions from Individual Retirement Arrangements (IRAs),        SIMPLE IRA, an elective deferral may be made for up to $6,500
+and federal Pub. 560, Retirement Plans for Small Business            for 2001 and $6,000 for 1997 through 2000.
+(SEP, SIMPLE, and Qualified Plans).
+                                                                     1982 through 1986
+IRA Deduction                                                        California law was different from federal law. The maximum
+                                                                     federal deduction for an individual was $2,000, and was
+Limit if Covered by Employer Plan                                    available to active participants in qualified or government
+If you are covered by an employer’s retirement plan or if you        retirement plans and to persons who contributed to
+file a joint tax return with your spouse who is covered by such      tax-sheltered annuities. The California IRA deduction was the
+a plan, you may be entitled to only a partial deduction or no        lesser of $1,500 or 15% of compensation with an additional
+deduction at all, depending on your income. See the federal          deduction for a nonworking spouse, for a maximum deduction
+instructions for more information. You can elect to designate        of $1,750. An IRA deduction was not allowed if you were an
+otherwise deductible contributions as nondeductible. However,        active participant in a qualified or government retirement plan
+you do not have to elect the same treatment for California           or contributed to a tax-sheltered annuity.
+purposes that you did for federal purposes.
+
+
+
+
+Page 6 FTB Pub. 1005 2025
+1976 through 1981                                                       Nondeductible Contributions Made Before 1987
+California law was the same as federal law. The IRA                     If you made nondeductible contributions before 1987, none
+deduction for an individual was the lesser of $1,500 or 15% of          of your distribution is taxed until you have recovered your
+compensation. An IRA deduction was not allowed if you were an           pre-1987 basis. Because there was a difference between federal
+active participant in a qualified or government retirement plan or      and California contribution limits before 1987, there may be a
+contributed to a tax-sheltered annuity.                                 difference in the California and federal taxable amounts. If there
+                                                                        is a difference, make an adjustment to reduce your federal AGI
+1975
+                                                                        to the correct taxable amount for California.
+California law was different from federal law. California did not
+allow an IRA deduction. Therefore, income earned in 1975 and            Your adjustment is the lesser of your pre-1987 California basis
+1976 on the 1975 contribution was taxable.                              or IRA distribution included in federal AGI.
+Differences in the amount of IRA deduction you could claim may          Use Worksheet I — Part A on page 14 to compute your
+have occurred prior to January 1, 1996 if there was a difference        pre-1987 California basis. Use Worksheet I — Part B to compute
+between your federal self-employment income and your                    your adjustment to federal AGI and your remaining pre-1987
+California self-employment income.                                      California basis. See Example 1 and Example 2 on page 8. Use
+                                                                        Worksheet II on page 14, as a summary of your California basis
+Form 540NR Filers                                                       and its recovery.
+If you file Form 540NR, your IRA deduction on                           If you have more than one IRA account, combine all your
+Schedule CA (540NR), Part II, Section C, line 20, column E, is          IRAs to complete the worksheet. If both you and your
+limited to the lesser of:                                               spouse/registered domestic partner (RDP) have IRAs, you each
+• The IRA deduction allowed on your federal tax return.                 must complete a separate worksheet based on your own IRA
+• The compensation reported on your Schedule CA (540NR),                contributions, deductions, and distributions.
+    column E.
+Example: You are a nonresident of California who is under
+                                                                        Nonresidents of California
+50 years of age. During the year, you worked temporarily in             Change of Residency
+California. Your California compensation is $1,000, which you           From resident to nonresident
+reported on Schedule CA (540NR), column E. Your federal                 For IRA distributions received while you were a California
+compensation is $10,000. Your allowable IRA deduction on your           resident, see “Residents of California” on this page for the
+federal tax return is $7,000.                                           taxability of your distributions.
+Determination: Your allowable California IRA deduction that             From nonresident to resident
+you report on Schedule CA (540NR), column E, is $1,000.                 For IRA distributions received while you were a California
+This is the lesser of (1) the $7,000 IRA deduction allowed              resident, see “2002 Law Changes IRA Basis of Former
+on your federal tax return, or (2) the $1,000 of compensation           Nonresidents” to determine your nontaxable IRA basis.
+you reported on Schedule CA (540NR), column E.                          2002 Law Changes IRA Basis of Former Nonresidents
+                                                                        The law changed for taxable years beginning on or after
+IRA Distribution                                                        January 1, 2002. If you are a California resident who was a
+                                                                        former nonresident, the new law may affect the taxation of your
+Residents of California                                                 IRA income. The law affects not only individuals who became
+Your IRA distribution is fully taxable if your IRA contributions        California residents in 2002, but also individuals who became
+were fully deductible. If your IRA contributions were partially or      California residents prior to 2002. Under prior law, when you
+fully nondeductible, then the nondeductible contributions are not       became a resident, you received a stepped-up basis in your IRA
+taxed when they are distributed to you. Your basis is the amount        equal to your annual contributions made while a nonresident,
+of your nondeductible contributions. How you recover your basis         plus the earnings on your IRA while a nonresident. You were
+depends on when your nondeductible contributions were made.             allowed to carry over this IRA basis until it was fully recovered.
+Nondeductible Contributions Made After 1986                             Beginning in 2002, you no longer have this stepped-up basis.
+If you made nondeductible contributions after 1986, a part of each      The law treats a former nonresident as though the individual
+distribution is considered a return of your basis and is not taxable.   were a resident for all prior years for all items of deferred
+The California taxable amount will generally be the same as the         income, including IRAs. Accordingly, a former nonresident will
+federal taxable amount, and you should not make an adjustment           be allowed an IRA basis only for contributions which would not
+to your federal AGI on Schedule CA (540 or 540NR).                      have been allowed as a deduction under California law had
+However, if you elected to treat a contribution differently for         the taxpayer been a California resident. For a summary of IRA
+federal purposes than for California purposes, the taxable              deductions allowed under California law, see “IRA Deduction” on
+amounts will differ. Compute the California taxable amount              page 6.
+using the instructions for federal Form 8606, Nondeductible
+IRAs. When making this computation for the recovery of
+nondeductible contributions made after 1987, make sure you
+do not include nondeductible contributions made before 1987.
+The nondeductible contributions made before 1987 will be
+recovered as explained in the following paragraph.
+Compute the adjustment to federal AGI by comparing your
+federal taxable amount with the California taxable amount.
+• If the federal amount is more than the California amount,
+    enter the difference on Schedule CA (540), Part I or
+    Schedule CA (540NR), Part II, Section A, line 4b, column B.
+• If the federal amount is less than the California amount,
+    enter the difference on Schedule CA (540), Part I or
+    Schedule CA (540NR), Part II, Section A, line 4b, column C.
+
+
+                                                                                                          FTB Pub. 1005 2025 Page 7
+Do not include in California basis any rollover contributions from an employer sponsored or self-employed retirement plan, including a
+tax-sheltered annuity.
+If you became a California resident prior to 2002 and you have an unrecovered stepped-up IRA basis that you were carrying into 2002,
+restate your IRA basis using the new law. See Example 3 and Example 4 on page 9.
+
+Example 1 – You were a California resident in 2025, and you received an IRA distribution of $800. The only other distribution received from
+your IRA was in 2024. The amount of the 2024 distribution was $700. You made the following contributions and deductions in prior years:
+              Year                     Contributions                    Federal Deductions               California Deductions
+             1981                           $1,500                           $1,500                               $1,500
+             1982                            2,000                             2,000                               1,500
+             1983                            2,000                             2,000                               1,500
+                                                     __________________                             ___________________                         ___________________
+
+                  Total                                   $5,500                                        $5,500                                        $4,500
+Worksheet I — Figuring California Basis and Adjustment to Federal AGI
+Part A Pre-1987 California Basis                                                                                                                                        Example 1
+(If you have already computed your California basis as of 12/31/24; skip to Part B.)
+1 Enter your total federal deductions claimed prior to 1987. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1                       $5,500
+2 Enter your total California deductions claimed prior to 1987 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2                          4,500
+3 Total California basis. Subtract line 2 from line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3                 1,000
+4 Enter your California basis previously recovered . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4                      700
+5 California basis as of 12/31/24. Subtract line 4 from line 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5                         $300
+Part B Adjustment to Federal AGI and Remaining Pre-1987 California Basis                                                                                               Example 1
+1 Enter your taxable distribution from your federal Form 1040 or Form 1040-SR, line 4b (or line 5b) . . . . . . . . . . . . . 1                                            $800
+2 Enter your California basis as of 12/31/24 a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2             300
+3 Enter the smaller of line 1 or line 2. Enter this amount on Schedule CA (540), Part I or
+  Schedule CA (540NR), Part II, Section A, line 4b or line 5b, column B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3                                 300
+4 Remaining California basis as of 12/31/25. Subtract line 3 from line 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4                                 $0
+Included in your federal AGI is the $800 IRA distribution. Only $500 ($800 – $300) of the distribution is taxable by California in 2025.
+Your adjustment to federal AGI is $300. Your California basis has now been fully recovered. When you receive a distribution in later
+years, the amount of the distribution taxable for federal purposes will also be the amount taxable by California. No adjustment to federal
+AGI will be necessary.
+
+a) A nonresident or former nonresident will no longer receive a stepped-up basis for annual contributions and earnings attributable to periods of
+nonresidency.
+
+Example 2 – You were a California resident in 2025, and you received your first IRA distribution. The distribution was $1,000. For federal
+purposes, you included $800 in income and $200 was treated as the nontaxable recovery of your federal basis. You made the following
+contributions and deductions in prior years:
+                                       Contributions                     Federal                     California Deductions
+                Year          Before 1987        After 1986            Deductions                 Before 1987           After 1986
+                1984             $2,000                                  $2,000                        $0
+                1985               2,000                                   2,000                         0
+                1986               2,000                                   2,000                         0
+                1987                               $2,000                        0                                           $0
+                                           __________              __________                       __________                       __________                   __________
+
+                 Total             $6,000              $2,000                                $6,000                                    $0                        $0
+Worksheet I — Figuring California Basis and Adjustment to Federal AGI
+Part A Pre-1987 California Basis (If you have already computed your California basis as of 12/31/24; skip to Part B.)                                             Example 2
+1 Enter your total federal deductions claimed prior to 1987. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1             $6,000
+2 Enter your total California deductions claimed prior to 1987 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2                    0
+3 Total California basis. Subtract line 2 from line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3       6,000
+4 Enter your California basis previously recovered . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4              0
+5 California basis as of 12/31/24. Subtract line 4 from line 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5             $6,000
+Part B Adjustment to Federal AGI and Remaining Pre-1987 California Basis                                                                                          Example 2
+1 Enter your taxable distribution from your federal Form 1040 or Form 1040-SR, line 4b (or line 5b) . . . . . . . . . . . . . 1                                        $800
+2 Enter your California basis as of 12/31/24 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2      6,000
+3 Enter the smaller of line 1 or line 2. Enter this amount on Schedule CA (540), Part I
+    or Schedule CA (540NR), Part II, Section A, line 4b or line 5b, column B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3                        800
+4 Remaining California basis as of 12/31/25. Subtract line 3 from line 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4                     $5,200
+Because your California basis is more than the distribution, none of your IRA distribution will be taxed by California in 2025. Your
+adjustment to federal AGI is $800. You have a remaining California IRA basis of $5,200. You will recover your remaining California basis
+in later years. Use Worksheet II, on the next page, to keep track of your California basis and its recovery.
+
+Page 8 FTB Pub. 1005 2025
+Worksheet II — Summary of California Basis
+                                                                    California                   Federal     California      Remaining
+   Taxable       Pre-1987               Deduction                    Basis in      Total         Taxable       Basis         California
+    Year       Contributions       Federal    California           Contribution Distribution     Amount      Recovered         Basis
+    1984          $2,000           $2,000         $0                  $2,000                                                   $2,000
+    1985           2,000            2,000          0                   2,000                                                    4,000
+    1986           2,000            2,000          0                   2,000                                                    6,000
+    2025                                                                          $1,000           $800          $800          $5,200
+
+
+Example 3 – You became a California resident on January 1, 2001. The fair market value of your IRA on January 1, 2001, was $9,000.
+Your contributions in excess of California deduction limits during 1982-1986 were $2,500. You received IRA distributions of $1,500 in
+2001; $3,000 in 2002; and $2,000 in 2003.
+Determination:
+Taxable year 2001 (prior law):
+California IRA basis, January 1, 2001          (fair market value on 1/1/01)                   $9,000
+Less: IRA distribution                                                                          1,500
+California IRA basis, December 31, 2001                                                        $7,500
+Taxable year 2002 (new law):
+IRA distribution, 2002                                                                         $3,000
+Less:     California IRA basis
+          Contributions in excess of California deduction limits             $2,500
+          Less: California IRA basis recovered in 2001                        1,500
+          California IRA basis available in 2002                                                1,000
+Taxable IRA income                                                                             $2,000
+California IRA basis, December 31, 2002, is $-0-.
+Taxable year 2003:
+IRA distribution, 2003                                                       $2,000
+Less:     California IRA basis available in 2003                                 -0-
+Taxable IRA income                                                           $2,000
+
+
+Example 4 – You became a California resident on January 1, 2002. In 2001, while you were a nonresident of California, you received a
+$50,000 lump-sum distribution from your employer’s retirement plan and rolled over the distribution to an IRA. The earnings on your IRA
+in 2001 were $2,000. You received your first distribution from your IRA in 2002. The distribution was $4,000, all of which was taxable for
+federal purposes. Your California basis is determined as follows:
+Determination:
+Taxable year 2001 (prior law):
+California IRA basis, January 1, 2001       (earnings while a nonresident) $2,000
+Less: IRA distribution in 2001                                                   -0-
+California IRA basis, December 31, 2001                                      $2,000
+Taxable year 2002 (new law):
+IRA distribution:                                                            $4,000
+Less:     California IRA basis
+          Contributions in excess of California deduction limits      $ -0-
+          Less: Basis recovered in prior years                          -0-
+          California IRA basis                                                   -0-
+Taxable IRA income                                                           $4,000
+California IRA basis, December 31, 2002, is $-0-.
+A nonresident or former nonresident will no longer receive a stepped-up basis for annual contributions and earnings attributable to
+periods of nonresidency.
+
+
+
+
+                                                                                                           FTB Pub. 1005 2025      Page 9
+Coverdell Education Savings                                          to AGI on the taxpayer’s California tax return and would be
+                                                                     subject to a 2½% additional tax under the rules for premature
+Accounts (ESAs)                                                      distributions under R&TC Section 17085.
+Under a Coverdell ESA, contributions are not deductible,
+earnings are excludable, and distributions are not taxable if        California Achieving a Better Life
+used for qualified educational expenses. In general, California
+conforms to the federal rules regarding contribution limits,
+                                                                     Experience (ABLE) Accounts
+income phaseout limits and the treatment of distributions.           A California ABLE account is a tax-exempt trust established in
+Get federal Pub. 970, Tax Benefits for Education, for more           California exclusively for paying the qualified disability expenses
+information. If you have a taxable distribution from a Coverdell     of the designated beneficiary. The residency requirement for a
+ESA, get form FTB 3805P, to figure the additional tax.               designated beneficiary of the California Qualified ABLE Program
+                                                                     was expanded to include residents of the United States. Get
+Expanded Use of IRC Section 529                                      federal Form 5329, Additional Taxes on Qualified Plans (Including
+                                                                     IRAs) and Other Tax-Favored Accounts, for more information.
+Accounts Funds                                                       Federal Form 5329 is used to figure additional taxes on
+California does not conform to the federal Tax Cuts and Jobs         tax-favored accounts for distributions not used for qualified
+Act (TCJA) regarding account funding for elementary and              disability expenses. If distributions from your ABLE account
+secondary education or to the new federal rules relating to the      during a year are not more than your qualified disability expenses
+maximum distribution amount.                                         for that year, no amount is taxable for that year. If the total amount
+                                                                     distributed during a year is more than your qualified disability
+Archer Medical Savings Accounts                                      expenses for that year, the earnings portion of the distribution is
+(MSAs)                                                               included in your income for that year and subject to additional tax.
+                                                                     California law is the same as federal law regarding distribution
+An MSA is a tax-exempt trust or custodial account set up in
+                                                                     rules but is different regarding the amount of additional tax on
+the United States exclusively for paying the qualified medical
+                                                                     ABLE distributions not used for qualified disability expenses.
+expenses of the account holder or the account holder’s spouse
+                                                                     The additional tax is 2.5% for California.
+or dependent(s) in conjunction with a high deductible health
+plan (HDHP). Get federal Form 8853, Archer MSAs and Long-            If you have a taxable distribution from an ABLE account, you
+Term Care Insurance Contracts, for more information.                 must file form FTB 3805P to figure the additional tax.
+Use federal Form 8853 to report general information about new        For taxable years beginning on or after January 1, 2019,
+MSAs, to figure your MSA deduction, and to figure your taxable       California conforms to certain provisions of the TCJA relating to
+distribution for MSAs. In general, California law is the same        ABLE accounts. The TCJA increases the limit on contributions
+as federal law regarding MSA contributions and deductions,           made by the designated beneficiary to ABLE accounts up to the
+but is different regarding the amount of additional tax on MSA       federal poverty level and allows IRC Section 529 plan accounts
+distributions not used for qualified medical expenses. The           to rollover to ABLE accounts without penalty.
+additional tax is 12.5% for California.
+Therefore, for California purposes, there is no separate form to     Roth IRA
+file to report general information about new MSAs or to figure
+your MSA deduction. However, if you have a taxable MSA               In General
+distribution, file form FTB 3805P.                                   A Roth IRA is an individual retirement plan that differs from a
+After December 31, 2007, contributions cannot be made to an          traditional IRA in the way contributions and distributions are
+Archer MSA for you unless either of the following applies:           taxed. Contributions to a Roth IRA are never deductible, and, if
+                                                                     you meet the requirements, qualified distributions are not taxed.
+• You were an active MSA participant before January 1, 2008.
+• You become an active MSA participant after                         California law conforms to federal law regarding Roth IRAs.
+    December 31, 2007 because you are covered by an HDHP             All Roth IRA transactions must be treated the same way for
+    of an MSA participating employer.                                California purposes as they are for federal purposes and no
+                                                                     California adjustment will be necessary unless you converted
+Health Savings Accounts (HSAs)                                       a traditional IRA into a Roth IRA and the California basis of the
+                                                                     converted IRA was different from the federal basis. The following
+An HSA is a tax-exempt trust or custodial account that you           paragraphs provide information about calculating the California
+set up with a U.S. financial institution (such as a bank or an       adjustment if one is necessary.
+insurance company) in which you can save money exclusively
+for future medical expenses in conjunction with an HDHP.             Roth IRA Distributions
+California does not conform to federal legislation that enacted      In general, the taxable amount of your Roth IRA distribution will
+HSAs beginning January 1, 2004.                                      be the same for California and federal purposes. However, the
+Because California does not conform to federal legislation for       taxable portion of your distribution may be different for California
+HSAs, a contribution to an HSA is not deductible. Interest and       purposes than for federal purposes if:
+other earnings of an HSA are not tax-deferred and must be            • You made a 1998 conversion from a traditional IRA to a Roth
+included in taxable income.                                             IRA.
+A rollover from an MSA to an HSA constitutes an MSA                  • You elected to report the taxable portion of the conversion
+distribution not used for qualified medical expenses. Therefore,        over 4 years.
+the distribution is subject to California income tax and the         • The federal basis of the traditional IRA was different from the
+additional 12.5% tax under R&TC Section 17215.                          California basis.
+Effective for taxable years beginning on or after January 1, 2007,
+the IRS allows a one-time rollover from an IRA to an HSA.
+California does not conform to this provision. Under California
+law, any distribution from an IRA to an HSA must be added
+
+
+Page 10 FTB Pub. 1005 2025
+In this case, refigure federal Form 8606, Part III, using
+California amounts. Your adjustment will be the difference
+                                                                                             Roth IRA Conversions
+between line 23 of federal Form 8606 completed with federal                                  The tax due as the result of a conversion may be different for
+amounts and line 23 of federal Form 8606 completed with                                      California purposes than for federal purposes if:
+California amounts. If the:                                                                  • You made a conversion from a traditional IRA to a Roth IRA.
+• Federal amount is more than the California amount,                                         • The federal basis of the traditional IRA was different from the
+    include the difference on Schedule CA (540), Part I or                                       California basis.
+    Schedule (540NR), Part II, Section A, line 4b, column B.                                 Use the Roth IRA Worksheet below to figure the amount that
+• California amount is more than the federal amount,                                         is taxable for California and the adjustment you must enter on
+    include the difference on Schedule CA (540), Part I or                                   Schedule CA (540 or 540NR).
+    Schedule (540NR), Part II, Section A, line 4b, column C.
+
+
+
+
+                                                                 Do Not Mail This Record                       xxxxxxxxxxxxxxxxx
+
+Roth IRA Worksheet
+                                                                                                               xxxxxxxxxxxxxxxxx
+                                                                                                               xxxxxxxxxxxxxxxxx
+
+
+
+Do not file this worksheet with your tax return. Keep it for your tax records.
+Conversions from Traditional IRAs to Roth IRAs
+Part A – Pre-1987 California Basis
+ 1 Enter your total federal IRA deductions claimed prior to 1987 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1________________
+ 2 Enter your total California IRA deductions claimed prior to 1987 (or the deductions you could have
+     claimed had you been a California resident) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2________________
+ 3 Total California pre-1987 basis. Subtract line 2 from line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3________________
+ 4 Enter your pre-1987 California basis previously recovered . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4________________
+ 5 Pre-1987 California basis as of 12/31/24. Subtract line 4 from line 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5________________
+Part B – Post-1986 California Basis
+ 6 Enter your total IRA contributions made after 1986. (Enter only contributions made to traditional IRAs.
+     Do not include contributions to Roth IRAs.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6________________
+ 7 Enter your total California IRA deductions claimed after 1986 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7________________
+ 8 Subtract line 7 from line 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8________________
+ 9 Enter your post-1986 California basis previously recovered . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9________________
+10 Total California post-1986 basis. Subtract line 9 from line 8. If the result is zero, skip line 11 through
+     line 15, enter zero on line 16, and continue to line 17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10________________
+11 Enter the total amount of distributions from traditional IRAs during 2025 that were converted to
+     Roth IRAs (as shown on line 16 of federal Form 8606). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11________________
+12 Enter the value of all your traditional IRAs as of 12/31/25 (include any outstanding rollovers from
+     traditional IRAs to other traditional IRAs) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12________________
+13 Enter the total distributions from traditional IRAs (including amounts converted to Roth IRAs as shown
+     on line 16 of federal Form 8606) received in 2025 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13________________
+14 Add line 12 and line 13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14________________
+15 Divide line 11 by line 14, and enter the result as a decimal here. Carry the decimal to at least four places . . .15 __ . __ __ __ __
+16 Post-1986 basis recoverable against a 2025 distribution. Multiply line 10 by line 15 . . . . . . . . . . . . . . . . . . . .16________________
+Part C – Adjustment to Federal AGI
+17 Enter the total amount of distributions from traditional IRAs during 2025 that were converted to Roth IRAs
+     (as shown on line 16 of federal Form 8606) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17________________
+18 a Enter the amount from Part A, line 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18a_______________
+     b Enter the amount from Part B, line 16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18b_______________
+     c Add line 18a and line 18b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18c_______________
+19 Subtract line 18c from line 17. This is the total 2025 California taxable amount
+     resulting from a 2025 conversion of a traditional IRA to a Roth IRA . . . . . . . . . . . . . . .19________________
+20 Enter the 2025 federal taxable amount of a distribution resulting from a 2025
+     conversion of a traditional IRA to a Roth IRA (included on Form 1040 or 1040-SR,
+     line 4b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20________________
+21 Figure Your California Adjustment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21________________
+     If line 19 is less than line 20, subtract line 19 from line 20 and enter the result here and include it on Schedule CA (540), Part I, or
+     Schedule CA (540NR), Part II, Section A, line 4b, column B.
+     If line 20 is less than line 19, subtract line 20 from line 19 and enter the result here and include it on Schedule CA (540), Part I, or
+     Schedule CA (540NR), Part II, Section A, line 4b, column C.
+Part-Year Residents. The taxable amount of a distribution from a traditional IRA (that is being converted to a Roth IRA in 2025) is
+included in your California source income only if you were a resident of California on the date of the distribution.
+
+
+                                                                                                                                        FTB Pub. 1005 2025 Page 11
+Simplified Employee Pension                                          Prior to January 1, 1996, there may have been a difference in
+                                                                     the amount of the Keogh deduction you claimed if there was a
+(SEP)                                                                difference between your federal self-employment income and
+                                                                     your California self-employment income (residents, part-year
+Deduction                                                            residents, or nonresidents of California).
+Beginning with taxable year 1996, the allowable California SEP       Form 540NR filers. Your Keogh deduction on
+deduction is the same as the federal deduction.                      Schedule CA (540NR), column E is based upon the percentage
+                                                                     of self-employment income from Schedule CA (540NR),
+Prior to January 1, 1996, there may have been a difference in        column E to total self-employment income computed according
+the amount of the SEP deduction you claimed if there was a           to California law on Schedule CA (540NR), column D.
+difference between your federal self-employment income and
+your California self-employment income (residents, part-year         Multiply the Keogh deduction from Schedule CA (540NR),
+residents, or nonresidents of California).                           column D by the ratio of California source self-employment
+                                                                     income to total self-employment income. Enter this figure on
+Form 540NR filers. Your SEP deduction on                             Schedule CA (540NR), Part II, Section C, line 16, column E.
+Schedule CA (540NR), column E is based upon the percentage
+of self-employment income from Schedule CA (540NR),                  Self-employment income
+column E to total self-employment income computed according          from Schedule CA
+to California law on Schedule CA (540NR), column D.                  (540NR), column E              x      Schedule CA (540NR),
+                                                                     Self-employment income                Part II, Section C,
+Multiply the SEP deduction from Schedule CA (540NR),                                                       line 16, column D
+column D by the ratio of California source self-employment           from Schedule CA
+income to total self-employment income. Enter this figure on         (540NR), column D
+Schedule CA (540NR), Part II, Section C, line 16, column E.          Example 1 — You are a part-year resident of California. Your
+Self-employment income                                               total self-employment income for the year is $300,000, and
+from Schedule CA                                                     the amount to be reported on Schedule CA (540NR), Part II,
+(540NR), column E             x       Schedule CA (540NR),           Section B, line 3, column E, is $100,000. Your Keogh deduction
+                                      Part II, Section C,            for federal purposes is $15,000. Your Keogh deduction to be
+Self-employment income                                               reported on Schedule CA (540NR), Part II, Section C, line 16,
+from Schedule CA                      line 16, column D
+                                                                     column E is computed as follows:
+(540NR), column D
+                                                                      $100,000 x $15,000 = $5,000
+Distribution                                                          $300,000
+Residents of California. The distribution of an SEP is treated       Report $5,000 on Schedule CA (540NR), Part II, Section C,
+the same as the distribution of an IRA. If you have a California     line 16, column E.
+basis for contributions made before 1987, your distribution is
+first considered a nontaxable return of your California basis.       Distribution
+Once your California basis is recovered, your distribution will be   Residents of California. The taxable amount of your Keogh
+reported the same as federal.                                        distribution for California will be different from the federal taxable
+If you have a California basis from contributions made after         amount if you have a California basis to recover.
+1986 and before 1996 due to differences in the amounts of            California Basis. Your California basis is the amount of Keogh
+net income from self employment you reported for federal and         contributions in excess of California deduction limits in effect
+California purposes, your California basis will be recovered on a    prior to 1996. For taxable years 1963 to 1970, California did not
+pro-rata basis in the same manner as post 1986 nondeductible         allow a deduction for contributions to defined contribution Keogh
+IRA contributions under federal law.                                 plans. For taxable years 1971 through 1986, California limited
+Use Worksheet I — Part A on page 14 to compute your                  deductions for contributions to defined contribution Keogh plans
+pre-1987 California basis. Then use Worksheet I — Part B to          to the lesser of 10% of earned income or $2,500. For years
+compute your adjustment to federal AGI and your remaining            after 1986 but before 1996, California conformed to federal law
+pre-1987 California basis. Use Worksheet II as a summary of          regarding deduction limits, but did not necessarily adopt federal
+your California basis and its recovery.                              earned income figures for computing the deduction limitation.
+                                                                     Accordingly, a self-employed individual has a California basis
+California Basis. Your California basis is the amount of your
+                                                                     for any amounts contributed during these years for which the
+SEP contributions that were not allowed as a deduction on
+                                                                     individual did not receive a California deduction.
+your California tax return prior to 1987. A nonresident or former
+nonresident will no longer receive a stepped-up basis for            A nonresident or former nonresident does not have a California
+annual contributions and earnings attributable to periods of         basis in a Keogh for all contributions and earnings attributable to
+nonresidency.                                                        periods of nonresidency. Nonresidents and former nonresidents
+                                                                     have a California basis only if they contributed more than would
+Self-Employed Retirement                                             have been allowed as California deductions had they been
+                                                                     residents of the state.
+Plans (Keoghs)                                                       Recovery of California Basis. Your Keogh distribution is first
+                                                                     considered to be a nontaxable return of your California basis.
+The California treatment of Keoghs is generally the same as the      Therefore, when you receive your distribution, none of the
+federal treatment. For information on the federal treatment of       distribution will be taxed until you have recovered your California
+Keoghs, refer to federal Pub. 560.                                   basis. Once you have recovered your California basis, your
+                                                                     distribution must be reported the same as for federal purposes.
+Deduction
+Beginning with taxable year 1996, your allowable California
+Keogh deduction is generally the same as your federal Keogh
+deduction.
+
+
+Page 12 FTB Pub. 1005 2025
+If you have received a distribution and you have a California       Early Distributions. Early distributions are amounts you
+basis, make an adjustment on Schedule CA (540 or 540NR)             withdraw from your qualified retirement plan, annuity, or
+to reduce your federal AGI to the correct taxable amount for        modified endowment contract before you are age 59½. For a
+California. Your Schedule CA (540 or 540NR) adjustment is the       list of qualified retirement plans, get form FTB 3805P. The tax
+lesser of your pre-1987 California basis or Keogh distribution      on early distributions is 2½% of the amount of the distribution
+included in federal AGI.                                            included in income or 6% in the case of an early distribution
+Use Worksheet I — Part A on page 14 to compute your                 from a SIMPLE plan during the first two-year period beginning
+pre-1987 California basis. Then use Worksheet I – Part B to         on the date the taxpayer first began participation in the plan.
+compute your adjustment to federal AGI and your remaining           The tax on early distribution is imposed in addition to any
+pre-1987 California basis. Use Worksheet II as a summary of         regular California income tax on the distribution. Figure this tax
+your California basis and its recovery.                             on form FTB 3805P.
+Exception: If you made voluntary contributions that were not        Exceptions: The tax on early distributions does not apply to:
+deductible on your federal and California tax returns, do not       • The portion of the distribution that is a return of basis.
+include the amount of the voluntary contributions in your           • Distributions made due to total and permanent disability.
+California basis. The recovery of the voluntary contributions       • Distributions made as part of a series of substantially equal
+for California is treated the same as the recovery for federal          periodic payments (made at least annually) for your life (or
+purposes. Do not make an adjustment on Schedule CA (540 or              life expectancy) or the joint lives (or joint life expectancies)
+540NR) to recover your voluntary contributions.                         of you and your designated beneficiary (if from an employer
+                                                                        plan, payments must begin after separation from service).
+Lump-Sum Distribution                                                   Distributions received as periodic payments on or after
+                                                                        December 29, 2022, will not fail to be treated as substantially
+If you received a qualified lump-sum distribution and are using         equal merely because they are received as an annuity. And,
+the special averaging method on Schedule G-1, Tax on Lump-              these distributions received as periodic payments will be
+Sum Distributions, follow the revised instructions below when           deemed to be substantially equal if they are payable over
+completing Worksheet I – Part B:                                        a period that satisfies the section 401(a)(9) requirements
+• Line 1. Enter the taxable distribution from your federal              relating to annuity payments.
+    Form 1099-R, box 2a.                                            • Distributions due to death (does not apply to modified
+• Line 3. Enter the smaller of line 1 or line 2. Compute the            endowment contracts).
+    amounts to enter on Schedule G-1 as follows:                    • Distributions made to you to the extent you have medical
+                                                                        expenses deductible under IRC Section 213 (does not apply
+   California        Federal                 Worksheet I                to modified endowment contracts).
+   taxable =         Form 1099-R, –          Part B,                • Distributions made to unemployed individuals for health
+   amount            box 2a                  line 3                     insurance premiums (applies only to IRAs).
+Enter the California taxable distribution on Schedule G-1, line 8   • Distributions made for qualified higher education expenses
+unless the capital gain election was made. If the capital gain          (applies only to IRAs).
+election was made:                                                  • Distributions of up to $10,000 made for first home purchases
+                                             Federal                    (applies only to IRAs).
+                                             Form 1099-R,           • Qualified retirement plan distributions (does not apply to
+   Schedule G-1, California                  box 3                      IRAs) you received after separation from service when the
+   line 6 =          taxable         X       Federal                    separation from service occurs in or after the year you reach
+                     amount                  Form 1099-R,               age 55 (age 50 for qualified public safety employees and
+                                             box 2a                     private sector firefighters) or 25 years of service under the
+                                                                        plan, whichever is earlier.
+   Schedule G-1, California                Schedule G-1,            • Distributions made to an alternate payee under a qualified
+   line 8 =      taxable            –        line 6                     domestic relations order (applies only to qualified retirement
+                 amount                                                 plans, does not include IRAs).
+                                                                    • Distributions due to an IRS levy on the qualified retirement
+Change in Residency                                                     plan.
+                                                                    • Distributions due to a Franchise Tax Board notice to withhold
+California Resident. A California resident is taxed on all              on a qualified retirement plan.
+income, regardless of its source. If you are a California           • Distributions made after September 11, 2001, to reservists
+resident and receive a Keogh distribution attributable to your          while serving on active duty for at least 180 days.
+non-California self-employment income, your distribution minus      • Distributions made after August 17, 2006, to public safety
+your California basis is taxable by California.                         employees after separation from service after age 50.
+
+Tax on Early Distributions                                          Get form FTB 3805P for additional exceptions.
+                                                                    Prohibited Transactions. You may also owe tax on early
+California has a tax on early distributions from IRAs, any          distributions from an IRA or SEP if you enter into a prohibited
+qualified retirement plans, annuities, and modified endowment       transaction. If you enter into a prohibited transaction, your IRA
+contracts. This tax is generally the same as federal except the     ceases to be an IRA on the first day of the taxable year and
+California tax rate is 2½% rather than 10%, except for early        you are considered to have received a distribution of the entire
+distributions from SIMPLE plans during the two-year period          value of your IRA. If you are under age 59½ on the first day of
+beginning on the date the taxpayer first began participation        the taxable year, you are subject to the tax on early distributions.
+in the plan. In that case, the tax rate is 6% rather than 25%.      Get form FTB 3805P for more information.
+California does not have taxes similar to the federal tax on
+excess accumulations, tax on excess contributions, or tax on
+excess distributions.
+
+
+
+
+                                                                                                      FTB Pub. 1005 2025 Page 13
+Basis Worksheets
+Worksheet I — Figuring California Basis and Adjustment to Federal AGI
+Part A Pre-1987 California Basis
+(If you have already computed your California basis as of 12/31/24 and have always
+been a California resident; skip to Part B.)
+1 Enter your total federal deductions claimed prior to 1987. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1 ____________
+2 Enter your total California deductions claimed prior to 1987 (or the deductions you could have
+    claimed had you been a California resident) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 ____________
+3 Total California basis. Subtract line 2 from line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 ____________
+4 Enter your California basis recovered in prior years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4 ____________
+5 California basis as of 12/31/24. Subtract line 4 from line 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 ____________
+Part B Adjustment to Federal AGI and Remaining Pre-1987 California Basis
+1 Enter your taxable distribution from your federal Form 1040 or Form 1040-SR, line 4b (or line 5b). . . . . 1 ____________
+2 Enter your California basis as of 12/31/24. a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 ____________
+3 Enter the smaller of line 1 or line 2. Enter this amount on Schedule CA (540), Part I or
+    Schedule CA (540NR), Part II, Section A, line 4b or line 5b, column B . . . . . . . . . . . . . . . . . . . . . . . . . . 3 ____________
+4 Remaining California basis as of 12/31/25. Subtract line 3 from line 2. . . . . . . . . . . . . . . . . . . . . . . . . . . 4 ____________
+Worksheet II — Summary of California Basis
+                                             Deduction                California                           Federal        California       Remaining
+   Taxable        Pre-1987                                            Basis in       Total                 Taxable          Basis          California
+    Year         Contributions        Federal        California      Contribution Distribution             Amount         Recovered          Basis
+
+
+
+
+a) A nonresident or former nonresident will no longer receive a stepped-up basis for annual contributions and earnings attributable to
+   periods of nonresidency.
+
+
+
+Page 14 FTB Pub. 1005 2025
+Additional Information                                               General Phone Service
+Where To Get Tax Forms and                                           Telephone assistance is available year-round from 8 a.m. until
+                                                                     5 p.m. Monday through Friday, except holidays. Hours are
+Publications                                                         subject to change.
+By Internet – You can download, view, and print California tax       Telephone:     800.852.5711 from within the United States
+forms, instructions, and publications at ftb.ca.gov/forms.                          916.845.6500 from outside the United States
+By phone – Use our automated service to order California tax         California
+forms, publications, and booklets. Call 800.338.0505, and follow     Relay
+the recorded instructions. This service is available 24 hours a      Service:       711 or 800.735.2929 for persons with hearing or
+day, 7 days a week. Allow two weeks to receive your order. If                       speaking limitations
+you live outside of California, allow three weeks to receive your
+order.                                                               IRS:           800.829.1040 for federal tax questions
+In person – Many libraries and post offices provide free
+California tax booklets during the filing season. Employees
+                                                                     Asistencia En Español
+at libraries and post offices cannot provide tax information or      Asistencia telefónica está disponible durante todo el año desde
+assistance.                                                          las 8 a.m. hasta las 5 p.m. de lunes a viernes, excepto días
+                                                                     feriados. Las horas están sujetas a cambios.
+By mail – Write to:
+                                                                     Teléfono:       800.852.5711 dentro de los Estados Unidos
+       TAX FORMS REQUEST UNIT MS D120                                                916.845.6500 fuera de los Estados Unidos
+       FRANCHISE TAX BOARD
+       PO BOX 307                                                    Servicio de
+       RANCHO CORDOVA CA 95741-0307                                  Retransmisión
+                                                                     de California: 711 o 800.735.2929 para personas con
+Letters                                                                              limitaciones auditivas o del habla
+If you write to us, be sure to include your social security number   IRS:            800.829.1040 para preguntas sobre impuestos
+or individual taxpayer identification number, your daytime and                       federales
+evening telephone numbers, and a copy of the notice with your
+letter. Send your letter to:
+        FRANCHISE TAX BOARD
+        PO BOX 942840
+        SACRAMENTO CA 94240-0040
+We will respond to your letter within ten weeks. In some cases,
+we may need to call you for additional information.
+
+Franchise Tax Board Privacy Notice on
+Collection
+Our privacy notice can be found in annual tax booklets or
+online. Go to ftb.ca.gov/privacy to learn about our privacy
+policy statement, or go to ftb.ca.gov/forms and search for
+1131 to locate FTB 1131 EN-SP, Franchise Tax Board Privacy
+Notice on Collection - Aviso de Privacidad del Franchise Tax
+Board sobre la Recaudación. To request this notice by mail, call
+800.338.0505 and enter form code 948 when instructed.
+
+
+
+
+                                                                                                     FTB Pub. 1005 2025 Page 15
+

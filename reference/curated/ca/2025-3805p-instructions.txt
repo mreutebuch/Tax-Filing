@@ -1,0 +1,449 @@
+2025 Instructions for Form FTB 3805P | FTB.ca.gov
+
+# 2025 Instructions for Form FTB 3805P Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored Accounts
+
+References in these instructions are to the Internal Revenue Code (IRC) as of January 1, 2025, and to the California Revenue and Taxation Code (R&TC)
+
+## What's New
+
+Qualified Higher Education Expenses of IRC Section 529 Accounts – Enacted on July 4, 2025, the federal One Big Beautiful Bill Act (OBBBA), expands qualified higher education expenses eligible for tax-exempt distributions from Internal Revenue Code (IRC) Section 529 accounts by including additional expenses in connection with enrollment or attendance at an elementary or secondary public, private, or religious school. The OBBBA also allows tax-exempt distributions from IRC Section 529 accounts to be used for qualified postsecondary credentialing expenses, as defined in IRC Section 529(f). California law does not conform to these federal provisions. For California purposes, the earnings portion of a non-qualified distribution from an IRC Section 529 account is includable in California taxable income and subject to an additional tax of 2½%. For more information, get the instructions for Schedule CA (540), California Adjustments – Residents, or Schedule CA (540NR), California Adjustments – Nonresidents or Part-Year Residents, and FTB Pub. 1005, Pension and Annuity Guidelines.
+
+Conformity to Federal Act Provisions – For taxable years beginning on or after January 1, 2025, California law conforms to the following:
+
+- Provision under the federal Setting Every Community Up for Retirement Enhancement (SECURE) Act that repealed the maximum age of 70½ for traditional Individual Retirement Arrangement (IRA) contributions.
+
+- Provision under the federal Consolidated Appropriations Act (CAA), 2021, that allows disaster-related plan loans for qualified individuals.
+
+- Provision under the federal Consolidated Appropriations Act (CAA), 2023, that provides for the indexing for the $1,000 catch-up contribution to an IRA for individuals age 50 or older.
+
+- Provision under the CAA, 2023, IRC Section 414(v)(2) relating to the increased catch-up contribution limit for simple plans.
+
+- Provision under the CAA, 2023, IRC Section 414(v) relating to higher catch-up limit to apply at 60 to 63 years of age, inclusive.
+
+The above lists are not intended to be all-inclusive of the federal and state conformities and differences. For more information, refer to the California Revenue and Taxation Code (R&TC).
+
+## General Information
+
+In general, for taxable years beginning on or after January 1, 2025, California law conforms to the IRC as of January 1, 2025. However, there are continuing differences between California and federal law. When California conforms to federal tax law changes, we do not always adopt all of the changes made at the federal level. For more information, go to ftb.ca.gov and search for conformity. Additional information can be found in FTB Pub. 1001, Supplemental Guidelines to California Adjustments, the instructions for California Schedule CA (540) or Schedule CA (540NR), and the Business Entity tax booklets.
+
+The instructions provided with California tax forms are a summary of California tax law and are only intended to aid taxpayers in preparing their state income tax returns. We include information that is most useful to the greatest number of taxpayers in the limited space available. It is not possible to include all requirements of the R&TC in the instructions. Taxpayers should not consider the instructions as authoritative law.
+
+Health Savings Accounts (HSAs) – California does not conform to federal legislation that enacted HSAs beginning January 1, 2004.
+
+Special Rules for Certain Distributions from Qualified IRC Section 529 Tuition Plans – The CAA, 2023, allows qualified IRC Section 529 tuition plans that have been maintained for 15 years to rollover to a Roth IRA without a tax or penalty. Under the federal law, rollover distributions from an IRC Section 529 plan to a Roth IRA after December 31, 2023, will be treated in the same manner as the earnings and contributions of a Roth IRA. California law does not conform to this federal provision. Rollover distributions from an IRC Section 529 plan to a Roth IRA is includible in California taxable income and subject to an additional tax of 2½%. For more information, get the instructions for Schedule CA (540) or Schedule CA (540NR) and FTB Pub. 1005.
+
+Federal CAA, 2023 – The CAA, 2023, was enacted on December 29, 2022, and it includes the SECURE 2.0 Act of 2022. In general, California R&TC conforms to the changes to the retirement provisions under the SECURE 2.0 Act. For more general information, refer to the federal act and California R&TC.
+
+SECURE Act – The SECURE Act was enacted on December 20, 2019. In general, California R&TC does not conform to the changes. For more information, refer to the federal act and California R&TC.
+
+Coronavirus Aid, Relief, and Economic Security (CARES) Act – The federal CARES Act was enacted on March 27, 2020. In general, California R&TC does not conform to the changes. For more information, refer to the federal act and California R&TC.
+
+Consolidated Appropriations Act (CAA), 2021 – The CAA, 2021, was enacted on December 27, 2020. In general, California R&TC does not conform to the changes. California law conforms to the federal provision that amends the minimum age for certain multiemployer plans for individuals who were participants in the plan on or before April 30, 2013, and for distributions made before, on, or after December 27, 2020. For more information, refer to the federal act and California R&TC.
+
+Expanded Definition of Qualified Higher Education Expenses – For taxable years beginning on or after January 1, 2021, California law conforms to the expanded definition of qualified higher education expenses associated with participation in a registered apprenticeship program and payment on the principal or interest of a qualified education loan under the federal Further Consolidated Appropriations Act, 2020.
+
+Early Distributions Not Subject to Additional Tax – California conforms to the exceptions from the additional tax on early withdrawals from retirement plans for qualified distributions made after September 11, 2001 to reservists while serving on active duty for at least 180 days and for qualified distributions made after August 17, 2006, to public safety employees after separation from service after age 50. If you received one or more of these distributions and were assessed an additional tax, you may amend your returns to claim a refund.
+
+California Achieving a Better Life Experience (ABLE) Program – For taxable years beginning on or after January 1, 2016, the California Qualified ABLE Program was established and California generally conforms to the federal income tax treatment of ABLE accounts. This program was established to help blind or disabled people save money in a tax-favored ABLE account to maintain health, independence, and quality of life.
+
+For taxable years beginning on or after January 1, 2017, the residency requirement for a designated beneficiary of the California Qualified ABLE Program was expanded to include residents of the United States.
+
+For taxable years beginning on or after January 1, 2019, California conforms to certain provisions of the federal Tax Cut and Jobs Act (TCJA) relating to ABLE accounts. The TCJA increases the limit on contributions made by the designated beneficiary to ABLE accounts up to the federal poverty level and allows IRC Section 529 plan accounts to rollover to ABLE account without penalty.
+
+Registered Domestic Partners (RDPs) – For purposes of California income tax, references to a spouse, husband, or wife also refer to a California RDP unless otherwise specified. When we use the initials RDP they refer to both a California registered domestic “partner” and a California registered domestic “partnership,” as applicable. For more information on RDPs, get FTB Pub. 737, Tax Information for Registered Domestic Partners.
+
+## A. Purpose
+
+Use form FTB 3805P, Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored Accounts, to report any additional tax you may owe on an early distribution from an IRA, other qualified retirement plan, annuity, modified endowment contract, or medical savings account (MSA).
+
+## B. Who Must File
+
+File form FTB 3805P if you:
+
+- Received an early taxable distribution from a qualified retirement plan and a distribution code other than 2, 3, or 4 is shown in box 7 of federal Form 1099-R, Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.
+
+- Received and owe tax on an early distribution from your IRA, other qualified retirement plan, annuity, or modified endowment contract, and you incorrectly have an exception code in box 7 of federal Form 1099-R.
+
+- Received and owe tax on distributions from Coverdell education savings accounts (ESAs), qualified tuition programs (QTPs), or ABLE accounts in excess of amounts spent for educational or qualified disability expenses (complete Part II).
+
+- Received taxable distributions from an Archer MSA.
+
+- Meet an exception to the tax on early distributions and distribution code 2, 3, or 4 is NOT shown or is incorrect on federal Form 1099‑R. (You must file even if you do not owe any tax.)
+
+You do not have to file form FTB 3805P if you:
+
+- Rolled over the taxable part of all distributions you received during the year into another qualified plan within 60 days of receipt.
+
+- Received an early distribution from your plan but meet an exception to the tax (distribution code 2, 3, or 4 must be correctly shown on federal Form 1099-R).
+
+California and federal laws are generally the same for the tax on early distributions except for the rate of tax assessed. California does not conform to all of the federal exceptions to the additional tax on early distributions. The amount of an IRA or Keogh distribution included in income may differ for state and federal tax purposes. Also, California does not have taxes similar to the tax on excess contributions to traditional IRAs, Roth IRAs, Coverdell ESAs, ABLE accounts, Archer MSAs, or tax on excess accumulation in qualified retirement plans.
+
+Such federal taxes are figured on federal Form 5329, Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored Accounts.
+
+Joint Returns. Each spouse/RDP must complete a separate form FTB 3805P for taxes attributable to his or her distribution from a qualified retirement plan as described above. If both spouses/RDPs owe a tax on early distributions, enter the combined tax from both forms on Form 540, California Resident Income Tax Return, line 63 or Form 540NR, California Nonresident or Part-Year Resident Income Tax Return, line 73.
+
+Federal law does not recognize RDPs; therefore, there may be additional tax on early distributions for federal purposes, but not for California purposes. For more information on RDPs, get FTB Pub. 737.
+
+IRA Contributions. Do not file form FTB 3805P to report a deduction for contributions to your IRA or Keogh plan. Get the instructions for Schedule CA (540 or 540NR).
+
+If you made a nondeductible IRA or Keogh contribution in prior years, get FTB Pub. 1005 for information on how to compute the taxable portion of your IRA distribution that is subject to the additional tax.
+
+## C. When and Where to File
+
+If you are required to file a 2025 Form 540 or Form 540NR, you must attach your 2025 form FTB 3805P to your tax return.
+
+If you are not required to file Form 540 or Form 540NR, but have to file form FTB 3805P as described in General Information B, Who Must File, you must still complete and file this form with the Franchise Tax Board (FTB) by the due date for filing Form 540 or Form 540NR. If you are filing form FTB 3805P separately from Form 540 or Form 540NR, you must sign form FTB 3805P. If you meet the requirements of the Mandatory e-Pay program, you must make all payments electronically, regardless of the tax year or amount. Go to ftb.ca.gov/e-pay. Send your completed form FTB 3805P and your check or money order payable to the “Franchise Tax Board” for the total of any taxes due. Write your social security number (SSN) or individual taxpayer identification number (ITIN) and “2025 FTB 3805P” on your check or money order. Make all checks or money orders payable in U.S. dollars and drawn against a U.S. financial institution.
+
+Mail
+Franchise Tax Board
+
+PO Box 942867
+
+Sacramento, CA 94267-0001
+
+If you are paying tax for a previous year, you must complete that taxable year’s version of form FTB 3805P. If you have filed your Form 540 or Form 540NR for the previous year and you have no adjustments to income that require you to file an amended tax return, file only form FTB 3805P.
+
+## D. Definitions
+
+Qualified Retirement Plan – A qualified retirement plan includes:
+
+- A qualified pension, profit-sharing, or stock bonus plan.
+
+- A Keogh plan.
+
+- A qualified cash or deferred arrangement (CODA) described in IRC Section 401(k).
+
+- A qualified annuity plan.
+
+- A tax-sheltered annuity contract.
+
+- An individual retirement account or an individual retirement annuity.
+
+Coverdell ESAs and Archer MSAs are not qualified retirement plans.
+
+Traditional IRA – An individual retirement account or an individual retirement annuity described in IRC Sections 408(a) and (b), including a simplified employee pension (SEP) IRA, but not including a SIMPLE IRA or a Roth IRA.
+
+SEP IRA – An employer-sponsored plan under which an employer can make contributions to IRAs established for its employees. The term SEP IRA means an IRA that receives contributions made under an SEP. The term SEP includes a salary reduction described in IRC Section 408(k)(6).
+
+SIMPLE IRA – A written arrangement established under IRC Section 408(p) that provides a simplified tax-favored retirement plan for small employers. A SIMPLE IRA can be an individual retirement arrangement or an individual retirement annuity.
+
+Roth IRA – An IRA that meets the requirements of IRC Section 408A. Generally, for purposes of this form, the same rules that apply to traditional IRAs apply to Roth IRAs. For additional information about Roth IRAs, get federal Pub. 590-A, Contributions to Individual Retirement Arrangements (IRAs), and federal Pub. 590-B, Distributions from Individual Retirement Arrangements (IRAs), federal Form 8606, Nondeductible IRAs, and FTB Pub. 1005.
+
+Early Distributions – Generally, any distribution from your qualified retirement plan, annuity, or modified endowment contract that you receive before you reach age 59½ is an early distribution. The portion of the early distribution that is included in income is subject to an additional 2½% tax. (If the early distribution is from a SIMPLE retirement plan received during the first two-year period beginning on the date you first began participating in the plan, the portion included in income is subject to an additional 6% tax.)
+
+Rollover – A tax-free distribution (withdrawal) of assets from one qualified retirement plan that is contributed to another plan. You must complete the rollover within 60 days following the distribution for it to qualify for tax-free treatment. Any taxable amount not rolled over within 60 days should be included in income and may be subject to an additional 2½% tax. Get federal Pub. 590-A for more information.
+
+Effective for taxable years beginning on or after January 1, 2007, the IRS allows a one-time rollover from an IRA to an HSA. California does not conform to this provision. Under California law any distribution from an IRA to an HSA must be added to adjusted gross income (AGI) on the taxpayer’s California return and would be subject to a 2½% additional tax under the rules for premature distributions under IRC Section 72.
+
+Federal law allows an exception of additional tax on qualified recovery assistance distributions. California does not conform to federal law regarding qualified recovery assistance distributions.
+
+Tax on Early Distributions – The tax on early distributions from qualified retirement plans does not apply to any of the following:
+
+- 2025 IRA contributions withdrawn during the year or 2024 excess contributions withdrawn in 2025 before the filing date (including extensions) of your 2024 income tax return.
+
+- Excess IRA contributions for years before 2024 that were withdrawn in 2025, and 2024 excess contributions withdrawn after the due date (including extensions) of your 2024 income tax return, if no deduction was allowed for the excess contributions, and the total IRA contributions for the taxable year for which the excess contributions made were not more than $7,000 or $8,000 if age 50 or older at the end of 2024 (or if the total contributions for the year included employer contributions to an SEP IRA, increase the $7,000 by the smaller of the amount of the employer contributions to the SEP or $69,000). For taxable years before 2002, refer to federal Form 5329 instructions.
+
+- The part of your IRA distributions that represents a return of nondeductible IRA contributions figured on federal Form 8606.
+
+- The part of your IRA distributions that represents a return of nondeductible contributions made before 1987.
+
+- Distributions from a traditional IRA that are converted to a Roth IRA.
+
+- Distributions rolled over to another retirement arrangement or plan.
+
+- Distributions of excess contributions from a qualified cash or deferred arrangement.
+
+- Distributions of excess aggregate contributions to meet nondiscrimination requirements for employer matching and employee contributions.
+
+- Distributions of excess deferrals.
+
+- Amounts distributed from unfunded deferred compensation plans of tax-exempt or state and local government employers. (IRC Section 457 plans.)
+
+See the specific line instructions for line 2 for other distributions that are not subject to the tax.
+
+Coverdell ESAs – A trust or custodial account described in IRC Section 530 that is created or organized in the United States exclusively for the purpose of paying the qualified higher education expenses of the designated beneficiary of the account.
+
+Taxpayers may deposit up to $2,000 per year for taxable years beginning on or after 2002 into a Coverdell ESA for a child under age 18. The total contributions (by all taxpayers) for the child during the taxable year may not exceed $2,000 for taxable years beginning on or after 2002 and each contributor is subject to the contributions limit of IRC Section 530(c) based on AGI.
+
+Distributions from a Coverdell ESA that exceed the child’s qualified higher education expenses in a tax year are generally subject to income tax and to an additional tax of 2½% (figured in Part II of form FTB 3805P).
+
+For additional information, see federal Pub. 970, Tax Benefits for Education.
+
+Archer Medical Savings Accounts (MSAs) – A tax-exempt trust or custodial account set up in the United States exclusively for paying the qualified medical expenses of the account holder in conjunction with a high deductible health plan. Federal law does not treat an RDP individual as a spouse in connection with the tax treatment of an Archer MSA.
+
+Federal Form 8853, Archer MSAs and Long-Term Care Insurance Contracts, is used to report general information about new MSAs, to figure your MSA deduction, and to figure your taxable distribution for MSAs. California law is the same as federal law regarding MSA contributions and deductions but is different regarding the amount of additional tax on MSA distributions not used for qualified medical expenses. The additional tax is 12.5% for California.
+
+Therefore, for California purposes, there is no separate form to file to report general information about new MSAs or to figure your MSA deduction. However, if you have a taxable MSA distribution, you must file form FTB 3805P to figure the additional tax.
+
+California ABLE Accounts – A California ABLE program trust established exclusively for paying the qualified disability expenses of the designated beneficiary.
+
+Federal Form 5329 is used to figure additional taxes on tax-favored accounts for distributions not used for qualified disability expenses. If distributions from your ABLE account during a year are not more than your qualified disability expenses for that year, no amount is taxable for that year. If the total amount distributed during a year is more than your qualified disability expenses for that year, the earnings portion of the distribution is included in your income for that year and subject to additional tax. For additional information, get federal Pub. 907, Tax Highlights for Persons with Disabilities.
+
+California law is the same as federal law regarding distribution rules but is different regarding the amount of additional tax on ABLE distributions not used for qualified disability expenses. The additional tax is 2½% for California.
+
+Therefore, for California purposes, if you have a taxable ABLE distribution, you must file form FTB 3805P to figure the additional tax.
+
+## Specific Line Instructions
+
+### Private Mail Box (PMB)
+
+Include the PMB in the address field. Write “PMB” first, then the box number. Example: 111 Main Street PMB 123.
+
+## Part I – Additional Tax on Early Distributions
+
+### Line 1 – Early Distributions Included in Income
+
+Qualified Retirement Plans (including IRAs). Enter the amount of early distributions included in income that you received from a qualified retirement plan, including traditional IRAs and Roth IRAs (and income earned on excess contributions to your IRAs), before you reached age 59½. The amount of the early distributions you must include in income for California purposes may differ from the amount reported on your federal return if the amount of contributions you deducted for California was different than the federal amount. A nonresident or former nonresident will no longer receive a stepped-up basis for annual contributions and earnings attributable to periods of nonresidency. You must report the difference on Schedule CA (540) or Schedule CA (540NR).
+
+For Form 540NR filers, the amount entered on line 1 is the taxable amount of early distributions reported on Schedule CA (540NR), Part II, Section A, line 4b or line 5b.
+
+Annuity Contracts. If you receive any distributions from an annuity contract before reaching age 59½, such amounts may also be subject to an additional 2½% tax on the portion which is includible in income. Refer to IRC Section 72(q) and federal Pub. 575, Pension and Annuity Income, for more information. Enter on line 1 the distribution included in income.
+
+Modified Endowment Contracts. In general, if before reaching age 59½ you received any distributions from a modified endowment contract, as defined in IRC Section 7702A and entered into after June 20, 1988, such amounts also are subject to an additional 2½% tax on the part of the distribution that is includible in income. Enter the distribution included in income on line 1.
+
+Prohibited Transactions. If you borrow from your individual retirement account or annuity, or pledge your individual retirement annuity as security for a loan, your account or annuity no longer qualified as an IRA on the first day of the tax year in which you did the borrowing or pledging. You are considered to have received a distribution of the entire value of your account or annuity at that time. Using your IRA as a basis for obtaining a benefit also is a prohibited transaction. If you were under age 59½ on the first day of the taxable year, enter on line 1 the entire value of the account that represents taxable income.
+
+Pledging of Account. If, during your taxable year, you use any part of your IRA as security for a loan, that part is considered distributed to you at the time pledged. If you were under age 59½ at the time of the pledge, enter the amount pledged on line 1.
+
+Collectibles. If your IRA invested funds in collectibles, you are considered to have received a distribution equal to the cost of any “collectible.” Collectibles include works of art, rugs, antiques, metals, gems, stamps, coins, alcoholic beverages, and certain other tangible personal property. The cost of any collectible in which you invested funds of your IRA in 2025 is deemed to be a distribution to you in 2025. If you were under age 59½ when the funds were invested, enter on line 1 the cost of the collectible included in income.
+
+Exception. Your IRA may invest in U.S. one, one-half, one-quarter, and one-tenth ounce gold coins and one-ounce silver coins minted by the U.S. Treasury Department. Your IRA can invest in certain platinum coins and certain gold, silver, palladium, and platinum bullion.
+
+Roth IRA Distributions. If you received an early Roth IRA distribution, you must generally include on line 1 of form FTB 3805P the amount from your 2025 federal Form 8606, line 19, even if you were age 59½. However, the amount to include on line 1 of form FTB 3805P may be smaller if you have an amount on line 18c of the Roth IRA Worksheet on page 8 of your 2001 through 2006, page 9 of your 2007 through 2016, page 10 of your 2017 through 2019, or page 11 of your 2020 through 2025 FTB Pub. 1005.
+
+In this case, you must recompute the amount to include on line 1 of form FTB 3805P by allocating the amount on your 2025 federal Form 8606, line 19. The amount on your 2025 federal Form 8606, line 19, is allocable to the amounts shown on the following lines, in the order shown (to the extent the amount was not allocable to a distribution from your 1998 federal Form 8606, line 20; your 1999 through 2008 federal Form 8606, line 19).
+
+- Your 2009 federal Form 8606, line 20; 2010 federal Form 8606, line 27; 2011-2025 federal Form 8606, line 20.
+
+- Your 2009 federal Form 8606, line 22; 2010 federal Form 8606, line 29; 2011-2025 federal Form 8606, line 22.
+
+- Your 2020-2025 FTB Pub. 1005, page 11, lines 19 and 18c.
+
+- Your 2017-2019 FTB Pub. 1005, page 10, lines 19 and 18c.
+
+- Your 2007-2016 FTB Pub. 1005, page 9, lines 19 and 18c.
+
+- Your 1999-2006 FTB Pub. 1005, page 8, lines 19 and 18c.
+
+- Your 2025 federal Form 8606, line 25c (completed using California amounts).
+
+For an example of this calculation, refer to the instructions for federal Form 5329, Specific Instructions, Part I, line 1.
+
+Any portion of your 2025 federal Form 8606, line 19, allocable to an amount on any of the lines below is subject to the penalty and must be included on line 1 of form FTB 3805P:
+
+- Your 2020-2025 FTB Pub. 1005, page 11, line 19.
+
+- Your 2017-2019 FTB Pub. 1005, page 10, line 19.
+
+- Your 2007-2016 FTB Pub. 1005, page 9, line 19.
+
+- Your 2000-2006 FTB Pub. 1005, page 8, line 19.
+
+- Your 2025 federal Form 8606, line 25c (completed using California amounts).
+
+### Line 2 – Early Distributions Not Subject to Additional Tax
+
+The additional tax does not apply to certain distributions specifically excepted by the IRC. Enter on line 2 the amount not subject to additional tax. In the box on line 2, enter the applicable exception number (01 – 25) from the following list. If more than one exception applies, enter 99.
+
+Exceptions
+
+01
+Qualified retirement plan distributions (does not apply to IRAs) you received after separation from service when the separation from service occurs in or after the year you reach age 55 (age 50 for qualified public safety employees and private sector firefighters) or 25 years of service under the plan, whichever is earlier.
+02
+Distributions made as part of a series of substantially equal periodic payments (made at least annually) for your life (or life expectancy) or the joint lives (or joint life expectancies) of you and your designated beneficiary (if from an employer plan, payments must begin after separation from service). Distributions received as periodic payments on or after December 29, 2022, will not fail to be treated as substantially equal merely because they are received as an annuity. And, these distributions received as periodic payments will be deemed to be substantially equal if they are payable over a period that satisfies the section 401(a)(9) requirements relating to annuity payments.
+03
+Distributions due to total and permanent disability.
+04
+Distributions due to death (does not apply to modified endowment contracts).
+05
+Distributions to the extent you have deductible medical expenses that can be claimed on line 4 of federal Schedule A (Form 1040), Itemized Deductions, (does not apply to annuity or modified endowment contracts).
+06
+Distributions made to an alternate payee under a qualified domestic relations order (does not apply to IRAs).
+07
+Distributions made to unemployed individuals for health insurance premiums (applies only to IRAs).
+08
+Distributions made for higher education expenses (applies only to IRAs).
+09
+Distributions made for purchase of a first home, up to $10,000 (applies only to IRAs).
+10
+Distributions due to an IRS levy on the qualified retirement plan.
+11
+Qualified distributions to reservists while serving on active duty for at least 180 days.
+12
+Enter on line 2 the amount of a distribution you received when you were age 59½ or older, if you received federal Form 1099-R for a distribution that incorrectly indicated an early distribution (code 1, J, or S in box 7).
+13
+Not applicable.
+14
+Any distribution from a plan maintained by an employer, if:
+
+- You separated from service by March 1, 1986.
+
+- As of March 1, 1986, your entire interest was in pay status under a written election that provides a specific schedule for distribution of the entire interest.
+
+- The distribution is actually being made under the written election.
+
+15
+Distributions that are dividends paid with respect to stock described in IRC Section 404(k).
+16
+Distributions from annuity contracts are not subject to the additional tax on early distributions to the extent that the distributions are allocable to an investment in the contract before August 14, 1982.
+17
+Not applicable.
+18
+Not applicable.
+19
+Qualified birth or adoption distributions. A qualified distribution from a retirement plan for the birth or adoption of a child of up to $5,000 if made during the 1-year period beginning on the date your child was born or adopted.
+20
+Distributions due to terminal illness. Distributions that are made on or after the date on which your physician has certified that you have a terminal illness or physical condition that can reasonably be expected to result in death in 84 months or less after the date of the certification.
+21
+Corrective distributions of the income on excess contributions distributed before the due date of the tax return (including extensions).
+22
+Qualified distributions to victims of domestic abuse. A distribution made from an applicable eligible retirement plan and made to an individual during the 1-year period beginning on any date on which the individual is a victim of domestic abuse by a spouse or a domestic partner.
+23
+Distributions for eligible emergency expense distributions. A distribution from an applicable eligible retirement plan for the purposes of meeting the unforeseeable or immediate financial needs relating to necessary personal or family emergency expenses.
+24
+Qualified disaster distributions of up to $22,000 from qualified retirement accounts.
+25
+Distributions due to an FTB notice to withhold on a qualified retirement plan.
+99
+Enter this exception number if more than one exception applies.
+
+For additional exceptions applicable to annuity contracts, see IRC Section 72(q)(2) and federal Pub. 575.
+
+Form 540NR Filers: Enter the portion of the taxable distribution reported on Schedule CA (540NR), Part II, Section A, line 4b or line 5b that qualifies for an exception.
+
+Line 3 – Subtract the amount of distributions not subject to additional tax on line 2 from the amount of early distributions included on line 1. Enter the result on line 3. This is the amount of your distribution subject to tax.
+
+Line 4 – Multiply line 3 by 2½% (.025). However, if any amount on line 3 was a distribution from a SIMPLE IRA received within 2 years from the date you first participated in the plan, you must multiply that amount by 6% (.06) instead of 2½% (.025). SIMPLE distributions are included in box 1 and box 2a of federal Form 1099-R and are designated with a code “S” in box 7.
+
+Enter the result here and include it in the total on Form 540, line 63 or Form 540NR, line 73. If you are not required to file Form 540 or Form 540NR, see General Information C, When and Where to File.
+
+## Part II – Additional Tax on Certain Distributions from Education Accounts and ABLE Accounts
+
+Line 5 – For distributions included in income from Coverdell ESAs, enter the amount from Schedule CA (540), Part I, Section B, line 8z, column A, minus any amount in column B, or plus any amount in column C.
+
+For distributions included in income from QTPs, enter the amount from Schedule CA (540), Part I, Section B, line 8z, column A, plus any amount in column C.
+
+For taxable distributions from ABLE accounts, enter the amount included on Schedule CA (540), Part I, Section B, line 8q. Get the instructions for federal Form 5329 for more information on ABLE accounts.
+
+Form 540NR Filers: Enter the taxable amount of Coverdell ESA and QTP distributions included on Schedule CA (540NR), Part II, Section A, line 4b, column E.
+
+For taxable distributions from ABLE accounts, enter the amount included on Schedule CA (540NR), Part II, Section B, line 8q, column E.
+
+Line 6 – Enter on line 6 the total amount that is not subject to additional tax.
+
+The 2½% (.025) additional tax does not apply to distributions that are:
+
+- Due to the death or disability of the beneficiary.
+
+- Made on account of a scholarship, allowance, or payment described in IRC Section 25A(g)(2).
+
+- Made because of attendance by the beneficiary at a U.S. military academy. This exception applies only to the extent that the distribution does not exceed the costs of advanced education at the academy.
+
+- Included in income because you used the qualified education expenses to figure the American Opportunity Tax and Lifetime Learning credit.
+
+Line 8 – If you are not required to file Form 540 or Form 540NR, see General Information C, When and Where to File.
+
+## Part III – Additional Tax on Distributions from Archer and Medicare Advantage Medical Savings Accounts (MSAs)
+
+MSA Distributions. If a California taxpayer maintains an MSA, the taxpayer treats the MSA distribution as tax-free if used to pay for qualified medical expenses. If the distribution is not used for qualified medical expenses, the taxpayer is subject to the additional 12.5% tax on this distribution. Complete federal Form 8853 before completing this part.
+
+California does not conform to the federal law that allows a rollover from an MSA to an HSA to be treated as a tax-free distribution. If a California taxpayer rolls over his MSA into an HSA, this distribution is treated as an MSA distribution not used for qualified medical expenses and is subject to California income tax and the additional 12.5% tax under R&TC Section 17215. Complete federal Form 8853 before completing this part. If you have an amount on federal Form 8853, line 6b due to an MSA rollover to an HSA, then you must include this amount in line 9 and complete line 10.
+
+Line 9 – If you are required to file Form 540, and if there is no difference between federal and state law, then enter the amount from federal Form 8853, line 8. If a difference exists, enter the taxable amount of MSA distributions that was included on Schedule CA (540), Part I, Section B, line 8e, column A plus column C.
+
+Form 540NR Filers: Enter the taxable amount of MSA distributions that was included on Schedule CA (540NR), Part II, Section B, line 8e, column E.
+
+Line 10a – Check this box if you checked the box on federal Form 8853, line 9a.
+
+Any distribution amount that is excepted from the additional tax for federal purposes is also excepted from the additional tax for California. Refer to the instructions for federal Form 8853, line 9a.
+
+Form 540NR Filers: To figure the amount of the distribution that is subject to the additional 12.5% tax, do not include any portion of the taxable MSA distribution reported on Schedule CA (540NR), Part II, Section B, line 8e, column E that qualifies for an exception.
+
+Line 10b – If you are not required to file Form 540 or Form 540NR, see General Information C, When and Where to File.
+
+Medicare Advantage MSA Distributions. California law is the same as federal law regarding distributions from a Medicare Advantage MSAs. Any distribution that is subject to the 50% tax under IRC Section 138(c)(2) is also subject to a 50% tax for California purposes. Refer to the instructions for federal Form 8853, Section B, for more information.
+
+Line 11 – Enter the amount from federal Form 8853, line 13b.
+
+Form 540NR Filers: Enter 50% of the portion of the amount that you included on line 12 of federal Form 8853 (that does not qualify for any of the exceptions to the 50% tax) that was reported on Schedule CA (540NR), Part II, Section B, line 8e, column E.
+
+## Franchise Tax Board Privacy Notice on Collection
+
+Our privacy notice can be found in annual tax booklets or online. Go to ftb.ca.gov/privacy to learn about our privacy policy statement, or go to ftb.ca.gov/forms and search for 1131 to locate FTB 1131 EN-SP, Franchise Tax Board Privacy Notice on Collection – Aviso de Privacidad del Franchise Tax Board sobre la Recaudación. To request this notice by mail, call 800-338-0505 and enter form code 948 when instructed.
+
+## You are leaving ftb.ca.gov
+
+This link will take you to an external website that FTB does not own or control. We are not responsible for the privacy practices or content of the external site. If you proceed, you are subject to the privacy practices of the new site.
+
+Close
+Continue
+
+## Translate our website
+
+×Close
+
+This Google™ translation feature, provided on the Franchise Tax Board (FTB) website, is for general information only. Consult with a translator for official business.
+
+The web pages currently in English on the FTB website are the official and accurate source for tax information and services we provide. Any differences created in the translation are not binding on the FTB and have no legal effect for compliance or enforcement purposes. If you have any questions related to the information contained in the translation, refer to the English version.
+
+We translate some pages on the FTB website into Spanish. These pages do not include the Google™ translation application. For a complete listing of the FTB’s official Spanish pages, visit La página principal en español (Spanish home page).
+
+We cannot guarantee the accuracy of this translation and shall not be liable for any inaccurate information or changes in the page layout resulting from the translation application tool.
+
+This tool will not translate FTB applications, such as MyFTB, or tax forms and other files that are not in HTML format. Some publications and tax form instructions are available in HTML format and can be translated. Visit our Forms and Publications search tool for a list of tax forms, instructions, and publications, and their available formats.
+
+### Choose your language
+
+Close
+
+## Other links
+
+### Help
+
+- Find your answer online
+
+- Wait times
+
+- Chat
+
+- Contact us
+
+- State managed programs
+
+### About FTB
+
+- About us
+
+- Newsroom
+
+- Meetings
+
+- Careers
+
+- Data, reports, and plans
+
+### Resolve an issue
+
+- Respond to a letter
+
+- Taxpayer Advocate services
+
+- Report fraud
+
+- Report identity theft
+
+- Website help
+
+### Your rights
+
+- Accessibility
+
+- Disclaimer
+
+- Conditions of use
+
+- Privacy policy
+
+- Public records act
+
+- Acceso al idioma

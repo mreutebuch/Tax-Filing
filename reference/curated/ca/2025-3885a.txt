@@ -1,0 +1,55 @@
+ TAXABLE YEAR
+                         Depreciation and                                                                                                                                       CALIFORNIA FORM
+
+
+     2025                Amortization Adjustments                                                                                                                                  3885A
+                         Do not complete this form if your California depreciation amounts are the same as federal amounts.
+Name(s) as shown on tax return                                                                                                                                   SSN or ITIN
+
+
+Part I Identify the Activity as Passive or Nonpassive (See instructions.)                                             Business or activity to which form FTB 3885A relates
+
+ 1 □ This form is being completed for a passive activity.
+   □ This form is being completed for a nonpassive activity.
+Part II Election to Expense Certain Tangible Property (IRC Section 179)
+ 2 Enter the amount from line 12 of the Tangible Property Expense Worksheet in the instructions . . . . . . . . . . . . . . . .                                         2
+
+Part III      Depreciation                        (a)                                (b)                             (c)                      (d)             (e)                      (f)
+                                        Description of property                 Date placed in                California basis               Method         Life or                California
+                                          placed in service                        service                    for depreciation                               rate            depreciation deduction
+                                                                                 mm/dd/yyyy
+
+ 3
+
+
+
+
+ 4   Add the amounts on line 3, column (f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+ 5   California depreciation for assets placed in service prior to 2025 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+ 6   Total California depreciation from this activity. Add the amounts on line 2, line 4, and line 5 . . . . . . . . . . . . . . . . . . . . . . 6
+ 7   Total federal depreciation from this activity. Enter depreciation from federal Form 4562, line 22 . . . . . . . . . . . . . . . . . . . 7
+ 8   a If line 6 is more than line 7, enter the difference here and see instructions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8a
+     b If line 6 is less than line 7, enter the difference here and see instructions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8b
+
+Part IV       Amortization                          (a)                              (b)                             (c)                       (d)       (e)              (f)
+                                            Description of cost               Date amortization               California basis                Code Period or          California
+                                                                                   begins                     for amortization               section percentage amortization deduction
+                                                                                mm/dd/yyyy
+
+ 9
+
+
+
+
+10   Total California amortization from this activity. Add the amounts on line 9, column (f) . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+11   California amortization of costs that began before 2025 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+12   Total California amortization from this activity. Add the amounts on line 10 and line 11. . . . . . . . . . . . . . . . . . . . . . . . . . 12
+13   Total federal amortization from this activity. Enter amortization from federal Form 4562, line 44. . . . . . . . . . . . . . . . . . . 13
+14   a If line 12 is more than line 13, enter the difference here and see instructions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14a
+     b If line 12 is less than line 13, enter the difference here and see instructions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14b
+
+
+
+
+         For Privacy Notice, get FTB 1131 EN-SP.                                           7631253                                                                    FTB 3885A 2025
+

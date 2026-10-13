@@ -1,0 +1,4 @@
+Title: FTB Publication 1005 (2025), Pension and Annuity Guidelines
+URL: https://www.ftb.ca.gov/forms/2025/2025-1005-publication.pdf
+Local copy: p1005.pdf (gitignored; download it from the URL above and save it in this folder)
+Extracted text: p1005.txt

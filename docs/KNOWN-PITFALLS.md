@@ -86,3 +86,85 @@ reference file.
   (Form 8959 Line 22) covers the liability or leaves a balance due.
 - **Citation:** *(Source: additional-medicare-tax.md, How Employer
   Withholding Works)*
+
+## Pitfall 9: Part-Year Filers Must Split Income by Residency Period (California)
+
+- **Mistake:** Putting all income in Schedule CA (540NR) column E, or
+  dropping all income earned before a move. California taxes everything
+  earned while a resident and only California-source income while a
+  nonresident.
+- **How to verify:** For each Schedule CA (540NR) row, confirm the
+  column E amount equals the resident-period amount plus the
+  California-source nonresident-period amount, and that column D still
+  holds the all-year total.
+- **Citation:** *(Source: ca-residency-part-year.md, How Part-Year
+  Residents Are Taxed)*
+
+## Pitfall 10: California Does Not Tax the State Refund (California)
+
+- **Mistake:** Leaving a 1099-G state income tax refund in California
+  income because it is on the federal return.
+- **How to verify:** The refund amount appears in column A and again in
+  column B of Schedule CA (540NR) Part II Section B line 1, and matches
+  1099-G Box 2.
+- **Citation:** *(Source: ca-schedule-ca-540nr.md, Adjustments Included
+  in This Plugin)*
+
+## Pitfall 11: Bonus Depreciation and HSA Do Not Carry Over (California)
+
+- **Mistake:** Copying federal rental depreciation (including bonus
+  depreciation) or federal HSA treatment to the California return.
+- **How to verify:** Confirm an FTB 3885A adjustment exists for any
+  property with bonus depreciation, and that HSA contributions and
+  earnings are added back in column C.
+- **Citation:** *(Source: ca-schedule-ca-540nr.md, Depreciation; HSA)*
+
+## Pitfall 12: SDI Is Not a Credit and Withholding Excludes Other States (California)
+
+- **Mistake:** Adding SDI (W-2 Box 14) or tax withheld by another state
+  to Form 540NR line 81.
+- **How to verify:** Line 81 equals the sum of California income tax
+  withheld shown on W-2 Box 17 and the listed 1099 boxes only.
+- **Citation:** *(Source: ca-credits-withholding.md, Withholding; SDI)*
+
+## Pitfall 13: Retirement Income Received While a Nonresident (California)
+
+- **Mistake:** Leaving a nonresident-period IRA or pension distribution
+  in Schedule CA (540NR) column E because the 1099-R total is on the
+  federal return.
+- **How to verify:** Each 1099-R distribution has a date. Only amounts
+  received on or after the first day of California residency are in
+  column E (lines 4a-4b, 5a-5b). If any distribution has no date, the
+  split is unverified: ask for the date.
+- **Citation:** *(Source: ca-retirement-distributions.md, Nonresident
+  Period; Part-Year Residents)*
+
+## Pitfall 14: Early-Distribution Tax and Box 7 Codes (California)
+
+- **Mistake:** Ignoring the 2.5% California additional tax on an early
+  taxable distribution received as a resident, or assuming every federal
+  exception applies in California.
+- **How to verify:** For each taxable distribution received as a
+  resident before age 59½, read 1099-R Box 7. FTB 3805P is needed for a
+  code other than 2, 3 or 4, for an exception code that is wrong when tax
+  is owed, and when an exception applies but code 2, 3 or 4 is missing or
+  incorrect. The result is entered as the filer-supplied `other_tax.line73`.
+  A distribution received while a nonresident has no California additional
+  tax. The FTB 3805P exception list is by exception number, not Box 7
+  code, so a code-to-exception mapping is unverified.
+- **Citation:** *(Source: ca-retirement-distributions.md, Additional Tax
+  on Early Distributions)*
+
+## Pitfall 15: Rental Loss Restated for a Part-Year Resident (California)
+
+- **Mistake:** Carrying the federal rental result to column E, or
+  treating the rental as non-passive because federal law allows it.
+- **How to verify:** The rental has a California depreciation figure
+  (FTB 3885A, no bonus depreciation, Section 179 at most $25,000). All
+  rentals are passive for California, so a loss is limited by FTB 3801,
+  and suspended losses from prior years are prorated between the
+  resident and nonresident periods. Column E holds only the
+  resident-period part for property outside California.
+- **Citation:** *(Source: ca-rental-depreciation-passive.md, Depreciation
+  Differences; Passive Activity Rules; Part-Year Residents and Rental
+  Property)*

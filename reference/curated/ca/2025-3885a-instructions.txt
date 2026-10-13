@@ -1,0 +1,256 @@
+2025 Instructions for Form FTB 3885A | FTB.ca.gov
+
+# 2025 Instructions for Form FTB 3885A Depreciation and Amortization Adjustments
+
+References in these instructions are to the Internal Revenue Code (IRC) as of January 1, 2025, and to the California Revenue and Taxation Code (R&TC).
+
+## General Information
+
+In general, for taxable years beginning on or after January 1, 2025, California law conforms to the Internal Revenue Code (IRC) as of January 1, 2025. However, there are continuing differences between California and federal law. When California conforms to federal tax law changes, we do not always adopt all of the changes made at the federal level. For more information, go to ftb.ca.gov and search for conformity. Additional information can be found in FTB Pub. 1001, Supplemental Guidelines to California Adjustments, the instructions for California Schedule CA (540), California Adjustments – Residents, or Schedule CA (540NR), California Adjustments – Nonresidents or Part-Year Residents, and the Business Entity tax booklets.
+
+The instructions provided with California tax forms are a summary of California tax law and are only intended to aid taxpayers in preparing their state income tax returns. We include information that is most useful to the greatest number of taxpayers in the limited space available. It is not possible to include all requirements of the California Revenue and Taxation Code (R&TC) in the instructions. Taxpayers should not consider the instructions as authoritative law.
+
+Intangible Drilling and Development Costs – California law does not allow the IRC Section 263(c) deduction for intangible drilling and development costs in the case of oil and gas wells paid or incurred on or after January 1, 2024. For more information, see R&TC Section 17260 and get Schedule P (540 or 540NR), Alternative Minimum Tax and Credit Limitations, and FTB Pub. 1001.
+
+Percentage Depletion – For taxable years beginning on or after January 1, 2024, California law does not allow the calculation of depletion as a percentage of gross income from the property for specified natural resources, including coal, oil shale, oil and gas wells. R&TC Sections 17681.3 and 17681.6 allowing state nonconformity to federal rules for percentage depletion of certain refiner exclusions as well as the temporary suspension of taxable income limit for marginal production have also been repealed. For more information, see R&TC Section 17681 and get Schedule P (540 or 540NR) and FTB Pub. 1001.
+
+## A. Purpose
+
+Use form FTB 3885A, Depreciation and Amortization Adjustments, only if there is a difference between the amount of depreciation and amortization allowed as a deduction using California law and the amount allowed using federal law.
+
+## B. Federal/State Differences
+
+California law and federal law have not always allowed the same depreciation methods, special credits, or accelerated write-offs. As a result, the recovery periods or the basis on which the depreciation is figured for California may be different from the amounts used for federal purposes. You will probably have reportable differences if all or part of your assets were placed in service:
+
+- Before January 1, 1987. California disallowed depreciation under the federal accelerated cost recovery system. Continue to figure California depreciation for those assets in the same manner as in prior years for those assets.
+
+- On or after January 1, 1987. California provides special credits and accelerated write-offs that affect the California basis of qualifying assets. California did not conform to all changes to federal law enacted in 1993; therefore, the California basis or recovery periods may be different for some assets.
+
+- On or after September 11, 2001. If you claimed the 30 percent additional depreciation for federal purposes, California has not conformed to the federal Job Creation and Worker Assistance Act of 2002 which allows taxpayers to take an additional first year depreciation deduction and Alternative Minimum Tax depreciation adjustment for property placed in service after September 10, 2001.
+
+The following list is not intended to be all-inclusive of the federal and state differences. For more information, get FTB Pub. 1001:
+
+- Amortization of certain intangibles (IRC Section 197)
+
+- Grapevines subject to Phylloxera or Pierce’s disease
+
+- Additional depreciation (IRC Section 168(k))
+
+- Start-up expenses (IRC Section 195)
+
+- Asset expense election (IRC Section 179)
+
+- Expensing rules for certain productions (IRC Section 181)
+
+- Federal modifications to amortization of research and experimental expenditures (IRC Sections 174 and 174A)
+
+- 100% depreciation election for qualified production property (IRC Section 168(n))
+
+Luxury automobile depreciation: Sport utility vehicles and minivans built on a truck chasis are included in the definition of trucks and vans when applying the 6,000 pound gross weight limit. However, California does not conform to the federal modifications to depreciation limitations on luxury automobiles (IRC Section 280F).
+
+Depreciation limitations placed in service in the calendar year 2025:
+
+### For passenger automobiles (that are not trucks or vans):
+
+Tax Year | Amount
+
+1st Tax Year | $3,860
+
+2nd Tax Year | $6,100
+
+3rd Tax Year | $3,650
+
+Each Succeeding Year | $2,175
+
+### For trucks and vans:
+
+Tax Year | Amount
+
+1st Tax Year | $4,360
+
+2nd Tax Year | $6,900
+
+3rd Tax Year | $4,150
+
+Each Succeeding Year | $2,475
+
+For lease inclusion indexing amounts, go to ftb.ca.gov/forms/search and enter lease inclusion.
+
+Differences may also occur for other less common reasons, and the instructions for Schedule CA (540) or Schedule CA (540NR) list them on the line for the type of income likely to be affected. Get FTB Pub. 1001 for more information about figuring and reporting these adjustments.
+
+If reporting a difference for assets related to a passive activity, get form FTB 3801, Passive Activity Loss Limitations, for more information about passive activities.
+
+Do not use form FTB 3885A to report depreciation expense from federal Form 2106, Employee Business Expenses. Instead, see the instructions for Schedule CA (540), Part II, line 19 or Schedule CA (540NR), Part III, line 19.
+
+## Specific Line Instructions
+
+Prepare and file a separate form FTB 3885A for each business or activity on your tax return that has a difference between California and federal depreciation or amortization. Enter the name of the business or activity in the space provided at the top of the form. If you need more space, attach additional sheets. However, complete Part II, Election to Expense Certain Tangible Property (IRC Section 179), only once.
+
+### Part I Identify the Activity as Passive or Nonpassive
+
+#### Line 1
+
+Check the box to identify the activity as passive or nonpassive. A passive activity is any activity involving the conduct of any trade or business in which you did not materially participate. Get form FTB 3801 for more information.
+
+If the activity is passive, use this form as a worksheet to figure the depreciation adjustment to carry to form FTB 3801. Beginning in 1994, and for federal purposes only, rental real estate activities of persons in real property business are not automatically treated as passive activities. California does not conform to this provision.
+
+### Part II Election To Expense Certain Tangible Property (IRC Section 179)
+
+If you qualify, you may elect to expense part of the cost of depreciable personal property used in your trade or business and certain other property described in federal Pub. 946, How to Depreciate Property. To qualify, you must have purchased property, as defined in IRC Section 179(d)(2), and placed it in service during 2025, or have a carryover of unused cost from 2024. If you elect this deduction, you must reduce your California depreciable basis by the IRC Section 179 expense.
+
+Federal limitation amounts may be different than California limitation amounts. For California purposes, the maximum IRC Section 179 expense deduction allowed is $25,000.
+
+Complete the worksheet below to figure IRC Section 179 expense for California. Include all assets qualifying for the deduction because the limit applies to all qualifying assets as a group rather than to each asset individually. Get federal Form 4562, Depreciation and Amortization, for more information.
+
+### Tangible Property Expense Worksheet
+
+- Maximum dollar limitation for California: $25,000
+
+- Total cost of IRC Section 179 property placed in service
+
+- Threshold cost of IRC Section 179 property before reduction in limitation: $200,000
+
+- Reduction in limitation. Subtract line 3 from line 2. If zero or less, enter -0-
+
+- Dollar limitation for tax year. Subtract line 4 from line 1. If zero or less, enter -0-
+
+- (a) Description of property
+
+(b) Cost
+
+(c) Elected cost
+
+- Listed property (elected IRC Section 179 cost)
+
+- Total elected cost of IRC Section 179 property. Add line 6, column (c) and line 7
+
+- Tentative deduction. Enter the smaller of line 5 or line 8
+
+- Carryover of disallowed deduction from 2024
+
+- Enter the smaller of business income (not less than zero) or line 5
+
+- IRC Section 179 expense deduction for California. Add line 9 and line 10, but do not enter more than line 11. Also, enter the result on form FTB 3885A, line 2
+
+- Carryover of disallowed deduction to 2026. Add line 9 and line 10. Subtract line 12 from the result
+
+### Part III Depreciation
+
+#### Line 3
+
+Complete column (a) through column (f) for each tangible asset or group of assets placed in service during the tax year. Use the California basis for assets on which you elected to take the IRC Section 179 deduction. The California basis will be the difference between line 6, column (b) and line 6, column (c) of the Tangible Property Expense Worksheet in Part II.
+
+#### Line 8a and Line 8b
+
+Are you using this form as a worksheet in connection with form FTB 3801?
+
+Yes
+
+Enter the amount from line 8a or line 8b on form FTB 3801, Side 2, California Passive Activity Worksheet, column (e).
+
+No
+
+Include the amount from line 8a on Schedule CA (540), Part l, Section B, line 3, line 5, or line 6 or Schedule CA (540NR), Part II, Section B, line 3, line 5, or line 6, column B for business income or loss, supplemental income or loss, or farming income or loss, respectively.
+
+Include the amount from line 8b on Schedule CA (540), Part I, Section B, line 3, line 5, or line 6 or Schedule CA (540NR), Part II, Section B, line 3, line 5, or line 6, column C for business income or loss, supplemental income or loss, or farming income or loss, respectively.
+
+### Part IV Amortization
+
+#### Line 9
+
+Complete column (a) through column (f) for intangible assets placed in service during the tax year. Use the California basis and the California recovery period.
+
+#### Line 14a and Line 14b
+
+Are you using this form as a worksheet in connection with form FTB 3801?
+
+Yes
+
+Enter the amount from line 14a or line 14b on form FTB 3801, Side 2, California Passive Activity Worksheet, column (e).
+
+No
+
+Include the amount from line 14a on Schedule CA (540), Part I, Section B, line 3, line 5, or line 6 or Schedule CA (540NR), Part II, Section B, line 3, line 5, or line 6, column B for business income or loss, supplemental income or loss, or farming income or loss, respectively.
+
+Include the amount from line 14b on Schedule CA (540), Part I, Section B, line 3, line 5, or line 6 or Schedule CA (540NR), Part II, Section B, line 3, line 5, or line 6, column C for business income or loss, supplemental income or loss, or farming income or loss, respectively.
+
+## Franchise Tax Board Privacy Notice on Collection
+
+Our privacy notice can be found in annual tax booklets or online. Go to ftb.ca.gov/privacy to learn about our privacy policy statement, or go to ftb.ca.gov/forms and search for 1131 to locate FTB 1131 EN-SP, Franchise Tax Board Privacy Notice on Collection – Aviso de Privacidad del Franchise Tax Board sobre la Recaudación. To request this notice by mail, call 800-338-0505 and enter form code 948 when instructed.
+
+## You are leaving ftb.ca.gov
+
+This link will take you to an external website that FTB does not own or control. We are not responsible for the privacy practices or content of the external site. If you proceed, you are subject to the privacy practices of the new site.
+
+Close
+Continue
+
+## Translate our website
+
+×Close
+
+This Google™ translation feature, provided on the Franchise Tax Board (FTB) website, is for general information only. Consult with a translator for official business.
+
+The web pages currently in English on the FTB website are the official and accurate source for tax information and services we provide. Any differences created in the translation are not binding on the FTB and have no legal effect for compliance or enforcement purposes. If you have any questions related to the information contained in the translation, refer to the English version.
+
+We translate some pages on the FTB website into Spanish. These pages do not include the Google™ translation application. For a complete listing of the FTB’s official Spanish pages, visit La página principal en español (Spanish home page).
+
+We cannot guarantee the accuracy of this translation and shall not be liable for any inaccurate information or changes in the page layout resulting from the translation application tool.
+
+This tool will not translate FTB applications, such as MyFTB, or tax forms and other files that are not in HTML format. Some publications and tax form instructions are available in HTML format and can be translated. Visit our Forms and Publications search tool for a list of tax forms, instructions, and publications, and their available formats.
+
+### Choose your language
+
+Close
+
+## Other links
+
+### Help
+
+- Find your answer online
+
+- Wait times
+
+- Chat
+
+- Contact us
+
+- State managed programs
+
+### About FTB
+
+- About us
+
+- Newsroom
+
+- Meetings
+
+- Careers
+
+- Data, reports, and plans
+
+### Resolve an issue
+
+- Respond to a letter
+
+- Taxpayer Advocate services
+
+- Report fraud
+
+- Report identity theft
+
+- Website help
+
+### Your rights
+
+- Accessibility
+
+- Disclaimer
+
+- Conditions of use
+
+- Privacy policy
+
+- Public records act
+
+- Acceso al idioma

@@ -1,0 +1,4 @@
+Title: 2025 California Tax Rate Schedules (Schedules X, Y and Z)
+URL: https://www.ftb.ca.gov/forms/2025/2025-540-tax-rate-schedules.pdf
+Local copy: 2025-540-tax-rate-schedules.pdf (gitignored; download it from the URL above and save it in this folder)
+Extracted text: 2025-540-tax-rate-schedules.txt

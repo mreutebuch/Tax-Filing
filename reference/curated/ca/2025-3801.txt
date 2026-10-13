@@ -1,0 +1,234 @@
+ TAXABLE YEAR                                                                                                                                                                      CALIFORNIA FORM
+
+
+     2025                  Passive Activity Loss Limitations                                                                                                                            3801
+Attach to Form 540, Form 540NR, Form 541, or Form 100S.
+Name(s) as shown on tax return                                                                                                                                    SSN, ITIN, FEIN, or CA corporation no.
+
+
+
+Part I 2025 Passive Activity Loss
+               See the instructions for Part IV and Part V for federal Form 8582, Passive Activity Loss Limitations, before completing Part I.
+               Be sure to use California amounts.
+
+Rental Real Estate Activities with Active Participation
+
+ 1a Activities with net income from Part IV, column (a) . . . . . . . . . . . . . . . . . . .                         1a                                      00
+
+ 1b Activities with net loss from Part IV, column (b) . . . . . . . . . . . . . . . . . . . . .                       1b      (                          )    00
+
+ 1c Prior year unallowed losses from Part IV, column (c). . . . . . . . . . . . . . . . . .                           1c      (                          )    00
+
+ 1d Combine line 1a, line 1b, and line 1c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           1d                              00
+All Other Passive Activities
+
+ 2a Activities with net income from Part V, column (a) . . . . . . . . . . . . . . . . . . .                          2a                                      00
+
+ 2b Activities with net loss from Part V, column (b) . . . . . . . . . . . . . . . . . . . . . .                      2b      (                           ) 00
+
+ 2c Prior year unallowed losses from Part V, column (c). . . . . . . . . . . . . . . . . .                            2c      (                           ) 00
+
+ 2d Combine line 2a, line 2b, and line 2c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           2d                              00
+ 3 Combine line 1d and line 2d. If the result is net income or zero, see the instructions for line 3. If line 3 and
+    line 1d are losses, go to line 4. Otherwise, enter -0- on line 9 and go to line 10. See instructions. . . . . . . . . . .                                          3                              00
+
+Part II         Special Allowance for Rental Real Estate Activities with Active Participation
+                Enter all numbers in Part II as positive amounts. See instructions.
+
+
+ 4    Enter the smaller of losses from line 1d or line 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 4                              00
+
+ 5    Enter $150,000. If married/RDP filing a separate tax return, see instructions.                                   5                                      00
+ 6    Enter federal modified adjusted gross income, but not less than zero.
+      See instructions.
+      If line 6 is greater than or equal to line 5, skip line 7 and line 8, enter -0-
+      on line 9, and then go to line 10. Otherwise, go to line 7 . . . . . . . . . . . . . . .                         6                                      00
+
+ 7    Subtract line 6 from line 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          7                                      00
+
+ 8    Multiply line 7 by 50% (.50). Do not enter more than $25,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           8                              00
+
+ 9    Enter the smaller of line 4 or line 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        9                              00
+
+Part III          Total Losses Allowed
+
+10    Add the income, if any, from line 1a and line 2a and enter the total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        10                              00
+
+11    Total losses allowed from all passive activities for 2025. Add line 9 and line 10 . . . . . . . . . . . . . . . . . . . . . .                                   11                              00
+      See the instructions on Page 2 to find out how to report the losses on your tax return.
+
+
+
+
+            For Privacy Notice, get FTB 1131 EN-SP.                                             7451253                                                            FTB 3801 2025 Side 1
+California Worksheets                                                     Attach Side 2 to your California tax return.
+
+
+California Passive Activity Worksheet (See General Instructions for Step 1.)
+Use this worksheet to figure California income (loss) from passive activities before application of passive activity loss (PAL) rules.
+           (a)                        (b)                       (c)                       (d)                       (e)                        (f)
+    Passive Activity         Federal Schedule         California Schedule         Federal Amount         California Adjustment         California Amount
+ Enter a description of       Enter the name of         Enter the name of      Enter your current year Enter any adjustment          Combine column (d)
+       the activity          the federal form or     the California form or      federal net income          resulting from             and column (e)
+                          schedule on which you schedule, if any, used to (loss) before application differences in federal
+                            reported the activity   calculate the California       of the PAL rules        and California law
+                                                           adjustment
+
+
+
+
+California Adjustment Worksheets (See General Instructions for Step 4.)
+Use these worksheets to figure your California adjustments after application of the PAL rules.
+            (a)                        (b)                      (c)                        (d)                                                    (e)
+         Activities        Passive or Nonpassive      California Amount            Federal Amount                                       California Adjustment
+   Enter a description      Enter the character of Enter the California net      Enter the federal net                       Subtract the Total amount of column (d) from
+  of the activity. Group    the activity as passive income (loss) from the income (loss) from the                            the Total amount of column (c) and enter the
+ activities by the federal    or nonpassive for     activity after application activity after application                     difference in column (e) below. Individuals
+  schedules on which         California purposes        of the PAL rules           of the PAL rules                                  should transfer this amount to
+   they were reported                                                                                                          Schedule CA (540 or 540NR) as follows:
+
+          (a)                                   (b)                                   (c)                       (d)                               (e)
+  Schedule C Activities                Passive or Nonpassive                  California Amount           Federal Amount                California Adjustment
+                                                                                                                              If the amount below is positive, transfer the
+                                                                                                                               amount to Sch. CA (540), Part I or Sch. CA
+                                                                                                                             (540NR), Part II, Section B, line 3, column C.
+
+                                                                                                                           If the amount below is negative, transfer the amount
+                                                                                                                           to Sch. CA (540), Part I or Sch. CA (540NR), Part II,
+                                                                                                                            Section B, (as a positive amount) line 3, column B.
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    1(c)                       1(d)*                1(e)
+
+          (a)                                   (b)                                   (c)                       (d)                               (e)
+  Schedule E Activities                Passive or Nonpassive                  California Amount           Federal Amount                California Adjustment
+                                                                                                                              If the amount below is positive, transfer the
+                                                                                                                               amount to Sch. CA (540), Part I or Sch. CA
+                                                                                                                             (540NR), Part II, Section B, line 5, column C.
+
+                                                                                                                           If the amount below is negative, transfer the amount
+                                                                                                                           to Sch. CA (540), Part I or Sch. CA (540NR), Part II,
+                                                                                                                            Section B, (as a positive amount) line 5, column B.
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    2(c)                       2(d)**               2(e)
+
+          (a)                                   (b)                                   (c)                       (d)                               (e)
+  Schedule F Activities                Passive or Nonpassive                  California Amount           Federal Amount                California Adjustment
+                                                                                                                              If the amount below is positive, transfer the
+                                                                                                                               amount to Sch. CA (540), Part I or Sch. CA
+                                                                                                                             (540NR), Part II, Section B, line 6, column C.
+
+                                                                                                                           If the amount below is negative, transfer the amount
+                                                                                                                            to Sch. CA (540), Part I or Sch. CA (540NR), Part II,
+                                                                                                                             Section B, (as a positive amount) line 6, column B.
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3(c)                       3(d)***               3(e)
+*This amount should be the same as the amount reported on Sch. CA (540), Part I or Sch. CA (540NR), Part II, Section B, line 3, column A.
+**This amount should be the same as the amount reported on Sch. CA (540), Part I or Sch. CA (540NR), Part II, Section B, line 5, column A.
+***This amount should be the same as the amount reported on Sch. CA (540), Part I or Sch. CA (540NR), Part II, Section B, line 6, column A.
+
+
+
+             Side 2 FTB 3801 2025                                                             7452253
+Part IV through Part IX are not required to be filed with your California tax return and may be detached before filing form FTB 3801. Keep a copy for your
+records. Refer to the instructions for federal Form 8582 for specific instructions on how to complete Part IV through Part IX.
+Part IV Complete this part before Part I, line 1a, line 1b, and line 1c.
+                                                                                     Current year                               Prior year                Overall gain or loss
+                                                                                (a)                  (b)                             (c)                (d)                  (e)
+                                                                           Net income             Net loss                    Unallowed loss           Gain                 Loss
+Name of activity                                                            (line 1a)            (line 1b)                       (line 1c)
+
+
+
+
+Total. Enter on Part I, line 1a,
+line 1b, and line 1c . . . . . . . . . . . . . . . . . . ▶
+Part V Complete this part before Part I, line 2a, line 2b, and line 2c.
+                                                                                     Current year                               Prior year                Overall gain or loss
+                                                                                (a)                  (b)                             (c)                (d)                  (e)
+                                                                           Net income             Net loss                    Unallowed loss           Gain                 Loss
+Name of activity                                                            (line 2a)            (line 2b)                       (line 2c)
+
+
+
+
+Total. Enter on Part I, line 2a,
+line 2b, and line 2c . . . . . . . . . . . . . . . . . . ▶
+Part VI Use this part if an amount is shown on Part II, line 9.
+                                                                       Form or schedule                              (a)           (b)                 (c)               (d)
+                                                                       to be reported on                            Loss          Ratio        Special allowance Subtract column (c)
+Name of activity                                                                                                                                                  from column (a)
+
+
+
+
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ▶                                 1.00
+Part VII Allocation of Unallowed Losses
+                                                                                   Form or schedule                         (a)                 (b)                       (c)
+Name of activity                                                                   to be reported on                       Loss                Ratio                Unallowed loss
+
+
+
+
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ▶                               1.00
+Part VIII Allowed Losses
+                                                                                    Form or schedule                        (a)                  (b)                      (c)
+Name of activity                                                                    to be reported on                      Loss            Unallowed loss            Allowed loss
+
+
+
+
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ▶
+
+
+
+
+                                                                                                        7453253                                     FTB 3801 2025 Side 3
+Part IX Activities With Losses Reported on Two or More Different Forms or Schedules
+Name of activity                                       (a)                (b)                                (c)           (d)                (e)
+                                                                                                            Ratio    Unallowed loss      Allowed loss
+
+Form or schedule
+to be reported on:
+
+1a   Net loss plus prior year unallowed
+     loss from form or schedule. . . . . . . . . . . . . . . . .▶
+
+ b   Net income from
+     form or schedule. . . . . . . . . . . . . . . . . . . . . . . . .▶
+
+ c   Subtract line 1b
+     from line 1a. If zero
+     or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ▶
+Form or schedule
+to be reported on:
+
+1a   Net loss plus prior year unallowed
+     loss from form or schedule. . . . . . . . . . . . . . . . .▶
+
+ b   Net income from
+     form or schedule. . . . . . . . . . . . . . . . . . . . . . . . .▶
+
+ c   Subtract line 1b
+     from line 1a. If zero
+     or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ▶
+Form or schedule
+to be reported on:
+
+1a   Net loss plus prior year unallowed
+     loss from form or schedule. . . . . . . . . . . . . . . . .▶
+
+ b   Net income from
+     form or schedule. . . . . . . . . . . . . . . . . . . . . . . . .▶
+
+ c   Subtract line 1b
+     from line 1a. If zero
+     or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ▶
+
+
+
+ Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ▶ 1.00
+Part IV through Part IX are not required to be filed with your California tax return and may be detached before filing form FTB 3801. Keep a copy for your
+records.
+
+
+
+
+         Side 4 FTB 3801 2025                                                                   7454253
+

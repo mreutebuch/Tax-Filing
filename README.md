@@ -12,9 +12,9 @@
 
 A set of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills that turn tax filing from a solo ordeal into a structured conversation. You provide your tax documents. Claude extracts every value, generates line-by-line cheat sheets as you fill each form, audits your completed return for errors before you file, and models what-if scenarios for next year.
 
-Built for **tax year 2025**, covering U.S. federal (Form 1040) only. State and local tax calculation has been removed from this fork.
+Built for **tax year 2025**, covering U.S. federal (Form 1040) and California (Form 540NR with Schedule CA (540NR), including part-year residents). Other states are not covered.
 
-> **Scope:** Federal (Form 1040) only. Optimized for filers with W-2 wages, investment income, small self-employment (Schedule C), mortgage interest, and student loans. Does not currently cover rental income (Schedule E), foreign income, farm income (Schedule F), or complex credits (Child Tax Credit, Education Credits, EIC) — but the architecture is designed to be extended. See [reference/HOW-TO-CURATE.md](reference/HOW-TO-CURATE.md) for how to add coverage.
+> **Scope:** Federal (Form 1040) and California (Form 540 as the full-year subset of Form 540NR). California itemized deductions, AMT and other-state support are not covered. Optimized for filers with W-2 wages, investment income, small self-employment (Schedule C), mortgage interest, and student loans. Does not currently cover rental income (Schedule E), foreign income, farm income (Schedule F), or complex credits (Child Tax Credit, Education Credits, EIC) — but the architecture is designed to be extended. See [reference/HOW-TO-CURATE.md](reference/HOW-TO-CURATE.md) for how to add coverage.
 
 **This is not a tax preparation app.** It's a workflow — a set of skills that make Claude Code behave like a methodical, citation-obsessed tax assistant that never does mental math.
 
@@ -106,6 +106,8 @@ Output forms always leave SSN, bank routing, account numbers, and signature fiel
 | `cross_check.py` | /tax-audit | 8 cross-checks: income match, AGI math, withholding, brackets |
 | `completeness_check.py` | /tax-audit | Document coverage, required forms, orphaned documents |
 | `what_if.py` | /tax-advisor | 11 tax-saving scenarios with federal impact |
+| `ca_540nr.py` | /tax-cheatsheet | California Form 540NR / Schedule CA (540NR) calculation |
+| `ca_cross_check.py` | /tax-audit | Independent California recomputation and comparison |
 
 All scripts accept a JSON string as a CLI argument and print JSON to stdout. They use Python's `Decimal` type — no floating-point rounding errors on your tax return.
 
@@ -131,6 +133,7 @@ Each curated file covers one topic (e.g., SALT deduction, mortgage interest, Sch
 |------|-------|
 | `1040-line-by-line.md` | Form 1040 line-by-line reference |
 | `2025-tax-numbers.md` | Federal brackets, deductions, thresholds |
+| `ca/*.md` | California 2025 numbers, residency, Form 540NR, Schedule CA (540NR), credits and withholding, retirement distributions, rental depreciation and passive losses, part-year capital gains, filing deadlines. The FTB source text (`*.txt`, HTML) is tracked next to them; PDFs are not. |
 | `additional-medicare-tax.md` | Form 8959 (0.9% Additional Medicare Tax) |
 | `investment-income.md` | Schedule B, Schedule D, qualified dividends, capital gains |
 | `mortgage-interest.md` | Mortgage interest deduction (Pub 936) |

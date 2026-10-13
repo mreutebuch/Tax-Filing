@@ -1,6 +1,6 @@
 {
   "name": "tax-filing",
-  "version": "0.1.0",
-  "description": "Federal (Form 1040) tax-year-2025 filing skills: document extraction, form cheat sheets, pre-filing audit, and what-if planning. State tax calculation removed.",
+  "version": "0.2.0",
+  "description": "Federal (Form 1040) and California (Form 540NR / Schedule CA (540NR)) tax-year-2025 filing skills: document extraction, form cheat sheets, pre-filing audit, and what-if planning.",
   "license": "MIT"
 }
