@@ -128,12 +128,12 @@ Each phase is committed separately.
 - Other states.
 - 2026 California estimated-tax calculation.
 
-## Open questions
+## Resolved questions
 
-- Part-year California tax rate method and Schedule CA (540NR) column
-  definitions: confirm from the 2025 FTB booklets during phase 1.
-- Whether California conforms to the federal special depreciation allowance
-  for the rental property: confirm from FTB sources in phase 1.
-- Whether the residency start date for the part-year spouse needs more than a
-  single date (for example, income earned before and after the move): confirm
-  from FTB Publication 1031.
+Resolved in phase 1 from the 2025 FTB booklets and publications.
+
+- **Part-year tax rate method and column definitions.** Confirmed as designed: tax on total taxable income (Form 540NR line 19) divided by line 19 gives the California tax rate (line 36, four decimals), applied to California taxable income (line 35). Columns A-D are federal, subtractions, additions and total as if a full-year resident; column E is California amounts; Part IV prorates the deduction by column E / column D. See `reference/curated/ca/ca-form-540nr-line-by-line.md` and `ca-schedule-ca-540nr.md`.
+- **Rental depreciation conformity.** California does not conform to federal bonus (IRC 168(k)) depreciation, including the OBBBA 100% allowance. The adjustment is computed on form FTB 3885A, which the plugin takes as an input. See `reference/curated/ca/ca-schedule-ca-540nr.md`.
+- **Is one residency date enough?** No. A start date splits wages, but each income line needs separate resident-period and California-source nonresident-period amounts (Part-Year Resident Worksheet), and rental or pass-through income is allocated by realization date or daily pro-rata. Community-property effects of the move remain unverifiable from the provided materials and are flagged. See `reference/curated/ca/ca-residency-part-year.md`.
+
+No FTB source contradicts the design.

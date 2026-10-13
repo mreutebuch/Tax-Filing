@@ -1,0 +1,3 @@
+Title: FTB Publication 1031 (2025), Guidelines for Determining Resident Status
+URL: https://www.ftb.ca.gov/forms/2025/2025-1031-publication.pdf
+Local copy: p1031.pdf (gitignored; download it from the URL above and save it in this folder)

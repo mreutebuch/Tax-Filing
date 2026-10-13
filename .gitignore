@@ -28,3 +28,8 @@ Desktop.ini
 
 # IRS forms/instructions/publications as PDFs (freely downloadable; see the matching *.source.txt for title and URL)
 reference/curated/*.pdf
+
+# FTB forms/instructions/publications as PDFs (freely downloadable; see the matching *.source.txt)
+reference/curated/ca/*.pdf
+reference/curated/ca/*.txt
+!reference/curated/ca/*.source.txt
