@@ -39,6 +39,11 @@
 - In general California does not conform to the One Big Beautiful Bill Act. Specific adjustments exist; check each Schedule CA (540NR) line instruction (the increased SALT cap is relevant only when itemizing; see Out of Scope in the design spec). [Schedule CA (540NR) Instructions, General Information]
 - Federal deductions and exclusions created by the OBBBA that appear as federal return lines (such as Schedule 1-A items) have no California equivalent unless a Schedule CA (540NR) line says so: I cannot verify this from provided FTB materials — check ftb.ca.gov.
 
+### Student Loan Interest and Tips
+- California law conforms to federal law on the student loan interest deduction (Schedule CA (540NR) line 21), except for non-California-domiciled military taxpayers, who use the Student Loan Interest Deduction Worksheet. [Schedule CA (540NR) Instructions, Line 21]
+- Wages, salaries, tips and other compensation received while a California resident go in column E on the applicable line; for the nonresident period, only compensation for services performed in California. [Schedule CA (540NR) Instructions, Part-Year Resident Worksheet, California resident amounts and California nonresident amounts]
+- Treatment of tip income reported separately from W-2 box 1 (for example unreported tips, or federal deductions for tips created by the OBBBA): I cannot verify this from provided FTB materials — check ftb.ca.gov.
+
 ### Column E Items Used Here
 - Wages: resident-period wages plus wages for services performed in California while a nonresident. [FTB Pub. 1031 (2025), Wages and Salaries]
 - Rental, interest, dividends, gains: see ca-residency-part-year.md.
